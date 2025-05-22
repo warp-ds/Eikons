@@ -1,0 +1,1814 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-03-25 11:21+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: da\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. Title for bank icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:280
+msgid "icon.title.bank"
+msgstr "En bank med tre kolonner"
+
+#. Title for car left icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:247
+msgid "icon.title.car-left"
+msgstr "En bil som vender mod venstre"
+
+#. Title for car right icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:244
+msgid "icon.title.car-right"
+msgstr "En bil som vender mod højre"
+
+#. Title for shoes icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:66
+msgid "icon.title.shoes"
+msgstr "Et par sko"
+
+#. Title for plane land icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:103
+msgid "icon.title.plane-land"
+msgstr "Et fly som lander"
+
+#. Title for plane take-off icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:102
+msgid "icon.title.plane-take-off"
+msgstr "Et fly som letter"
+
+#. Title for agriculture machine icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:300
+msgid "icon.title.agriculture-machine"
+msgstr "Landbrugsmaskine"
+
+#. Title for airplane icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:298
+msgid "icon.title.airplane"
+msgstr "Flyvemaskine"
+
+#. Title for all wheel drive icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:295
+msgid "icon.title.all-wheel-drive"
+msgstr "Firhjulstræk"
+
+#. Title for building icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:264
+msgid "icon.title.building"
+msgstr "Lejlighedsbygning"
+
+#. Title for archway icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:293
+msgid "icon.title.archway"
+msgstr "Buegang"
+
+#. Title for download icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:205
+msgid "icon.title.download"
+msgstr "Pil som peger nedad"
+
+#. Title for product top icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:89
+msgid "icon.title.product-top"
+msgstr "Pil peger på et billede med tekst under"
+
+#. Title for expand icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:194
+msgid "icon.title.expand"
+msgstr "Pile der peger udad"
+
+#. Title for automatic icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:287
+msgid "icon.title.automatic"
+msgstr "Automatgear"
+
+#. Title for AutovexDark icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:286
+msgid "icon.title.autovexdark"
+msgstr "Autovex mørkt ikon"
+
+#. Title for AutovexLight icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:285
+msgid "icon.title.autovexlight"
+msgstr "Autovex lyst ikon"
+
+#. Title for award medal icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:284
+msgid "icon.title.award-medal"
+msgstr "Medaljeikon"
+
+#. Title for baby onesie icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:283
+msgid "icon.title.baby-onesie"
+msgstr "Heldragt til en baby"
+
+#. Title for Norwegian BankID icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:279
+msgid "icon.title.bank-id-no"
+msgstr "MitID logo"
+
+#. Title for economy icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:201
+msgid "icon.title.economy"
+msgstr "Seddel og to mønter"
+
+#. Title for farm icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:190
+msgid "icon.title.farm"
+msgstr "Lade med silo og fugle"
+
+#. Title for beach icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:275
+msgid "icon.title.beach"
+msgstr "Strandparasol"
+
+#. Title for house bed icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:163
+msgid "icon.title.house-bed"
+msgstr "Seng med tag over"
+
+#. Title for bell filled icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:273
+msgid "icon.title.bell-filled"
+msgstr "Klokke"
+
+#. Title for bell icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:274
+msgid "icon.title.bell"
+msgstr "Klokke"
+
+#. Title for boat icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:270
+msgid "icon.title.boat"
+msgstr "Båd"
+
+#. Title for boat length icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:269
+msgid "icon.title.boat-length"
+msgstr "Båd med pile som peger i begge retninger"
+
+#. Title for bold text icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:35
+msgid "icon.title.text-bold"
+msgstr "Fed tekst"
+
+#. Title for bookmark icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:267
+msgid "icon.title.bookmark"
+msgstr "Bogmærke"
+
+#. Title for browser icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:266
+msgid "icon.title.browser"
+msgstr "Browservindue med en t-shirt og en fremhævet musemarkøren"
+
+#. Title for browser verified icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:265
+msgid "icon.title.browser-verified"
+msgstr "Browser med fremhævet skjold i nederste højre hjørne"
+
+#. Title for bulldozer icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:261
+msgid "icon.title.bulldozer"
+msgstr "Bulldozer"
+
+#. Title for bus icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:259
+msgid "icon.title.bus"
+msgstr "Bus"
+
+#. Title for house cabin icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:162
+msgid "icon.title.house-cabin"
+msgstr "Hytte"
+
+#. Title for cabin hut icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:257
+msgid "icon.title.cabin-hut"
+msgstr "Hytte med have"
+
+#. Title for calculator icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:256
+msgid "icon.title.calculator"
+msgstr "Lommeregner"
+
+#. Title for calendar icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:255
+msgid "icon.title.calendar"
+msgstr "Kalender"
+
+#. Title for camera icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:254
+msgid "icon.title.camera"
+msgstr "Kamera"
+
+#. Title for camping icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:253
+msgid "icon.title.camping"
+msgstr "Autocamper"
+
+#. Title for van icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:14
+msgid "icon.title.van"
+msgstr "Autocamper"
+
+#. Title for car icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:251
+msgid "icon.title.car"
+msgstr "Bil"
+
+#. Title for car subscription icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:242
+msgid "icon.title.car-subscription"
+msgstr "Bil og tjekliste"
+
+#. Title for car rent icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:245
+msgid "icon.title.car-rent"
+msgstr "Bil og ur"
+
+#. Title for car service icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:243
+msgid "icon.title.car-service"
+msgstr "Bil og stjerne"
+
+#. Title for car engine icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:250
+msgid "icon.title.car-engine"
+msgstr "Bilmotor"
+
+#. Title for car front icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:249
+msgid "icon.title.car-front"
+msgstr "Bil set forfra"
+
+#. Title for car key icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:248
+msgid "icon.title.car-key"
+msgstr "Bilnøgle"
+
+#. Title for CarPart icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:246
+msgid "icon.title.carpart"
+msgstr "Bildel"
+
+#. Title for paw icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:111
+msgid "icon.title.paw"
+msgstr "Kattepote"
+
+#. Title for link icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:143
+msgid "icon.title.link"
+msgstr "Led på en kæde"
+
+#. Title for chainsaw icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:240
+msgid "icon.title.chainsaw"
+msgstr "Kædesav"
+
+#. Title for Chair icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:239
+msgid "icon.title.chair"
+msgstr "Stol"
+
+#. Title for grill icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:174
+msgid "icon.title.grill"
+msgstr "Kulgrill"
+
+#. Title for charger icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:238
+msgid "icon.title.charger"
+msgstr "Oplader"
+
+#. Title for message icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:133
+msgid "icon.title.message"
+msgstr "Chatboble"
+
+#. Title for checklist icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:232
+msgid "icon.title.checklist"
+msgstr "Tjekliste"
+
+#. Title for check icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:234
+msgid "icon.title.check"
+msgstr "Flueben"
+
+#. Title for cancel icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:252
+msgid "icon.title.cancel"
+msgstr "Cirkel med diagonal linje"
+
+#. Title for gas hybrid icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:179
+msgid "icon.title.gas-hybrid"
+msgstr "Cirkel med et stik og en dråbe"
+
+#. Title for success icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:42
+msgid "icon.title.success"
+msgstr "Cirkel med et flueben"
+
+#. Title for alert icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:296
+msgid "icon.title.alert"
+msgstr "Cirkel med udråbstegn"
+
+#. Title for krone icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:151
+msgid "icon.title.krone"
+msgstr "Cirkel med KR"
+
+#. Title for Norwegian Motor icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:118
+msgid "icon.title.norwegian-motor"
+msgstr "Cirkel med NBF"
+
+#. Title for circle-plus icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:225
+msgid "icon.title.circle-plus"
+msgstr "Cirkel med plustegn"
+
+#. Title for circle-user icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:223
+msgid "icon.title.circle-user"
+msgstr "Cirkel med brugerprofil"
+
+#. Title for refresh icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:85
+msgid "icon.title.refresh"
+msgstr "Cirkulær pil"
+
+#. Title for playhouse icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:99
+msgid "icon.title.playhouse"
+msgstr "Klatrestativ"
+
+#. Title for clock icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:221
+msgid "icon.title.clock"
+msgstr "Ur"
+
+#. Title for history icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:168
+msgid "icon.title.history"
+msgstr "Ur hvor viseren går mod uret"
+
+#. Title for eye-off icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:193
+msgid "icon.title.eye-off"
+msgstr "Lukket øje"
+
+#. Title for drink icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:202
+msgid "icon.title.drink"
+msgstr "Cocktailglas"
+
+#. Title for color palette icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:218
+msgid "icon.title.color-palette"
+msgstr "Farvepalet"
+
+#. Title for theater icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:31
+msgid "icon.title.theater"
+msgstr "Maske med en smiley"
+
+#. Title for credit card icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:216
+msgid "icon.title.credit-card"
+msgstr "Kreditkort"
+
+#. Title for close icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:220
+msgid "icon.title.close"
+msgstr "Kryds"
+
+#. Title for support icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:40
+msgid "icon.title.support"
+msgstr "Kundeservice headset"
+
+#. Title for gas diesel icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:181
+msgid "icon.title.gas-diesel"
+msgstr "Dieselpumpe"
+
+#. Title for job icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:153
+msgid "icon.title.job"
+msgstr "Dokumentmappe"
+
+#. Title for animal paw icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:294
+msgid "icon.title.animal-paw"
+msgstr "Hundepote"
+
+#. Title for door icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:209
+msgid "icon.title.door"
+msgstr "Dør"
+
+#. Title for cottage plot icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:217
+msgid "icon.title.cottage-plot"
+msgstr "Stiplet firkant med et fremhævet hus"
+
+#. Title for building plot icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:263
+msgid "icon.title.building-plot"
+msgstr "Stiplet firkant med et fremhævet hus"
+
+#. Title for plots icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:98
+msgid "icon.title.plots"
+msgstr "Stiplet firkant med en fremhævet mindre firkant"
+
+#. Title for measure icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:134
+msgid "icon.title.measure"
+msgstr "Stiplet firkant med målepile"
+
+#. Title for double bed icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:206
+msgid "icon.title.double-bed"
+msgstr "Dobbeltseng"
+
+#. Title for chevron-double-left icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:231
+msgid "icon.title.chevron-double-left"
+msgstr "Dobbelt venstrepil"
+
+#. Title for chevron-double-right icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:230
+msgid "icon.title.chevron-double-right"
+msgstr "Dobbelt højre pil"
+
+#. Title for chevron-down icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:229
+msgid "icon.title.chevron-down"
+msgstr "Pil nedad"
+
+#. Title for arrow down icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:292
+msgid "icon.title.arrow-down"
+msgstr "Pil nedad"
+
+#. Title for drawer icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:203
+msgid "icon.title.drawer"
+msgstr "Skuffe"
+
+#. Title for fitness icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:184
+msgid "icon.title.fitness"
+msgstr "Håndvægt"
+
+#. Title for lift icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:145
+msgid "icon.title.lift"
+msgstr "Elevator"
+
+#. Title for battery empty icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:278
+msgid "icon.title.battery-empty"
+msgstr "Tomt batteri"
+
+#. Title for star empty icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:49
+msgid "icon.title.star-empty"
+msgstr "Tom stjerne"
+
+#. Title for engine icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:198
+msgid "icon.title.engine"
+msgstr "Motor"
+
+#. Title for mail icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:138
+msgid "icon.title.mail"
+msgstr "Kuvert med brev"
+
+#. Title for logout icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:139
+msgid "icon.title.logout"
+msgstr "Udgangsdør"
+
+#. Title for Facebook icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:191
+msgid "icon.title.facebook"
+msgstr "Facebook-logo"
+
+#. Title for engine belt icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:197
+msgid "icon.title.engine-belt"
+msgstr "Ventilatorbånd"
+
+#. Title for file add icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:188
+msgid "icon.title.file-add"
+msgstr "Filmappe"
+
+#. Title for fireplace icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:186
+msgid "icon.title.fireplace"
+msgstr "Pejs"
+
+#. Title for fishing icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:185
+msgid "icon.title.fishing"
+msgstr "Fiskekrog"
+
+#. Title for TV icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:23
+msgid "icon.title.tv"
+msgstr "Fladskærms-TV"
+
+#. Title for airplane hotel icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:297
+msgid "icon.title.airplane-hotel"
+msgstr "Fly og hotel"
+
+#. Title for lamp icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:150
+msgid "icon.title.lamp"
+msgstr "Gulvlampe"
+
+#. Title for mixer icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:126
+msgid "icon.title.mixer"
+msgstr "Køkkenmaskine"
+
+#. Title for football icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:183
+msgid "icon.title.football"
+msgstr "Fodbold"
+
+#. Title for hiking icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:169
+msgid "icon.title.hiking"
+msgstr "Skovsti"
+
+#. Title for front-wheel drive icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:182
+msgid "icon.title.front-wheel-drive"
+msgstr "Forhjulstræk"
+
+#. Title for battery full icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:277
+msgid "icon.title.battery-full"
+msgstr "Fuldt batteri"
+
+#. Title for star full icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:48
+msgid "icon.title.star-full"
+msgstr "Hel stjerne"
+
+#. Title for filter icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:187
+msgid "icon.title.filter"
+msgstr "Tragt"
+
+#. Title for gas fuel icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:180
+msgid "icon.title.gas-fuel"
+msgstr "Gaspumpe"
+
+#. Title for cog icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:219
+msgid "icon.title.cog"
+msgstr "Tandhjul"
+
+#. Title for room service icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:81
+msgid "icon.title.room-service"
+msgstr "Behandsket hånd og serveringsbakke med klokkelåg"
+
+#. Title for smiley good icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:60
+msgid "icon.title.smiley-good"
+msgstr "Glad smiley"
+
+#. Title for grid icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:175
+msgid "icon.title.grid"
+msgstr "Gitter af felter"
+
+#. Title for users icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:16
+msgid "icon.title.users"
+msgstr "Gruppe af brugere"
+
+#. Title for GuitarBat icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:173
+msgid "icon.title.guitarbat"
+msgstr "Guitar med et bat"
+
+#. Title for star half icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:47
+msgid "icon.title.star-half"
+msgstr "Halvfyldt stjerne"
+
+#. Title for battery half full icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:276
+msgid "icon.title.battery-half-full"
+msgstr "Halvfuldt batteri"
+
+#. Title for delivery icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:213
+msgid "icon.title.delivery"
+msgstr "Hånd med en lille boks"
+
+#. Title for plane ticket icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:101
+msgid "icon.title.plane-ticket"
+msgstr "Hånd med flybillet"
+
+#. Title for bag icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:281
+msgid "icon.title.bag"
+msgstr "Håndtaske"
+
+#. Title for smiley happy icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:59
+msgid "icon.title.smiley-happy"
+msgstr "Glad ansigt"
+
+#. Title for headset icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:172
+msgid "icon.title.headset"
+msgstr "Hovedtelefoner"
+
+#. Title for heart icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:171
+msgid "icon.title.heart"
+msgstr "Hjerte"
+
+#. Title for heart rate icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:170
+msgid "icon.title.heart-rate"
+msgstr "Hjerte med pulsindikator"
+
+#. Title for product carousel icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:94
+msgid "icon.title.product-carousel"
+msgstr "Fremhævet lodret rektangel med to rektangler i baggrunden"
+
+#. Title for HonkLight icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:166
+msgid "icon.title.honklight"
+msgstr "Honk lyst ikon"
+
+#. Title for HonkDark icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:167
+msgid "icon.title.honkdark"
+msgstr "Honk mørkt ikon"
+
+#. Title for hotel icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:165
+msgid "icon.title.hotel"
+msgstr "Hotelbygning"
+
+#. Title for house filled icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:161
+msgid "icon.title.house-filled"
+msgstr "Hus"
+
+#. Title for house icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:164
+msgid "icon.title.house"
+msgstr "Hus"
+
+#. Title for real estate icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:86
+msgid "icon.title.real-estate"
+msgstr "Hus med en have"
+
+#. Title for product nabolagsprofil icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:92
+msgid "icon.title.product-nabolagsprofil"
+msgstr "Hus med en fremhævet kortnål"
+
+#. Title for house person icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:159
+msgid "icon.title.house-person"
+msgstr "Hus med en person"
+
+#. Title for sauna icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:76
+msgid "icon.title.sauna"
+msgstr "Hus med hedebølger"
+
+#. Title for IceSkater icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:158
+msgid "icon.title.iceskater"
+msgstr "Skøjteløber"
+
+#. Title for image icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:157
+msgid "icon.title.image"
+msgstr "Billede"
+
+#. Title for product bump icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:95
+msgid "icon.title.product-bump"
+msgstr "Billede med tekst markeret af en opadgående pil"
+
+#. Title for info icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:156
+msgid "icon.title.info"
+msgstr "Informationscirkel"
+
+#. Title for Instagram icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:155
+msgid "icon.title.instagram"
+msgstr "Instagram-logo"
+
+#. Title for italic text icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:34
+msgid "icon.title.text-italic"
+msgstr "Kursiv tekst"
+
+#. Title for jet ski icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:154
+msgid "icon.title.jet-ski"
+msgstr "Jetski"
+
+#. Title for diner icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:212
+msgid "icon.title.diner"
+msgstr "Kniv og gaffel"
+
+#. Title for leaf icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:146
+msgid "icon.title.leaf"
+msgstr "Blad"
+
+#. Title for chevron-left icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:228
+msgid "icon.title.chevron-left"
+msgstr "Pil til venstre"
+
+#. Title for table arrow left icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:291
+msgid "icon.title.arrow-left"
+msgstr "Pil til venstre"
+
+#. Title for bulb icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:262
+msgid "icon.title.bulb"
+msgstr "Lyspære"
+
+#. Title for energy icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:199
+msgid "icon.title.energy"
+msgstr "Lyn"
+
+#. Title for bolt icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:268
+msgid "icon.title.bolt"
+msgstr "Lyn"
+
+#. Title for graph line icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:177
+msgid "icon.title.graph-line"
+msgstr "Linjediagram"
+
+#. Title for task list icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:36
+msgid "icon.title.task-list"
+msgstr "Liste med flueben"
+
+#. Title for product no ads icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:91
+msgid "icon.title.product-no-ads"
+msgstr "Højttaler"
+
+#. Title for search icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:74
+msgid "icon.title.search"
+msgstr "Forstørrelsesglas"
+
+#. Title for search favorites icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:73
+msgid "icon.title.search-favorites"
+msgstr "Forstørrelsesglas med hjerte"
+
+#. Title for mailbox icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:137
+msgid "icon.title.mailbox"
+msgstr "Postkasse med et flag, der angiver ny e-mail"
+
+#. Title for manual icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:136
+msgid "icon.title.manual"
+msgstr "Manuel gearkasse"
+
+#. Title for map icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:135
+msgid "icon.title.map"
+msgstr "Kort"
+
+#. Title for pin marker icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:105
+msgid "icon.title.pin-marker"
+msgstr "Kortnål"
+
+#. Title for pin round icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:104
+msgid "icon.title.pin-round"
+msgstr "Kortnål med skygge under"
+
+#. Title for messages filled icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:131
+msgid "icon.title.messages-filled"
+msgstr "Besked med et smilende ansigt"
+
+#. Title for minivan icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:130
+msgid "icon.title.minivan"
+msgstr "Minibus"
+
+#. Title for minus icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:129
+msgid "icon.title.minus"
+msgstr "Minus"
+
+#. Title for MittAnbudLight icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:127
+msgid "icon.title.mittanbudlight"
+msgstr "MittAnbud lyst ikon"
+
+#. Title for MittAnbudDark icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:128
+msgid "icon.title.mittanbuddark"
+msgstr "MittAnbud mørkt ikon"
+
+#. Title for house modern icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:160
+msgid "icon.title.house-modern"
+msgstr "Moderne hus"
+
+#. Title for motorcycle icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:124
+msgid "icon.title.motorcycle"
+msgstr "Motorcykel"
+
+#. Title for mountain icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:123
+msgid "icon.title.mountain"
+msgstr "Bjerg"
+
+#. Title for cursor icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:215
+msgid "icon.title.cursor"
+msgstr "Musemarkøren over en cirkel"
+
+#. Title for NettbilLight icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:121
+msgid "icon.title.nettbillight"
+msgstr "Nettbil"
+
+#. Title for NettbilDark icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:122
+msgid "icon.title.nettbildark"
+msgstr "Nettbil"
+
+#. Title for smiley neutral icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:58
+msgid "icon.title.smiley-neutral"
+msgstr "Neutralt ansigt"
+
+#. Title for error icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:196
+msgid "icon.title.error"
+msgstr "Ottekant med et udråbstegn"
+
+#. Title for office desk icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:117
+msgid "icon.title.office-desk"
+msgstr "Skrivebord med en computerskærm"
+
+#. Title for OikotieLight icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:115
+msgid "icon.title.oikotielight"
+msgstr "Oikotie lyst ikon"
+
+#. Title for OikotieDark icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:116
+msgid "icon.title.oikotiedark"
+msgstr "Oikotie mørkt ikon"
+
+#. Title for eye-on icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:192
+msgid "icon.title.eye-on"
+msgstr "Åbent øje"
+
+#. Title for no smoking icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:119
+msgid "icon.title.no-smoking"
+msgstr "Overstreget cigaret"
+
+#. Title for paint roller icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:113
+msgid "icon.title.paint-roller"
+msgstr "Malerulle som maler"
+
+#. Title for send icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:71
+msgid "icon.title.send"
+msgstr "Papirfly"
+
+#. Title for attachment icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:288
+msgid "icon.title.attachment"
+msgstr "Papirklip"
+
+#. Title for parking icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:112
+msgid "icon.title.parking"
+msgstr "Parkeringsskilt"
+
+#. Title for edit icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:200
+msgid "icon.title.edit"
+msgstr "Blyant"
+
+#. Title for discount icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:211
+msgid "icon.title.discount"
+msgstr "Procenttegn"
+
+#. Title for circle user filled icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:222
+msgid "icon.title.circle-user-filled"
+msgstr "Person i en cirkel"
+
+#. Title for block icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:271
+msgid "icon.title.block"
+msgstr "Person med fremhævet \"adgang forbudt\"-skilt"
+
+#. Title for picture stack icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:106
+msgid "icon.title.picture-stack"
+msgstr "Bunke med billeder"
+
+#. Title for graph pie icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:176
+msgid "icon.title.graph-pie"
+msgstr "Cirkeldiagram"
+
+#. Title for play icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:100
+msgid "icon.title.play"
+msgstr "Afspilningsknap"
+
+#. Title for plus icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:97
+msgid "icon.title.plus"
+msgstr "Plustegn"
+
+#. Title for circle plus filled icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:224
+msgid "icon.title.circle-plus-filled"
+msgstr "Plustegn inde i en cirkel"
+
+#. Title for question icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:87
+msgid "icon.title.question"
+msgstr "Spørgsmålstegn"
+
+#. Title for back wheel drive icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:282
+msgid "icon.title.back-wheel-drive"
+msgstr "Baghjulstræk"
+
+#. Title for GeometricShapes icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:178
+msgid "icon.title.geometric-shapes"
+msgstr "Rektangel, ellipse, diamant og trekant former"
+
+#. Title for RemppatoriLight icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:83
+msgid "icon.title.remppatorilight"
+msgstr "Remppatori lyst ikon"
+
+#. Title for RemppatoriDark icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:84
+msgid "icon.title.remppatoridark"
+msgstr "Remppatori mørkt ikon"
+
+#. Title for warranty icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:9
+msgid "icon.title.warranty"
+msgstr "Bånd med flueben"
+
+#. Title for Three Sixty icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:30
+msgid "icon.title.three-sixty"
+msgstr "Højrepegende roterende pil med et hus"
+
+#. Title for chevron-right icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:227
+msgid "icon.title.chevron-right"
+msgstr "Pil til højre"
+
+#. Title for table arrow right icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:290
+msgid "icon.title.arrow-right"
+msgstr "Pil til højre"
+
+#. Title for road icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:82
+msgid "icon.title.road"
+msgstr "Vej"
+
+#. Title for product blink icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:96
+msgid "icon.title.product-blink"
+msgstr "Raket"
+
+#. Title for service icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:70
+msgid "icon.title.service"
+msgstr "Roterende pil med skruenøgle"
+
+#. Title for rowing boat icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:80
+msgid "icon.title.rowing-boat"
+msgstr "Robåd"
+
+#. Title for ruler icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:79
+msgid "icon.title.ruler"
+msgstr "Lineal"
+
+#. Title for shower icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:64
+msgid "icon.title.shower"
+msgstr "Brusehoved som er tændt"
+
+#. Title for smiley sad icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:57
+msgid "icon.title.smiley-sad"
+msgstr "Trist ansigt"
+
+#. Title for sailing icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:77
+msgid "icon.title.sailing"
+msgstr "Sejlbåd på vand"
+
+#. Title for seat icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:72
+msgid "icon.title.seat"
+msgstr "Sæde"
+
+#. Title for share icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:69
+msgid "icon.title.share"
+msgstr "Dele-ikon"
+
+#. Title for ads icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:301
+msgid "icon.title.ads"
+msgstr "Ark med billede og overskrift"
+
+#. Title for active ads icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:302
+msgid "icon.title.active-ads"
+msgstr "Ark med billede og overskrift med fremhævet flueben"
+
+#. Title for new ad icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:120
+msgid "icon.title.new-ad"
+msgstr "Ark med billede, overskrift og fremhævet plustegn"
+
+#. Title for verification icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:12
+msgid "icon.title.verification"
+msgstr "Skjold med flueben"
+
+#. Title for check shield icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:233
+msgid "icon.title.check-shield"
+msgstr "Skjold med et flueben"
+
+#. Title for lock shield icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:140
+msgid "icon.title.lock-shield"
+msgstr "Skjold med hængelås"
+
+#. Title for Shirt icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:67
+msgid "icon.title.shirt"
+msgstr "Skjorte"
+
+#. Title for shopping cart icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:65
+msgid "icon.title.shopping-cart"
+msgstr "Indkøbsvogn"
+
+#. Title for cart icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:241
+msgid "icon.title.cart"
+msgstr "Indkøbsvogn"
+
+#. Title for single cylinder icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:63
+msgid "icon.title.single-cylinder"
+msgstr "Enkelt cylinder"
+
+#. Title for drag dots icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:204
+msgid "icon.title.drag-dots"
+msgstr "Seks prikker samlet sammen"
+
+#. Title for air con icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:299
+msgid "icon.title.air-con"
+msgstr "Lille luftkøler"
+
+#. Title for smartphone icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:61
+msgid "icon.title.smartphone"
+msgstr "Smartphone"
+
+#. Title for phone icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:110
+msgid "icon.title.phone"
+msgstr "Smartphone"
+
+#. Title for phone badge check icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:109
+msgid "icon.title.phone-badge-check"
+msgstr "Smartphone og et badge med et flueben"
+
+#. Title for phone used icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:107
+msgid "icon.title.phone-used"
+msgstr "Smartphone med tre ridser på skærmen"
+
+#. Title for phone scratched icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:108
+msgid "icon.title.phone-scratched"
+msgstr "Smartphone med tre ridser på skærmen"
+
+#. Title for sofa icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:56
+msgid "icon.title.sofa"
+msgstr "Sofa"
+
+#. Title for sorting icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:55
+msgid "icon.title.sorting"
+msgstr "Sorteringspile"
+
+#. Title for sparkles icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:53
+msgid "icon.title.sparkles"
+msgstr "Glimt"
+
+#. Title for chat request icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:236
+msgid "icon.title.chat-request"
+msgstr "Taleboble ved siden af en person"
+
+#. Title for messages icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:132
+msgid "icon.title.messages"
+msgstr "Talebobler"
+
+#. Title for feedback icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:189
+msgid "icon.title.feedback"
+msgstr "Talebobler"
+
+#. Title for chat support icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:235
+msgid "icon.title.chat-support"
+msgstr "Talebobler med smilende ansigter"
+
+#. Title for speedometer icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:52
+msgid "icon.title.speedometer"
+msgstr "Speedometer"
+
+#. Title for propeller icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:88
+msgid "icon.title.propeller"
+msgstr "Spinnende propel"
+
+#. Title for link external icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:142
+msgid "icon.title.link-external"
+msgstr "Firkant med en pil opad til højre"
+
+#. Title for up icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:21
+msgid "icon.title.up"
+msgstr "Firkant med pil der peger op"
+
+#. Title for money icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:125
+msgid "icon.title.money"
+msgstr "Et bundt pengesedler"
+
+#. Title for stairs icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:51
+msgid "icon.title.stairs"
+msgstr "Trapper med diagonal pil opad"
+
+#. Title for star-check icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:50
+msgid "icon.title.star-check"
+msgstr "Stjerne med fremhævet flueben"
+
+#. Title for StoreFront icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:45
+msgid "icon.title.storefront"
+msgstr "Butiksfacade"
+
+#. Title for store icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:46
+msgid "icon.title.store"
+msgstr "Butiksfacade"
+
+#. Title for stove icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:44
+msgid "icon.title.stove"
+msgstr "Komfur"
+
+#. Title for strikethrough text icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:33
+msgid "icon.title.text-strikethrough"
+msgstr "Gennemstreget tekst"
+
+#. Title for Stroller icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:43
+msgid "icon.title.stroller"
+msgstr "Klapvogn"
+
+#. Title for suitcase icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:41
+msgid "icon.title.suitcase"
+msgstr "Kuffert"
+
+#. Title for charter icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:237
+msgid "icon.title.charter"
+msgstr "Kuffert"
+
+#. Title for landscape icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:149
+msgid "icon.title.landscape"
+msgstr "Sol og bjerge"
+
+#. Title for sweater icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:39
+msgid "icon.title.sweater"
+msgstr "Sweater"
+
+#. Title for swimming icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:38
+msgid "icon.title.swimming"
+msgstr "Svømmende person"
+
+#. Title for tag icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:37
+msgid "icon.title.tag"
+msgstr "Mærke"
+
+#. Title for product highlight listing icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:93
+msgid "icon.title.product-highlight-listing"
+msgstr "Tekst med fremhævet billede"
+
+#. Title for dots icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:208
+msgid "icon.title.dots"
+msgstr "Tre prikker"
+
+#. Title for burger icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:260
+msgid "icon.title.burger"
+msgstr "Tre vandrette linjer"
+
+#. Title for user group icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:18
+msgid "icon.title.user-group"
+msgstr "Tre mennesker"
+
+#. Title for layers icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:147
+msgid "icon.title.layers"
+msgstr "Tre overlappende firkanter"
+
+#. Title for product starred icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:90
+msgid "icon.title.product-starred"
+msgstr "Tre stjerner med tekst nedenfor"
+
+#. Title for dots vertical icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:207
+msgid "icon.title.dots-vertical"
+msgstr "Tre vertikale prikker"
+
+#. Title for dislike icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:210
+msgid "icon.title.dislike"
+msgstr "Nedadvendt tommelfinger"
+
+#. Title for like icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:144
+msgid "icon.title.like"
+msgstr "Tommel op-emoji"
+
+#. Title for tools icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:29
+msgid "icon.title.tools"
+msgstr "Værktøj"
+
+#. Title for tractor icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:27
+msgid "icon.title.tractor"
+msgstr "Traktor"
+
+#. Title for bin icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:272
+msgid "icon.title.bin"
+msgstr "Skraldespand"
+
+#. Title for shipping icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:68
+msgid "icon.title.shipping"
+msgstr "Lastbil i bevægelse"
+
+#. Title for Twitter icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:22
+msgid "icon.title.twitter"
+msgstr "Twitter-logo"
+
+#. Title for exchange icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:195
+msgid "icon.title.exchange"
+msgstr "To pile, der danner en cirkel"
+
+#. Title for sailboat icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:78
+msgid "icon.title.sailboat"
+msgstr "To fugle og en sejlbåd på vand"
+
+#. Title for dating icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:214
+msgid "icon.title.dating"
+msgstr "To hjerter"
+
+#. Title for organize icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:114
+msgid "icon.title.organize"
+msgstr "To vandrette linjer mellem to modsatte lodrette pile"
+
+#. Title for keys icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:152
+msgid "icon.title.keys"
+msgstr "To nøgler på en nøglering"
+
+#. Title for skyscraper icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:62
+msgid "icon.title.skyscraper"
+msgstr "To skyskrabere med en sky over"
+
+#. Title for woods icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:4
+msgid "icon.title.woods"
+msgstr "To grantræer"
+
+#. Title for townhouse icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:28
+msgid "icon.title.town-house"
+msgstr "To byhuse"
+
+#. Title for underline text icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:32
+msgid "icon.title.text-underline"
+msgstr "Understreget tekst"
+
+#. Title for upload icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:20
+msgid "icon.title.upload"
+msgstr "Upload pil"
+
+#. Title for scroll up icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:75
+msgid "icon.title.scroll-up"
+msgstr "Pil opad"
+
+#. Title for chevron-up icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:226
+msgid "icon.title.chevron-up"
+msgstr "Pil opad"
+
+#. Title for arrow up icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:289
+msgid "icon.title.arrow-up"
+msgstr "Pil opad"
+
+#. Title for user icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:19
+msgid "icon.title.user"
+msgstr "Brugerprofil"
+
+#. Title for cabin icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:258
+msgid "icon.title.cabin"
+msgstr "Feriehytte"
+
+#. Title for vacuum icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:15
+msgid "icon.title.vacuum"
+msgstr "Støvsuger"
+
+#. Title for Vase icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:13
+msgid "icon.title.vase"
+msgstr "Vase"
+
+#. Title for list sort icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:141
+msgid "icon.title.list-sort"
+msgstr "Lodret liste med sorteringspil"
+
+#. Title for wallet icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:11
+msgid "icon.title.wallet"
+msgstr "Pung"
+
+#. Title for warning icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:10
+msgid "icon.title.warning"
+msgstr "Advarselstrekant med et udråbstegn"
+
+#. Title for laundry icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:148
+msgid "icon.title.laundry"
+msgstr "Vaskemaskine"
+
+#. Title for spa icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:54
+msgid "icon.title.spa"
+msgstr "Åkande"
+
+#. Title for water pitcher icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:8
+msgid "icon.title.water-pitcher"
+msgstr "Kande"
+
+#. Title for trend down icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:26
+msgid "icon.title.trend-down"
+msgstr "Bølget pil som peger ned og til højre"
+
+#. Title for trend flat icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:25
+msgid "icon.title.trend-flat"
+msgstr "Bølget pil som peger til højre"
+
+#. Title for trend up icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:24
+msgid "icon.title.trend-up"
+msgstr "Bølget pil som peger op og til højre"
+
+#. Title for weight icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:7
+msgid "icon.title.weight"
+msgstr "Vægt"
+
+#. Title for wheelchair icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:6
+msgid "icon.title.wheelchair"
+msgstr "Kørestol"
+
+#. Title for Wi-Fi icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:5
+msgid "icon.title.wifi"
+msgstr "Wi-Fi symbol"
+
+#. Title for user woman icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:17
+msgid "icon.title.user-woman"
+msgstr "Kvinde med fletninger"
+
+#. Title for YouTube icon
+#. js-lingui-explicit-id
+#: scripts/temp/icon-translations.js:3
+msgid "icon.title.youtube"
+msgstr "YouTube-logo"
