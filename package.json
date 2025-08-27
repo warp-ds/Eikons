@@ -6,6 +6,7 @@
   "main": "index.js",
   "scripts": {
     "build": "node index.js",
+    "update": "node update-icon-translations.js",
     "eikpublish": "eik login && eik publish"
   },
   "keywords": [],
