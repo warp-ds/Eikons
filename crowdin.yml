@@ -1,0 +1,9 @@
+project_id_env: CROWDIN_PROJECT_ID
+api_token_env: CROWDIN_API_TOKEN
+base_url_env: CROWDIN_BASE_URL
+base_path: .
+preserve_hierarchy: true
+files:
+  - source: /locales/en/messages.po
+    dest: /eikons/**/%original_file_name%
+    translation: /locales/%two_letters_code%/messages.po
