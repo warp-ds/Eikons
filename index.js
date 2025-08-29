@@ -1,7 +1,7 @@
 import defaultIconDescriptions from "./default-icon-descriptions.js";
 import { globSync } from "glob";
 import { Window } from "happy-dom";
-import { mkdirSync, readFileSync, rmdirSync, writeFileSync } from "node:fs";
+import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { optimizeSvg } from "./helper.js";
 import { buildMessages } from "./buildMessages.js";
 
@@ -21,7 +21,7 @@ export function getElement({ selector, htmlString }) {
 console.log(regularIcons.length, "icons found");
 const basepath = "./dist/";
 const locales = ["nb", "en", "fi", "da", "sv"];
-rmdirSync(basepath, { recursive: true, force: true });
+rmSync(basepath, { recursive: true, force: true });
 mkdirSync(basepath, { recursive: true });
 locales.forEach((locale) => {
   const path = `${basepath}${locale}/`;
