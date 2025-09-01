@@ -8,7 +8,6 @@
     "build": "node index.js",
     "update": "node update-icon-translations.js",
     "eikpublish": "eik login && eik publish",
-    "messages:extract": "lingui extract",
     "messages:compile": "lingui compile"
   },
   "keywords": [],
