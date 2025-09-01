@@ -814,7 +814,7 @@ msgstr "Smarttelefon"
 #. Title for phone check.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.phone-check"
-msgstr "Smarttelefon med et sjekkmerke"
+msgstr "Smarttelefon og et merke med et sjekkmerke"
 
 #. Title for phone scratched.svg icon
 #. js-lingui-explicit-id
