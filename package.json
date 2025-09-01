@@ -7,7 +7,8 @@
   "scripts": {
     "build": "node index.js",
     "update": "node update-icon-translations.js",
-    "eikpublish": "eik login && eik publish"
+    "eikpublish": "eik login && eik publish",
+    "messages:compile": "lingui compile"
   },
   "keywords": [],
   "author": "",
@@ -18,6 +19,8 @@
   },
   "devDependencies": {
     "@eik/cli": "^3.1.16",
+    "@lingui/cli": "^5.4.1",
+    "@lingui/conf": "^5.4.1",
     "nanoid": "^5.1.5",
     "svgo": "^3.3.2"
   },
