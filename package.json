@@ -5,7 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "build": "node index.js",
+    "build": "lingui compile && node index.js",
     "update": "node update-icon-translations.js",
     "eikpublish": "eik login && eik publish",
     "messages:compile": "lingui compile"

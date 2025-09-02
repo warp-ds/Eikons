@@ -6,7 +6,7 @@ const config: LinguiConfig = {
   sourceLocale: 'en',
   catalogs: [
   {
-    include: ['scripts/temp/icon-translations.js'],
+    include: ['default-icon-descriptions.js'],
     path: 'locales/{locale}/messages',
   },
 ],
