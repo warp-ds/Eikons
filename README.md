@@ -29,7 +29,7 @@
 
 - this requires a key. Ask web-platform team for a key, or ask Prash nicely for help (when relevant, this step will be replaced with a GH Action)
 
-- update icons list in Warp Portal documentation. Once you see the new icons render and all is ok
+- update icons preview list in Warp Portal documentation. Once you see the new icons render and all is ok
 
 - also update icons list in Storybook
 
