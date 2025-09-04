@@ -27,7 +27,7 @@
 
 - publish to eik manually using `eik/cli`: `pnpm run eikpublish`
 
-- this requires a key. Ask web-platform team for a key, or ask Prash nicely for help (when relevant, this step will be replaces with a GH Action)
+- this requires a key. Ask web-platform team for a key, or ask Prash nicely for help (when relevant, this step will be replaced with a GH Action)
 
 - update icons list in Warp Portal documentation. Once you see the new icons render and all is ok
 
