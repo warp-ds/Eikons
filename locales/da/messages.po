@@ -799,7 +799,7 @@ msgstr "Pile op og ned adskilt af en vandret linje"
 #. Title for paperclip.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.paperclip"
-msgstr "Papirclips"
+msgstr "Papirklip"
 
 #. Title for parking.svg icon
 #. js-lingui-explicit-id
