@@ -553,6 +553,11 @@ msgstr "Automatic gearbox"
 msgid "icon.title.gear-manual"
 msgstr "Manual transmission gearbox"
 
+#. Title for geometric shapes.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.geometric-shapes"
+msgstr "Four geometrics shapes in a grid"
+
 #. Title for graph line.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.graph-line"
