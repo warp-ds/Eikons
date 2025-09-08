@@ -431,6 +431,10 @@ export default {
     message: "Manual transmission gearbox",
     id: "icon.title.gear-manual"
   },
+  geometricshapes: {
+    message: "Four geometrics shapes in a grid",
+    id: "icon.title.geometric-shapes"
+  },
   graphline: {
     message: "Line graph",
     id: "icon.title.graph-line"
