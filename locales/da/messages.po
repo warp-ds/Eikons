@@ -556,6 +556,11 @@ msgstr "Automatisk gear"
 msgid "icon.title.gear-manual"
 msgstr "Manuel gearkasse"
 
+#. Title for geometric shapes.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.geometric-shapes"
+msgstr "Fire geometriske former i et gitter"
+
 #. Title for graph line.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.graph-line"
