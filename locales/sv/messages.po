@@ -556,6 +556,11 @@ msgstr "Automatisk växellåda"
 msgid "icon.title.gear-manual"
 msgstr "Manuell växellåda"
 
+#. Title for geometric shapes.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.geometric-shapes"
+msgstr "Fyra geometriska former i rutnät"
+
 #. Title for graph line.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.graph-line"
