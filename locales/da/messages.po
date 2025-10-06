@@ -649,7 +649,7 @@ msgstr "Skøjtende pindefigur"
 #. Title for image.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.image"
-msgstr "Pladsholderbillede med omridset af bjerge og solen"
+msgstr "Billedepladsholder med omridset af bjerge og solen"
 
 #. Title for info.svg icon
 #. js-lingui-explicit-id
@@ -719,7 +719,7 @@ msgstr "Skjold med hængelås"
 #. Title for logout.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.logout"
-msgstr "Højrepil ud af en kasse"
+msgstr "Højrepil pegende ud af en kasse"
 
 #. Title for lotus flower.svg icon
 #. js-lingui-explicit-id
@@ -739,7 +739,7 @@ msgstr "Kuvert"
 #. Title for mailbox.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.mailbox"
-msgstr "Postkasse med stående flag"
+msgstr "Postkasse med et hævet flag"
 
 #. Title for map.svg icon
 #. js-lingui-explicit-id
@@ -929,7 +929,7 @@ msgstr "Raket"
 #. Title for room service.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.room-service"
-msgstr "Receptionsklokke"
+msgstr "Ringeklokke"
 
 #. Title for rotate left.svg icon
 #. js-lingui-explicit-id
