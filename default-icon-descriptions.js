@@ -1038,5 +1038,53 @@ export default {
   youtube: {
     message: "YouTube icon",
     id: "icon.title.youtube"
+  },
+  archivebox: {
+    message: "File with an arrow pointing down",
+    id: "icon.title.archive-box"
+  },
+  calendarblank: {
+    message: "Blank calendar",
+    id: "icon.title.calendar-blank"
+  },
+  clockcountdown: {
+    message: "Clock counting down",
+    id: "icon.title.clock-countdown"
+  },
+  code: {
+    message: "Chevron left and right with a slash in between",
+    id: "icon.title.code"
+  },
+  cookie: {
+    message: "Chocolate chip cookie with two bite marks",
+    id: "icon.title.cookie"
+  },
+  deliverykey: {
+    message: "Hand giving a key",
+    id: "icon.title.delivery-key"
+  },
+  filearrowdown: {
+    message: "File with an arrow pointing down",
+    id: "icon.title.file-arrow-down"
+  },
+  globe: {
+    message: "Globe",
+    id: "icon.title.globe"
+  },
+  moon: {
+    message: "Moon",
+    id: "icon.title.moon"
+  },
+  sidebarchevronleft: {
+    message: "Sidebar with a chevron pointing left",
+    id: "icon.title.sidebar-chevron-left"
+  },
+  sidebarchevronright: {
+    message: "Sidebar with a chevron pointing right",
+    id: "icon.title.sidebar-chevron-right"
+  },
+  sun: {
+    message: "Sun",
+    id: "icon.title.sun"
   }
 };

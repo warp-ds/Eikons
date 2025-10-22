@@ -43,6 +43,11 @@ msgstr "All-wheel drive"
 msgid "icon.title.animal-paw"
 msgstr "Dog paw"
 
+#. Title for archive box.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.archive-box"
+msgstr "File with an arrow pointing down"
+
 #. Title for archway.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.archway"
@@ -208,6 +213,11 @@ msgstr "Calculator"
 msgid "icon.title.calendar"
 msgstr "Calendar"
 
+#. Title for calendar blank.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.calendar-blank"
+msgstr "Blank calendar"
+
 #. Title for calendar plus.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.calendar-plus"
@@ -338,10 +348,20 @@ msgstr "Circle with user profile inside"
 msgid "icon.title.clock"
 msgstr "Clock"
 
+#. Title for clock countdown.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.clock-countdown"
+msgstr "Clock counting down"
+
 #. Title for close.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.close"
 msgstr "X"
+
+#. Title for code.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.code"
+msgstr "Chevron left and right with a slash in between"
 
 #. Title for cog.svg icon
 #. js-lingui-explicit-id
@@ -357,6 +377,11 @@ msgstr "Paint swatch"
 #. js-lingui-explicit-id
 msgid "icon.title.confetti"
 msgstr "Confetti bursting out from a cone"
+
+#. Title for cookie.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.cookie"
+msgstr "Chocolate chip cookie with two bite marks"
 
 #. Title for copy.svg icon
 #. js-lingui-explicit-id
@@ -382,6 +407,11 @@ msgstr "Pencil drawing a curved line"
 #. js-lingui-explicit-id
 msgid "icon.title.delivery"
 msgstr "Hand holding a package"
+
+#. Title for delivery key.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.delivery-key"
+msgstr "Hand giving a key"
 
 #. Title for diner.svg icon
 #. js-lingui-explicit-id
@@ -508,6 +538,11 @@ msgstr "Barn building with a gable roof and X-pattern door"
 msgid "icon.title.file-add"
 msgstr "Plus sign on a file"
 
+#. Title for file arrow down.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.file-arrow-down"
+msgstr "File with an arrow pointing down"
+
 #. Title for filter.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.filter"
@@ -557,6 +592,11 @@ msgstr "Manual transmission gearbox"
 #. js-lingui-explicit-id
 msgid "icon.title.geometric-shapes"
 msgstr "Four geometrics shapes in a grid"
+
+#. Title for globe.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.globe"
+msgstr "Globe"
 
 #. Title for graph line.svg icon
 #. js-lingui-explicit-id
@@ -772,6 +812,11 @@ msgstr "Food mixer"
 #. js-lingui-explicit-id
 msgid "icon.title.money"
 msgstr "Banknote"
+
+#. Title for moon.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.moon"
+msgstr "Moon"
 
 #. Title for motorcycle.svg icon
 #. js-lingui-explicit-id
@@ -1008,6 +1053,16 @@ msgstr "Shower head with running water"
 msgid "icon.title.shrink"
 msgstr "Two inwards pointing arrows"
 
+#. Title for sidebar chevron left.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.sidebar-chevron-left"
+msgstr "Sidebar with a chevron pointing left"
+
+#. Title for sidebar chevron right.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.sidebar-chevron-right"
+msgstr "Sidebar with a chevron pointing right"
+
 #. Title for single cylinder.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.single-cylinder"
@@ -1117,6 +1172,11 @@ msgstr "Suitcase"
 #. js-lingui-explicit-id
 msgid "icon.title.suitcase-trolley"
 msgstr "Suitcase on a platform trolley"
+
+#. Title for sun.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.sun"
+msgstr "Sun"
 
 #. Title for support.svg icon
 #. js-lingui-explicit-id
