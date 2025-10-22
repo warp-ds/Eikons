@@ -46,6 +46,11 @@ msgstr "Fyrhjulsdrift"
 msgid "icon.title.animal-paw"
 msgstr "Hundtass"
 
+#. Title for archive box.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.archive-box"
+msgstr "Fil med pil som pekar ner"
+
 #. Title for archway.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.archway"
@@ -211,6 +216,11 @@ msgstr "Kalkylator"
 msgid "icon.title.calendar"
 msgstr "Kalender"
 
+#. Title for calendar blank.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.calendar-blank"
+msgstr "Blank kalender"
+
 #. Title for calendar plus.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.calendar-plus"
@@ -341,10 +351,20 @@ msgstr "Cirkel med användarprofil inuti"
 msgid "icon.title.clock"
 msgstr "Klocka"
 
+#. Title for clock countdown.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.clock-countdown"
+msgstr "Klocka som räknar ner"
+
 #. Title for close.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.close"
 msgstr "X"
+
+#. Title for code.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.code"
+msgstr "Vänster- och högertagg med snedstreck mellan"
 
 #. Title for cog.svg icon
 #. js-lingui-explicit-id
@@ -360,6 +380,11 @@ msgstr "Färgprov"
 #. js-lingui-explicit-id
 msgid "icon.title.confetti"
 msgstr "Konfetti som sprutar ut ur en strut"
+
+#. Title for cookie.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.cookie"
+msgstr "Chocolate chip-kaka med två bitmärken"
 
 #. Title for copy.svg icon
 #. js-lingui-explicit-id
@@ -385,6 +410,11 @@ msgstr "Penna som ritar en böjd linje"
 #. js-lingui-explicit-id
 msgid "icon.title.delivery"
 msgstr "Hand som håller i ett paket"
+
+#. Title for delivery key.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.delivery-key"
+msgstr "Hand som lämnar över en nyckel"
 
 #. Title for diner.svg icon
 #. js-lingui-explicit-id
@@ -511,6 +541,11 @@ msgstr "Lada med sadeltak och dörr med X-mönster"
 msgid "icon.title.file-add"
 msgstr "Plustecken på en fil"
 
+#. Title for file arrow down.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.file-arrow-down"
+msgstr "Fil med pil som pekar ner"
+
 #. Title for filter.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.filter"
@@ -560,6 +595,11 @@ msgstr "Manuell växellåda"
 #. js-lingui-explicit-id
 msgid "icon.title.geometric-shapes"
 msgstr "Fyra geometriska former i rutnät"
+
+#. Title for globe.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.globe"
+msgstr "Glob"
 
 #. Title for graph line.svg icon
 #. js-lingui-explicit-id
@@ -775,6 +815,11 @@ msgstr "Mixer"
 #. js-lingui-explicit-id
 msgid "icon.title.money"
 msgstr "Sedel"
+
+#. Title for moon.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.moon"
+msgstr "Måne"
 
 #. Title for motorcycle.svg icon
 #. js-lingui-explicit-id
@@ -1011,6 +1056,16 @@ msgstr "Duschmunstycke med rinnande vatten"
 msgid "icon.title.shrink"
 msgstr "Två inåtpekande pilar"
 
+#. Title for sidebar chevron left.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.sidebar-chevron-left"
+msgstr "Sidfält med vänsterpil"
+
+#. Title for sidebar chevron right.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.sidebar-chevron-right"
+msgstr "Sidfält med högerpil"
+
 #. Title for single cylinder.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.single-cylinder"
@@ -1120,6 +1175,11 @@ msgstr "Resväska"
 #. js-lingui-explicit-id
 msgid "icon.title.suitcase-trolley"
 msgstr "Resväska på en plattformsvagn"
+
+#. Title for sun.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.sun"
+msgstr "Sol"
 
 #. Title for support.svg icon
 #. js-lingui-explicit-id
