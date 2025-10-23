@@ -46,6 +46,11 @@ msgstr "Nelivetoajoneuvo"
 msgid "icon.title.animal-paw"
 msgstr "Koiran tassu"
 
+#. Title for archive box.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.archive-box"
+msgstr "Tiedosto ja alaspäin osoittava nuoli"
+
 #. Title for archway.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.archway"
@@ -211,6 +216,11 @@ msgstr "Laskin"
 msgid "icon.title.calendar"
 msgstr "Kalenteri"
 
+#. Title for calendar blank.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.calendar-blank"
+msgstr "Tyhjä kalenteri"
+
 #. Title for calendar plus.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.calendar-plus"
@@ -341,10 +351,20 @@ msgstr "Ympyrä, jonka sisällä ihmishahmo"
 msgid "icon.title.clock"
 msgstr "Kello"
 
+#. Title for clock countdown.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.clock-countdown"
+msgstr "Aikaa alaspäin laskeva kello"
+
 #. Title for close.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.close"
 msgstr "X"
+
+#. Title for code.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.code"
+msgstr "Vasemmalle ja oikealle osoittavat väkäset, joiden välissä on vinoviiva"
 
 #. Title for cog.svg icon
 #. js-lingui-explicit-id
@@ -360,6 +380,11 @@ msgstr "Maalinäyte"
 #. js-lingui-explicit-id
 msgid "icon.title.confetti"
 msgstr "Kartiosta ulos lentävät konfetit"
+
+#. Title for cookie.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.cookie"
+msgstr "Suklaahippukeksi, josta on haukattu kahdesti"
 
 #. Title for copy.svg icon
 #. js-lingui-explicit-id
@@ -385,6 +410,11 @@ msgstr "Lyijykynä, joka piirtää kaarevaa viivaa"
 #. js-lingui-explicit-id
 msgid "icon.title.delivery"
 msgstr "Käsi, joka pitelee pakettia"
+
+#. Title for delivery key.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.delivery-key"
+msgstr "Käsi, joka ojentaa avainta"
 
 #. Title for diner.svg icon
 #. js-lingui-explicit-id
@@ -511,6 +541,11 @@ msgstr "Lato, jossa on harjakatto ja ristikko-ovi"
 msgid "icon.title.file-add"
 msgstr "Tiedosto, jossa on plusmerkki"
 
+#. Title for file arrow down.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.file-arrow-down"
+msgstr "Tiedosto ja alaspäin osoittava nuoli"
+
 #. Title for filter.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.filter"
@@ -560,6 +595,11 @@ msgstr "Manuaalivaihteisto"
 #. js-lingui-explicit-id
 msgid "icon.title.geometric-shapes"
 msgstr "Neljä geometrista kuviota ruudukossa"
+
+#. Title for globe.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.globe"
+msgstr "Maapallo"
 
 #. Title for graph line.svg icon
 #. js-lingui-explicit-id
@@ -775,6 +815,11 @@ msgstr "Keittiön yleiskone"
 #. js-lingui-explicit-id
 msgid "icon.title.money"
 msgstr "Seteli"
+
+#. Title for moon.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.moon"
+msgstr "Kuu"
 
 #. Title for motorcycle.svg icon
 #. js-lingui-explicit-id
@@ -1011,6 +1056,16 @@ msgstr "Suihkupää, josta tulee vettä"
 msgid "icon.title.shrink"
 msgstr "Kaksi sisäänpäin osoittavaa nuolta"
 
+#. Title for sidebar chevron left.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.sidebar-chevron-left"
+msgstr "Sivupalkki ja vasemmalle osoittava väkänen"
+
+#. Title for sidebar chevron right.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.sidebar-chevron-right"
+msgstr "Sivupalkki ja oikealle osoittava väkänen"
+
 #. Title for single cylinder.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.single-cylinder"
@@ -1120,6 +1175,11 @@ msgstr "Matkalaukku"
 #. js-lingui-explicit-id
 msgid "icon.title.suitcase-trolley"
 msgstr "Lavavaunuissa oleva matkalaukku"
+
+#. Title for sun.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.sun"
+msgstr "Aurinko"
 
 #. Title for support.svg icon
 #. js-lingui-explicit-id
