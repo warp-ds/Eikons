@@ -23,6 +23,10 @@ export default {
     message: "Dog paw",
     id: "icon.title.animal-paw"
   },
+  archivebox: {
+    message: "File with an arrow pointing down",
+    id: "icon.title.archive-box"
+  },
   archway: {
     message: "Archway",
     id: "icon.title.archway"
@@ -155,6 +159,10 @@ export default {
     message: "Calendar",
     id: "icon.title.calendar"
   },
+  calendarblank: {
+    message: "Blank calendar",
+    id: "icon.title.calendar-blank"
+  },
   calendarplus: {
     message: "Calendar containing a plus",
     id: "icon.title.calendar-plus"
@@ -259,9 +267,17 @@ export default {
     message: "Clock",
     id: "icon.title.clock"
   },
+  clockcountdown: {
+    message: "Clock counting down",
+    id: "icon.title.clock-countdown"
+  },
   close: {
     message: "X",
     id: "icon.title.close"
+  },
+  code: {
+    message: "Chevron left and right with a slash in between",
+    id: "icon.title.code"
   },
   cog: {
     message: "Cogwheel",
@@ -274,6 +290,10 @@ export default {
   confetti: {
     message: "Confetti bursting out from a cone",
     id: "icon.title.confetti"
+  },
+  cookie: {
+    message: "Chocolate chip cookie with two bite marks",
+    id: "icon.title.cookie"
   },
   copy: {
     message: "Two overlapping squares",
@@ -290,6 +310,10 @@ export default {
   delivery: {
     message: "Hand holding a package",
     id: "icon.title.delivery"
+  },
+  deliverykey: {
+    message: "Hand giving a key",
+    id: "icon.title.delivery-key"
   },
   diner: {
     message: "Knife and fork",
@@ -395,6 +419,10 @@ export default {
     message: "Plus sign on a file",
     id: "icon.title.file-add"
   },
+  filearrowdown: {
+    message: "File with an arrow pointing down",
+    id: "icon.title.file-arrow-down"
+  },
   filter: {
     message: "Two horizontal sliders with adjustable knobs",
     id: "icon.title.filter"
@@ -410,6 +438,10 @@ export default {
   frontwheeldrive: {
     message: "Front-wheel drive",
     id: "icon.title.front-wheel-drive"
+  },
+  gamingcontroller: {
+    message: "Gaming Controller",
+    id: "icon.title.gaming-controller"
   },
   gasdiesel: {
     message: "Fuel dispenser with a dash inside",
@@ -434,6 +466,10 @@ export default {
   geometricshapes: {
     message: "Four geometrics shapes in a grid",
     id: "icon.title.geometric-shapes"
+  },
+  globe: {
+    message: "Globe",
+    id: "icon.title.globe"
   },
   graphline: {
     message: "Line graph",
@@ -551,6 +587,10 @@ export default {
     message: "Square with a diagonal arrow leaving the top right",
     id: "icon.title.link-external"
   },
+  listnumbers: {
+    message: "Numbered list",
+    id: "icon.title.list-numbers"
+  },
   listsort: {
     message: "Bulleted list",
     id: "icon.title.list-sort"
@@ -595,6 +635,14 @@ export default {
     message: "Chat bubble",
     id: "icon.title.messages-filled"
   },
+  microphone: {
+    message: "Microphone",
+    id: "icon.title.microphone"
+  },
+  microphoneslash: {
+    message: "Muted microphone",
+    id: "icon.title.microphone-slash"
+  },
   minus: {
     message: "Minus sign",
     id: "icon.title.minus"
@@ -610,6 +658,10 @@ export default {
   money: {
     message: "Banknote",
     id: "icon.title.money"
+  },
+  moon: {
+    message: "Moon",
+    id: "icon.title.moon"
   },
   motorcycle: {
     message: "Motorcycle",
@@ -646,6 +698,10 @@ export default {
   phonecheck: {
     message: "Smartphone and a badge with a check mark",
     id: "icon.title.phone-check"
+  },
+  phonehandset: {
+    message: "Phone handset",
+    id: "icon.title.phone-handset"
   },
   phonescratched: {
     message: "Smartphone with scratched screen",
@@ -755,6 +811,10 @@ export default {
     message: "Sauna",
     id: "icon.title.sauna"
   },
+  scale: {
+    message: "Scale",
+    id: "icon.title.scale"
+  },
   scrollup: {
     message: "Arrow pointing up",
     id: "icon.title.scroll-up"
@@ -791,6 +851,10 @@ export default {
     message: "Shopping cart",
     id: "icon.title.shopping-cart"
   },
+  shovel: {
+    message: "Shovel",
+    id: "icon.title.shovel"
+  },
   shower: {
     message: "Shower head with running water",
     id: "icon.title.shower"
@@ -798,6 +862,14 @@ export default {
   shrink: {
     message: "Two inwards pointing arrows",
     id: "icon.title.shrink"
+  },
+  sidebarchevronleft: {
+    message: "Sidebar with a chevron pointing left",
+    id: "icon.title.sidebar-chevron-left"
+  },
+  sidebarchevronright: {
+    message: "Sidebar with a chevron pointing right",
+    id: "icon.title.sidebar-chevron-right"
   },
   singlecylinder: {
     message: "Single cylinder",
@@ -887,6 +959,10 @@ export default {
     message: "Suitcase on a platform trolley",
     id: "icon.title.suitcase-trolley"
   },
+  sun: {
+    message: "Sun",
+    id: "icon.title.sun"
+  },
   support: {
     message: "Headset with a microphone",
     id: "icon.title.support"
@@ -906,6 +982,10 @@ export default {
   textbold: {
     message: "Bold text",
     id: "icon.title.text-bold"
+  },
+  texthone: {
+    message: "Heading 1 text",
+    id: "icon.title.text-h-one"
   },
   textitalic: {
     message: "Italic text",
@@ -938,6 +1018,10 @@ export default {
   tractor: {
     message: "Tractor",
     id: "icon.title.tractor"
+  },
+  translate: {
+    message: "Symbol representing translation between languages",
+    id: "icon.title.translate"
   },
   tree: {
     message: "Spruce tree",
@@ -1038,89 +1122,5 @@ export default {
   youtube: {
     message: "YouTube icon",
     id: "icon.title.youtube"
-  },
-  archivebox: {
-    message: "File with an arrow pointing down",
-    id: "icon.title.archive-box"
-  },
-  calendarblank: {
-    message: "Blank calendar",
-    id: "icon.title.calendar-blank"
-  },
-  clockcountdown: {
-    message: "Clock counting down",
-    id: "icon.title.clock-countdown"
-  },
-  code: {
-    message: "Chevron left and right with a slash in between",
-    id: "icon.title.code"
-  },
-  cookie: {
-    message: "Chocolate chip cookie with two bite marks",
-    id: "icon.title.cookie"
-  },
-  deliverykey: {
-    message: "Hand giving a key",
-    id: "icon.title.delivery-key"
-  },
-  filearrowdown: {
-    message: "File with an arrow pointing down",
-    id: "icon.title.file-arrow-down"
-  },
-  globe: {
-    message: "Globe",
-    id: "icon.title.globe"
-  },
-  moon: {
-    message: "Moon",
-    id: "icon.title.moon"
-  },
-  sidebarchevronleft: {
-    message: "Sidebar with a chevron pointing left",
-    id: "icon.title.sidebar-chevron-left"
-  },
-  sidebarchevronright: {
-    message: "Sidebar with a chevron pointing right",
-    id: "icon.title.sidebar-chevron-right"
-  },
-  sun: {
-    message: "Sun",
-    id: "icon.title.sun"
-  },
-  gamingcontroller: {
-    message: "Gaming Controller",
-    id: "icon.title.gaming-controller"
-  },
-  listnumbers: {
-    message: "Numbered list",
-    id: "icon.title.list-numbers"
-  },
-  shovel: {
-    message: "Shovel",
-    id: "icon.title.shovel"
-  },
-  texthone: {
-    message: "Heading 1 text",
-    id: "icon.title.text-h-one"
-  },
-  microphone: {
-    message: "Microphone",
-    id: "icon.title.microphone"
-  },
-  microphoneslash: {
-    message: "Muted microphone",
-    id: "icon.title.microphone-slash"
-  },
-  translate: {
-    message: "Symbol representing translation between languages",
-    id: "icon.title.translate"
-  },
-  scale: {
-    message: "Scale",
-    id: "icon.title.scale"
-  },
-  phonehandset: {
-    message: "Phone handset",
-    id: "icon.title.phone-handset"
-  },
+  }
 };
