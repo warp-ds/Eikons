@@ -1086,5 +1086,41 @@ export default {
   sun: {
     message: "Sun",
     id: "icon.title.sun"
-  }
+  },
+  gamingcontroller: {
+    message: "Gaming Controller",
+    id: "icon.title.gaming-controller"
+  },
+  listnumbers: {
+    message: "Numbered list",
+    id: "icon.title.list-numbers"
+  },
+  shovel: {
+    message: "Shovel",
+    id: "icon.title.shovel"
+  },
+  texthone: {
+    message: "Heading 1 text",
+    id: "icon.title.text-h-one"
+  },
+  microphone: {
+    message: "Microphone",
+    id: "icon.title.microphone"
+  },
+  microphoneslash: {
+    message: "Muted microphone",
+    id: "icon.title.microphone-slash"
+  },
+  translate: {
+    message: "Symbol representing translation between languages",
+    id: "icon.title.translate"
+  },
+  scale: {
+    message: "Scale",
+    id: "icon.title.scale"
+  },
+  phonehandset: {
+    message: "Phone handset",
+    id: "icon.title.phone-handset"
+  },
 };
