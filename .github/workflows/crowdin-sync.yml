@@ -7,7 +7,7 @@ on:
     # We need a schedule to detect translations from Crowdin. Every 2nd hour from 8-17
     # on weekdays is a proposed starting point. You may change the minute counter to
     # avoid crashing with other workflows.
-    - cron: "0 8-17/2 * * 1-5" # At minute 0 past every 2nd hour from 8 through 17 on every day-of-week from Monday through Friday (https://crontab.guru/#0_8-17/2_*_*_1-5)
+    - cron: "7 8-17/2 * * 1-5" # At minute 7 past every 2nd hour from 8 through 17 on every day-of-week from Monday through Friday (https://crontab.guru/#7_8-17/2_*_*_1-5)
   workflow_dispatch:
   pull_request_review_comment:
 
