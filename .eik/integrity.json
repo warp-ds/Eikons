@@ -1,7 +1,7 @@
 {
-  "integrity": "sha512-ZPv8soX9NJJYDSi+t/DluamtdMKbxZEqw3n4DYDq5sRw/92iktIq4AEzU5XOOnj8E6/+EHYPyYnZIqpVBIlBvg==",
-  "version": "0.0.1-alpha.4",
-  "created": 1759751746,
+  "integrity": "sha512-eytssph50aCd8WpgSNw/LwYks4I/U9K0LVt5iZlhock+IE6v1yI0gF+cG6IewcMBJptEOokO0cyru3TQJmWzvg==",
+  "version": "0.0.1-alpha.5",
+  "created": 1761205110,
   "author": {
     "name": "Generic User",
     "user": "generic_user"
@@ -284,6 +284,13 @@
       "size": 445
     },
     {
+      "integrity": "sha512-BxvvOet0G0lGT997uHW3jo72xxUDFo0QmQvewrsn+xjhkrZ2Y1HUXBU33HfQBVau3VvYmbpzJ2R77OBgsPdabQ==",
+      "pathname": "/sv/Sun.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 420
+    },
+    {
       "integrity": "sha512-7m2WN2ovyEzs/gp5og1bxLFziHyoQ+nefiO1oFQBnhahP2v2d7WSC5qyaXh3JHNUS7ihip1yUG+PAWGIH5dRxA==",
       "pathname": "/sv/SuitcaseTrolley.svg",
       "mimeType": "image/svg+xml",
@@ -436,6 +443,20 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 378
+    },
+    {
+      "integrity": "sha512-w4X8w44BKQVtABuyljT9UEQVYS0iUQPX1DgS069/ztFUb57aFvO8nLMLxm1+sP1O2AVnpInF9md/mTZSzadAOQ==",
+      "pathname": "/sv/SidebarChevronRight.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 396
+    },
+    {
+      "integrity": "sha512-KNLXYcX5KZAGrFBQue5O1EXCA2fOZ+H/ky1laIQpEVyDtoHIH/Fbnzx/fFwo2VLB7LRsgDNNHuPnnf7XjOSnBg==",
+      "pathname": "/sv/SidebarChevronLeft.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 398
     },
     {
       "integrity": "sha512-PUWWO/7qA6tBLrYM0dYYCcMX+1hKUjBPjVGFmMuC/c8Mq+uaN6EfqDDNHtS9e0SoFVyQe0B6tuvrj0etfTysGA==",
@@ -669,11 +690,11 @@
       "size": 815
     },
     {
-      "integrity": "sha512-Y0V3YApXVP+H/btBuVk8hlu3zIv7BmuOgiO9i8aDyWRjdko/Q6pUzjyotewCBFRketnVaVAQsEfxR9ow1BgFnQ==",
+      "integrity": "sha512-lEHLS6V35960hB4Q+ZMGZc2980/hyotZGR/OE/Q3+fferywVyL6x2kmttyDn4APPkmFSAxNsvxod5k+POKrJYA==",
       "pathname": "/sv/PinRound.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 1970
+      "size": 2109
     },
     {
       "integrity": "sha512-Vx5pJLRwZaTevIxbS0yY86xjh/mC+g8r0C5/2sEG5ulHxIScS6LxeI61Y1p4OIZX5zsZXAtqOIdd8/5NhKvFXw==",
@@ -683,11 +704,11 @@
       "size": 440
     },
     {
-      "integrity": "sha512-aOLq2zuCrpSYRu3xpFDJseB3MQOZlNs+34+qlpMH09eIk8HL+XJo9lNivsjfKkgIKcyBVOsDriOEqg6jWWYyEQ==",
+      "integrity": "sha512-l1aRQWs4SmrMxNgJqOcJdMA/i3HCob7+Miy44+japI0zAaQHbxrNLahc5WD0TKiEc3w3HcX3OsmcreU+F/e9qA==",
       "pathname": "/sv/PictureStack.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 1931
+      "size": 569
     },
     {
       "integrity": "sha512-YpyZleqMvmO7oFji299UX7uFAOLQJO6lGBISQxkFa2RTZrEHLc9GleecVGUWXlQBMGax6bCck9GR9x9ehAFQoA==",
@@ -765,6 +786,13 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 638
+    },
+    {
+      "integrity": "sha512-UYFSnAOSTpg54gfu7XNtsf4tQv6hDggjhHOC/98XwL8UVrbSyor1izplVuuzYvGhENjUJ398yi9qVPlK/pIGUg==",
+      "pathname": "/sv/Moon.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 285
     },
     {
       "integrity": "sha512-xLOllvoGqdfobPR19ccqPzxXKg9NpEuehJc38+06ESKI1/mXjpGngNDQLpxMhCnGjZIoMvgjXp2ihzFBtjNEcQ==",
@@ -942,11 +970,11 @@
       "size": 310
     },
     {
-      "integrity": "sha512-t/OIF6/rzK5gGEcYppGsTOioPSEW5JLZXeYA7WQTLEsUEFQXIyGjz4YykmhwK6ZyOOsY2RIO1Sfxm2BJseBcWg==",
+      "integrity": "sha512-sQQ3sLOfhG2k5PALdVG8sOtXco4pm4OJymLU6+016BwE/revyORoSY80Y/P6FUS9fuFhiddBuua0MKk+7IGCOQ==",
       "pathname": "/sv/Image.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 1587
+      "size": 507
     },
     {
       "integrity": "sha512-ykVOFcThiZx+8OXob4bwKx6PijhOk6WeO87UjAqqYU596Lu+4T7tvALSGenZtRsfnMvyv2YaGbb6PUKpPdxBiw==",
@@ -1068,6 +1096,13 @@
       "size": 302
     },
     {
+      "integrity": "sha512-Tbcm6w4VTmcAMXRoixUfyviD9eqJu4W5xHoK8WB76693hnnKjppPz+WP4TxWoLzyg6UeBTgLw7G5QI2k5a0iAA==",
+      "pathname": "/sv/Globe.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 357
+    },
+    {
       "integrity": "sha512-YCdqLImc6KcgY96FOPg5oHIH0cARHOaoZSqZCr6U59vjDaIsfZtRpVBdGMYv7brsE//8QNgx4+TlT2RfCj1YRw==",
       "pathname": "/sv/GeometricShapes.svg",
       "mimeType": "image/svg+xml",
@@ -1136,6 +1171,13 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 433
+    },
+    {
+      "integrity": "sha512-E20eVdCriHCJt36EEyFfw7SXLFK3JG82F52eUvdpvTajaPgS/WwxBJMI58TaUokNOiHRqQl+J1hc+ySyDRGDPQ==",
+      "pathname": "/sv/FileArrowDown.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 408
     },
     {
       "integrity": "sha512-YtMeimo525FKgt5top3pnehWPaizaztt2XGATSeT7EkhLYOE51l8m8eiy3fA/AD7QIUM6/0R7zXkxK2ey8mqHw==",
@@ -1306,11 +1348,11 @@
       "size": 420
     },
     {
-      "integrity": "sha512-bDqfjeUmWDxIGczSXpllgmn9CtQV4gAseCbIamTYXg2/LGzkhEVh2h1AZ0/QKqlyS6iT858bp07gO0DVAKLuNQ==",
+      "integrity": "sha512-yXSlncMUv6iZtlFdRkus+QOl9Ouu2trnkTunbySclT2qxHj1rHv0guRBeA9Bhn/DWHBj7z8uJXZKzk7fVH3H0w==",
       "pathname": "/sv/Discount.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 815
+      "size": 820
     },
     {
       "integrity": "sha512-rWsGWLMinGd7sVLMvJCQMcUNY/5LCFlMuQOWhbeTkUDKq8xJh3oCcuhjDi7EjW2FnkYTSnrAu1X0f8ZdvP9Amg==",
@@ -1318,6 +1360,13 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 610
+    },
+    {
+      "integrity": "sha512-GEgXNKZN2Aa4yfpxAWjqBBFLvVZx2WCU0wJ9qwr7Xo4Qys8aSyZWnIZ5tC4jH81vmjtQryr2ImYF+J2qTDH0wA==",
+      "pathname": "/sv/DeliveryKey.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 862
     },
     {
       "integrity": "sha512-+5PsViX6DnSoQzDeQcwmdTDjSVOrt3wDz8x9ShgjdqXzX++RjChSJK2OyjB7O01fbXwz2sp+DvxHKiLApV85EQ==",
@@ -1348,6 +1397,13 @@
       "size": 433
     },
     {
+      "integrity": "sha512-3jGVuW81jOQL1bhmZAoDvmAwDjeKsuAnDepQS8ukZaarE4dQGIWnVKYyV25ODbYBNQgD++bkQvi5cPjGT5h2hw==",
+      "pathname": "/sv/Cookie.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 412
+    },
+    {
       "integrity": "sha512-gbqfBlyZ1ClkI0qzEXs0P2m3X9xHy9gKHH1DSocPiX97zj2DPRwaBOLoiRIOCy1Iea8H6NTQ91n+7rXR6GRtXw==",
       "pathname": "/sv/Confetti.svg",
       "mimeType": "image/svg+xml",
@@ -1369,11 +1425,25 @@
       "size": 902
     },
     {
+      "integrity": "sha512-kTSOvFLuHUQ7PwA9nWk/dEgO0KtKtmBVwbTtBwDn1rQLxikX/oAK8NOVgBUM5D2O6w/c7Hqz/WSjcjT6ibnJlA==",
+      "pathname": "/sv/Code.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 345
+    },
+    {
       "integrity": "sha512-4Vw0UQ+1TULaZhLpnpSqJUnDlnpg6mTkbNNuo7BBDkAwaXAX7A7txuf//yQi+Kj402jZW3LI+f+CidAGfGWiSQ==",
       "pathname": "/sv/Close.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 261
+    },
+    {
+      "integrity": "sha512-KhsZ5u8aJWQu5QsWvdmlZYCsnoXZ2uO1QspANmOkR8jcN3U1mIxBPCEU1iHt5JKtiVKZUxhC4Wg3pgDdjOludg==",
+      "pathname": "/sv/ClockCountdown.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 437
     },
     {
       "integrity": "sha512-81XLjViQNy+JRAth9EeIDsRw8aVuhLlCxtDwtPkTY1y+iDRLFXENmc8nGqysQil7G+nH9bGnfzLOa9jw0mbIDQ==",
@@ -1551,18 +1621,25 @@
       "size": 521
     },
     {
-      "integrity": "sha512-TMgh2zErrZWA7wlIolBHfrg0kzBGRdjNPel300eDPXRTUhn68LWjxRpQu7deupRYgjwe7Neoh/vKtwd1mlIpEQ==",
+      "integrity": "sha512-bel3LzABmDJ2lpxStku5GsA917ON7J2eHKD7K6N2euxJr6uOgNlX6OOlBGy9pfKOuAwghbC1V5bN/EBoHC0uOg==",
       "pathname": "/sv/CalendarPlus.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 374
+      "size": 367
     },
     {
-      "integrity": "sha512-E0dT/0NdHtYwccswCRATuTIuFLJJnAFZL6MQYadh1X3qnraEP4nMvEMhGSqk4ySk4T0mFD/jfIXC09clCZZtQA==",
+      "integrity": "sha512-fUGhznOfDAb5PXOaOG/ivIuKABv3FY+B0Xd+53OMbiKUplA+Hjrko+J4GRntCo8VyzgLlPywlcc+kasBuFIGGg==",
+      "pathname": "/sv/CalendarBlank.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 345
+    },
+    {
+      "integrity": "sha512-G/EAAHw6d2kvAgoSr+4G00916nAoV1mxc2o5olo5IhtCxXL7N8MNCPe3Hu/EyHvixr53uHorUDDVaQ1YtxUMdw==",
       "pathname": "/sv/Calendar.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 434
+      "size": 427
     },
     {
       "integrity": "sha512-8X+/GZSSNYwV0QT2i15MsXqfOviuMDK2wvv/AhU9fzwbtRbVlF1yJ7o8R4nPId3Y+T4DWs6Mf+4th0XXG5NRig==",
@@ -1787,6 +1864,13 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 1415
+    },
+    {
+      "integrity": "sha512-tBTuGdv+Eb4dWLpdFSe6Tqpv9lLNExCRIS4/YkyYRnD1W6pcXMAmLZ38ZhjITJmP2J+LTyjpx0VMR7b41lgNGg==",
+      "pathname": "/sv/ArchiveBox.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 501
     },
     {
       "integrity": "sha512-mq2xjDVb2GsrmHXQoZuD492UIPtqbFLSd6qSCV2EhHnXbo8/etlblS2OPiIAH/R7JYAWXKMS9l/ILzAI5W5ciw==",
@@ -2097,6 +2181,13 @@
       "size": 451
     },
     {
+      "integrity": "sha512-BxvvOet0G0lGT997uHW3jo72xxUDFo0QmQvewrsn+xjhkrZ2Y1HUXBU33HfQBVau3VvYmbpzJ2R77OBgsPdabQ==",
+      "pathname": "/nb/Sun.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 420
+    },
+    {
       "integrity": "sha512-h9Xv+iz5ZYVPWQORHCJ7D3/DtJ3S5qfGpbf3SGepO8gaNM9mMapcWsHoU0Z6l0UJwvCgsDK1NYeDrRXijFdcIQ==",
       "pathname": "/nb/SuitcaseTrolley.svg",
       "mimeType": "image/svg+xml",
@@ -2249,6 +2340,20 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 381
+    },
+    {
+      "integrity": "sha512-H7gDXfe5ANIy1MlWG2us2fpHiqI/tvi9GJgtWVesAMT3Wipl/EYh+GqYLSl8WtmLFLYK2kwHik+7hC5A7Hih4Q==",
+      "pathname": "/nb/SidebarChevronRight.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 414
+    },
+    {
+      "integrity": "sha512-ioQjwaYHs6fuSm6kXhtqxXn0CbpRZz/ashzi6feYrN2to+tfDESzD4LA5B/Qu2VbYhfOIwLmTsVXVRlBoo2aRQ==",
+      "pathname": "/nb/SidebarChevronLeft.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 415
     },
     {
       "integrity": "sha512-SHuPMEC3mE1KLgpTqSacOlCrzuyt8lLcF5IeHzR0gK8cxxaa2ITFu+23rpHJwV0rSgedZYyzPN6tfxg3Nlt7DQ==",
@@ -2482,11 +2587,11 @@
       "size": 810
     },
     {
-      "integrity": "sha512-ETC4PUWjy7bEhH/WfcEwZTK4ZBMJtDS7XjRAH9DZvt9PgLHS4dpcfpi2eoGoIgoUgnVLxekNQ2mvpNGQjWANgg==",
+      "integrity": "sha512-MqA8ZzSQJdXbGMI9tDsWiilEwHkglzcL3i+FetczdcZoG9NZG0YKfO2pfYxG7dHZxLLteFgcRqTHxtoTCkHVAQ==",
       "pathname": "/nb/PinRound.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 1970
+      "size": 2109
     },
     {
       "integrity": "sha512-Vx5pJLRwZaTevIxbS0yY86xjh/mC+g8r0C5/2sEG5ulHxIScS6LxeI61Y1p4OIZX5zsZXAtqOIdd8/5NhKvFXw==",
@@ -2496,11 +2601,11 @@
       "size": 440
     },
     {
-      "integrity": "sha512-cXwn9tGDWrrokL78CKr8IFRkmigSRrZE5pCGjydiZV2b6Vr6Q0btBK+5SsNWgtK+LYsPhPy0I+cyNnTbz4Kpvg==",
+      "integrity": "sha512-BMtxIAsPNNqxsvTq8tSsgHMIMs1UFqJNcg1lpcmrtIfadilD4fYViV2Ni8865V9eR5gj2TkJKu6RFT2cZMJvTw==",
       "pathname": "/nb/PictureStack.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 1932
+      "size": 570
     },
     {
       "integrity": "sha512-blm1AmHXXeoZpm2w7bHi8iymcUzynYkMnt//QNoTJWmUGuMgWt0UUrs1naDxgWh2nGM8leofBxx2JFalN4x7ag==",
@@ -2578,6 +2683,13 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 630
+    },
+    {
+      "integrity": "sha512-UYFSnAOSTpg54gfu7XNtsf4tQv6hDggjhHOC/98XwL8UVrbSyor1izplVuuzYvGhENjUJ398yi9qVPlK/pIGUg==",
+      "pathname": "/nb/Moon.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 285
     },
     {
       "integrity": "sha512-7/DHqBI1DwP5BnaNrGtrSiShob6IyQvNTeDVgdD2bvHjmHZClbCKTGQnKwdORRuB/+HA+vnKrJDswpoK8mH5vw==",
@@ -2755,11 +2867,11 @@
       "size": 309
     },
     {
-      "integrity": "sha512-o/RLS33lTuH3gKTgUhq0ySs+EyPh9t9FmTmx3CJtK7HlXrV+8RTTKqgx2Wq+pHkB2WAGx12qwanPAr1ffB+tew==",
+      "integrity": "sha512-DCtJe3f67R0m0mL9EJ7WG+uEEgeShFNEOpNAhN9zDDw4AxFhMYR5ErudMHVzhCghzMm5dMYLW4DN9Vw32mElWg==",
       "pathname": "/nb/Image.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 1582
+      "size": 502
     },
     {
       "integrity": "sha512-mYMdh4qdgh6tXcdWqhgZe4J2npUs2CJMZjlFtXb68JNVCoxrz2+li4ENitE60euzGO1RPX6X/JToagGemyjX/w==",
@@ -2881,6 +2993,13 @@
       "size": 302
     },
     {
+      "integrity": "sha512-Pn3wyidy5g3rXIg+2hICHkUr4+6HgsO+CjPCkSNYUWMiADX15lwSrpCl4JESARCS/9lTmngaDcapjfc8PsQkcg==",
+      "pathname": "/nb/Globe.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 359
+    },
+    {
       "integrity": "sha512-rkWAuMUlTfUv3J7mnZG/vpU3Nwfj7b9V6Hzb3/kyiLjqB/E5r6bRqpGNBzoX5fcAKirdzqsQ5DPzMJHw++E+Fw==",
       "pathname": "/nb/GeometricShapes.svg",
       "mimeType": "image/svg+xml",
@@ -2949,6 +3068,13 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 433
+    },
+    {
+      "integrity": "sha512-OntDT4U8tF4m7rvmW/HVbNmBJw6bWiAkQ0ZrZbEaKQwztUez4QqjfDjE30hapwhqRSHZD6qf5OGVGhWlzowBdg==",
+      "pathname": "/nb/FileArrowDown.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 411
     },
     {
       "integrity": "sha512-/D1lbrA0ZU9d2dAKSQ0kYdeERxML42hIl820wYwa5oSfw+DYBcNcgzktjq8y+hzqAyHqXInkUqtzV1XC9IWFnA==",
@@ -3119,11 +3245,11 @@
       "size": 418
     },
     {
-      "integrity": "sha512-2ROu48i69TY2IfjTJ1jrtgSIxa4zu6opJcD+GGFqXbxeMY0nmlP2hrM3+qXv1VvMD3a+fA0nDcSMu7ALnst9Iw==",
+      "integrity": "sha512-jSYSk8sXP0Ft8JqwWknLSlOpNTlYe6I2HyJB3/xwdnA16coXGrWdkRXeG79sfcgYkEqRZngcqpT2T3/oQsrfyA==",
       "pathname": "/nb/Discount.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 813
+      "size": 818
     },
     {
       "integrity": "sha512-3uhXgafhdztvcpatvL6BBf2i54oJLgh1NKWR6DLqDW1GfYndXvn+J30yjYiWqzDZLc2a0YjwkWZsBQ1aO/QIBg==",
@@ -3131,6 +3257,13 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 609
+    },
+    {
+      "integrity": "sha512-x4lv2e9WiDoYbSGjotHdlN4zGYiZgkKd6G5dohuGhEORidL1nIPNYvzftC6qB7u0cs78HRiVvpuwttPOsLCOAQ==",
+      "pathname": "/nb/DeliveryKey.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 854
     },
     {
       "integrity": "sha512-m2tUMHKDCGjUgX9MiqtnhnS871yDoXtrM0g0EPsL/xhNLMELKNSkrWCtJn/53lNhOwOIQyeL70+oW1SRCmLnwg==",
@@ -3161,6 +3294,13 @@
       "size": 430
     },
     {
+      "integrity": "sha512-IAAsGCPPukpXE7Ipkplc+cR5j3hb0kIj34kVzstj2pciAzQkkCWLqVFlcgsEPO/ImQyxf6rft2J8E4FjyBJkJg==",
+      "pathname": "/nb/Cookie.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 397
+    },
+    {
       "integrity": "sha512-lJ/T/A3rBVw07xpXcz5ywCEZH2dwkFk2W4mew4y7rQbMwqR3bXPuWr4qcS7TIaKiO/kl/4D/15n1lG+NqF268Q==",
       "pathname": "/nb/Confetti.svg",
       "mimeType": "image/svg+xml",
@@ -3182,11 +3322,25 @@
       "size": 902
     },
     {
+      "integrity": "sha512-p+Hqynrpneb9ZdPArQJ0WLiWc4IX5kBN7P+ULBixqNMuguItDvoSOEY/VZuwgPpnknlhdX66eKN421FNpw8u5g==",
+      "pathname": "/nb/Code.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 349
+    },
+    {
       "integrity": "sha512-4Vw0UQ+1TULaZhLpnpSqJUnDlnpg6mTkbNNuo7BBDkAwaXAX7A7txuf//yQi+Kj402jZW3LI+f+CidAGfGWiSQ==",
       "pathname": "/nb/Close.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 261
+    },
+    {
+      "integrity": "sha512-AYC1ZpItqeq2e/3g/sV8vPxHMnmofDrHI8Vv6zsKUk1XemSQH+rH94KdWbSlhMB/+ImoLd+ueZkm1t/bBV6tQA==",
+      "pathname": "/nb/ClockCountdown.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 436
     },
     {
       "integrity": "sha512-W0FJiU8uaX6wX+3wGqhwhXwgXSPa+L5sNabeX6yFUvExZ/KAqJ7Z5VboecM6b8iMZ7c2G2xb5DxTVEDmQgAUhw==",
@@ -3364,18 +3518,25 @@
       "size": 520
     },
     {
-      "integrity": "sha512-xuNVwB19NrWxztFq9mYA195LlEeMpcXcAWvC49yaDZLBoXGVjY6yQeGfvbM/B7yd6/TfySFwtzjW8eGpfuQKwg==",
+      "integrity": "sha512-gPY0UmYthbpQrgyrwlbCf843LbGFZGOWHGtqLH9Qt5/C4UuLSBgA/0l0WyVzLlu7JyIGL6rpNvmAIMF6Dfbtcg==",
       "pathname": "/nb/CalendarPlus.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 374
+      "size": 367
     },
     {
-      "integrity": "sha512-E0dT/0NdHtYwccswCRATuTIuFLJJnAFZL6MQYadh1X3qnraEP4nMvEMhGSqk4ySk4T0mFD/jfIXC09clCZZtQA==",
+      "integrity": "sha512-QbpBDW5P/E63sraOfULfOjF56bxQ+HpIrj1pzoy9XW39wR1n3sC3dUPYwhPZnWCOpTEWrMfAa3fKo0x9lUiVuw==",
+      "pathname": "/nb/CalendarBlank.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 343
+    },
+    {
+      "integrity": "sha512-G/EAAHw6d2kvAgoSr+4G00916nAoV1mxc2o5olo5IhtCxXL7N8MNCPe3Hu/EyHvixr53uHorUDDVaQ1YtxUMdw==",
       "pathname": "/nb/Calendar.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 434
+      "size": 427
     },
     {
       "integrity": "sha512-dKNZ5xhODxmAzzZ+6RUST33wLBKlLu5nvIKWZ/+6MQfh6PSf4Odww08bGxcaiwIDlCMiwzlOJGjKueNTjFO38Q==",
@@ -3602,6 +3763,13 @@
       "size": 1413
     },
     {
+      "integrity": "sha512-o+I3+kaGLLDh85F7j7/SGc3UqZo8oaQJ9AYfhfrPNgEd228vRF9RZEx7WDuSqcfnuogF5ZrGgE2lgABvWVAIcg==",
+      "pathname": "/nb/ArchiveBox.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 504
+    },
+    {
       "integrity": "sha512-JVS5Z1P/zIB55FuvflFElI9il2Dj59sCEEyj6ZH/I9XNhnpNI0/AM4VZ0pjhxahMTdJRkyK/fmUD1PsmNiwq/Q==",
       "pathname": "/nb/AnimalPaw.svg",
       "mimeType": "image/svg+xml",
@@ -3642,1819 +3810,6 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 473
-    },
-    {
-      "integrity": "sha512-JQdgUmFnw+9yMnqT8QAx1xM9lx2soEAc+wxNxvaDoz82aDnqIewLzYjGVW1/dVTVQlwkYnygjBjXatqpheAqXw==",
-      "pathname": "/en/YouTube.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 668
-    },
-    {
-      "integrity": "sha512-c+vMTb47KP8WCaZutZZcJoxXR22wYxhH5+NQUe+n4zIlyLRb7P4F76L6eMpj4EVesuOKQ+AxbKw/lU0YaKg8sA==",
-      "pathname": "/en/X.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 297
-    },
-    {
-      "integrity": "sha512-GTa1LLI0iVIa2Kx0zS8HJaq/bw7IX4IKQOIij6X0Kp6TPk/UJ0dJk38YI1152HaKmf9uS+n44qH1NdwBmZ1Ahw==",
-      "pathname": "/en/Wrench.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 359
-    },
-    {
-      "integrity": "sha512-uaOKR29FtQ4SyNqNDfUWJmNrl9Aaki2F35TEei8DycYiv8llsr0u5SfQBTUNigp4d7D5004mGxfh5LH8sSZZcg==",
-      "pathname": "/en/Wifi.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 391
-    },
-    {
-      "integrity": "sha512-EeR4mrqwyasbjLMVPM7BIh1/R4KsquLtWGsH74+sRDyBYPkbpk617jdScwBMBwx5/naZ/QFjxJ8oazgEbzlciQ==",
-      "pathname": "/en/Wheelchair.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 367
-    },
-    {
-      "integrity": "sha512-bvrHs6RZSh+0upEqEp8RHG0fb0lxiFq/5kxzEfTij3vexuRlx5fmNtNU34pNJQSKoRkYlU47pAPPEjf0rsKsSw==",
-      "pathname": "/en/Weight.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 598
-    },
-    {
-      "integrity": "sha512-x2p6d1aKAhgaqC1LuPnBFWyBcc7AVuTvUPqZVXHqzxuOVMo96MssG1p43qsQhFvxSgaw+wa26uCfwLv3IJ+RUQ==",
-      "pathname": "/en/WaterPitcher.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 1821
-    },
-    {
-      "integrity": "sha512-VEfHveq5SnEdA+epmRTKB8xeSl+5yQuioco/bAKqvFW25fk6dE9hjvkkhUB8r90vi13rORBgYUe73qX4A2lknA==",
-      "pathname": "/en/WashingMachine.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 482
-    },
-    {
-      "integrity": "sha512-N1BtKz5KGMK5SKMASWcTcPdaappu7l3ZlKV2ALz8mPrRt4dN9twKgphMsuPMyUikCeHYmKzq0RBDh6Gi9f5v3w==",
-      "pathname": "/en/Warranty.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 717
-    },
-    {
-      "integrity": "sha512-Wj5G7j/YInAie7M3OZ0H9JG0gAS8b6hxArlXTfOXNoAQGKignTeoSyK7Dy3YuJNxmQXxNVi6NL68BFh8LeNGyw==",
-      "pathname": "/en/Warning.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 420
-    },
-    {
-      "integrity": "sha512-8a4vaPVAQQFLhjZJpiCFFY9g3fgSyGzI5hLeYGNg+xZ0ODOlsB1lViXb3avvviR/UOuXYp8QRvCxpwtQFteP1g==",
-      "pathname": "/en/Wallet.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 378
-    },
-    {
-      "integrity": "sha512-kyhoQX1obLs7aa6K3FJeFyGJOmNn7zsYXLtdGjDVOJw2UDVIY1cHL5CXhiiIeG13X8BN1hruJRt11l+fy4wzdg==",
-      "pathname": "/en/Verification.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 722
-    },
-    {
-      "integrity": "sha512-fiUXC2c9MHfzhJiquh1EkGS2HKQmLFx9kNgo169wjS6VQvbglRYaMj1HducEA05NOqNnH3zBjNPHS1khpSTC1A==",
-      "pathname": "/en/Vase.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 1077
-    },
-    {
-      "integrity": "sha512-Xh88K1kXTiT7qVjDPnvb/GuCKsuJ12cZ+Z0mP/o+JJPF4xTSINkKNdXJDV7dtxta+NOPJSZS/t5SM877hf9suQ==",
-      "pathname": "/en/Vacuum.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 423
-    },
-    {
-      "integrity": "sha512-orP9OWTTaxEc6q8EKRJ+I7z1mgAiOyBBxbiojTNq45gGwqw1OLJRfRtwFmyKE4v27W0ZXF/i14qf/KeJRRYCTw==",
-      "pathname": "/en/Users.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 398
-    },
-    {
-      "integrity": "sha512-bqe7hTDT75pSNeElWB2+NficGfNQXtAVjfXtAzJu/EgAsDOlzjVlK6cVNd64yrM1kdRLcjNJyYOBtfDHpcQTqA==",
-      "pathname": "/en/UserGroup.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 592
-    },
-    {
-      "integrity": "sha512-fbLRP/J1Herl/9yrbfcezjqY6pdy9x03MvP5kyaGBnxNrs/I9BB7ZdA9FZhi5wxtGeIjhfVu4bBzHibYsjD3Mw==",
-      "pathname": "/en/User.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 358
-    },
-    {
-      "integrity": "sha512-kP/P7qShMadT5lDTkW+yI4UapASg59M8plkXQUBV6q5T/2/ZEA++5ceInDvEuxREwqRH0duPQOGuNWJLAvU9Yg==",
-      "pathname": "/en/Upload.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 320
-    },
-    {
-      "integrity": "sha512-T6PlHm8c5Y4wcvDV1gm5gPiXQY+wUyyVkr/phj1apR0rLaAgQPeODsc21rkulJziud30c1spv16BxnLuKCH66w==",
-      "pathname": "/en/Up.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 384
-    },
-    {
-      "integrity": "sha512-cO/WwH86TC5k1ZtIjIRiQLZwH0xr30csA2cUUD5J6qYDr+x06iiTPTocv9t9h6mctMGstACpWwwA1axTl0pUsQ==",
-      "pathname": "/en/Tshirt.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 285
-    },
-    {
-      "integrity": "sha512-eLQjm7bM1X6qfm76eMIAJIF2gU760w06PB7dVAuPtRgesykI+rTcVms2anOOiQxMJl3pKGvGSf/vewCHrqQq8Q==",
-      "pathname": "/en/TrendUp.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 293
-    },
-    {
-      "integrity": "sha512-mRSWoMLWESbx2Lpo+OEv+lruanmWT/6MVO2qhnC4bWXspI1Zo8IXYwnQKDHIHMFbiCKmcvjs2nr8Qg5KRBp4Dw==",
-      "pathname": "/en/TrendFlat.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 308
-    },
-    {
-      "integrity": "sha512-Y1/vdtQ1iD2wLWyMKUjDXWIus0QHHgDz7xMYS+j6k5yGWjaNgAb2K6yMBw87cRgn3wziutJON7s/cRX/rwNAyg==",
-      "pathname": "/en/TrendDown.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 289
-    },
-    {
-      "integrity": "sha512-I+t2uLB2baamjXaN0og9Z/2jr+OlMhcv6mFRRuZORYgBYhbtU/gqN/tWQz3BkDdaVc0nljo+oiREDMRJyaE0Dw==",
-      "pathname": "/en/Tree.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 287
-    },
-    {
-      "integrity": "sha512-VN4a4upJoKA82KkmjYD2TGKGP7IIO9ptkOBr/cvLLHf0HcRu4UfABQ2VlOySp4jSpmoxvi46JsRFzvnh2t7fzw==",
-      "pathname": "/en/Tractor.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 673
-    },
-    {
-      "integrity": "sha512-+o4Jtf5GIH63vkv3c/hP6wvhVNkryfB3arGLJqv9bZhcn5aQkyxC74g+IdDp8xn1HNKpPQjO8sD45L4YQoSQnw==",
-      "pathname": "/en/TownHouse.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 370
-    },
-    {
-      "integrity": "sha512-gp2WlMTrTJjRd3RaUTO7phUX2o2i8z5ZTGHOVSP8ICgWb+S0dlqviX8HkpOhWgGAaLqpJUh61A/wYSbeAWpKqA==",
-      "pathname": "/en/Ticket.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 369
-    },
-    {
-      "integrity": "sha512-sBSHmTwbR6IpHY5WQiTCY/7LMWdiO6c3yOnvpFASm31Y99l4XLgWj8YkQL8+VTiER/Vdm4SJaiX8WPgEA2Y4nw==",
-      "pathname": "/en/ThreeSixty.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 456
-    },
-    {
-      "integrity": "sha512-1yXjvAN3zUg9P3GtwJJBiaw/EAYHaBtxaHqoJvdAnSQsb11no7IqeqqdWasbJfWp1dMYW/fRnGrqya+OAFExng==",
-      "pathname": "/en/Theater.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 568
-    },
-    {
-      "integrity": "sha512-1/i8MvoUwsa5aCZxe57ZA+DauUerzAHC7k5+ld0djZDO31FomD0oL0YqqqrcJATZJNGPUM7hFlN0qVUfkYDMfA==",
-      "pathname": "/en/TextUnderline.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 287
-    },
-    {
-      "integrity": "sha512-y73U1vRo0rxKzA6+oBHo7v6RFW4aZDGaQNbaJqHA4K0JCeS8E6mAYsArhRCGU7tH6sGngdcuOrmNi7r5U3Emfw==",
-      "pathname": "/en/TextStrikethrough.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 425
-    },
-    {
-      "integrity": "sha512-FyZdBmqfscPcjAE/Wez6RyEukp6h7Tm8jrp5UWXyJ+TDZwzRKNOy5T7XwHTeAOiEC4nLM8gGW15/+yVg/Qg5hQ==",
-      "pathname": "/en/TextItalic.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 276
-    },
-    {
-      "integrity": "sha512-NAqU+B2NZopXNsGOgVAgg6tZyLx59gXy74VAG9sUj6xEyPMsB9CmkKD9H8pfwDly9wJ3fkbOxiv8O3I9+nte9g==",
-      "pathname": "/en/TextBold.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 305
-    },
-    {
-      "integrity": "sha512-SgSiE/2pzJi4957dG+agB/Qw3DDcjWOZAEXi0RHuaoIxpsrwZmMoIZlYQ8N0ywAJ3E1wS7JW62qAaUKl2cQBlA==",
-      "pathname": "/en/TaskList.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 349
-    },
-    {
-      "integrity": "sha512-yPCnGbqaLISvlnzvda3WyYADCIf4/3Vj3aQt99FXHfAigqIIagmt2+QIOxd18eaLn0orsXerrfyd8rcPr1qdkg==",
-      "pathname": "/en/Tag.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 430
-    },
-    {
-      "integrity": "sha512-GQHLg1SdKxzkkFoGADbjukRU/boReDlSB4RyqE/0tmhn1qR82kx3Yf2DdS7R+HthzKhqSB9j+dB1Uuse6cr8FQ==",
-      "pathname": "/en/TV.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 349
-    },
-    {
-      "integrity": "sha512-zWz0sM4UtAVx5KvVnj9BhD3C+Xb8tEh8FDjCacjLir14rCfg+eM2AJ3QCfYXMkEWZG771/DZcjoIEgsfGeR0ow==",
-      "pathname": "/en/Swimming.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 454
-    },
-    {
-      "integrity": "sha512-cQo2fCJ002LvFs5ONiTp13Gmd01tsC4mj5a5jGi8z1eOYFcg2+51+Gvp62Af8chCuRxuCpJdf2SUdqXV+v6Q3g==",
-      "pathname": "/en/Support.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 450
-    },
-    {
-      "integrity": "sha512-5BAEV4NNSWxRRBP8bucMc2aNanfr2m7kbYo46dUFNCGS30ahtc/mZwc1wCqfTBa9142TCbTe8N9ECcebsLQulw==",
-      "pathname": "/en/SuitcaseTrolley.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 605
-    },
-    {
-      "integrity": "sha512-kgqXh477IbtOJup9qQ+x+GRTzOC9/ImW4uO36tRFtDdpIiRMcC++IPLcUR3S/yG4qzet7tPiCYgkZfKbrQ5Fcw==",
-      "pathname": "/en/Suitcase.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 402
-    },
-    {
-      "integrity": "sha512-zGOx1/ndcgzvX49DCRHkGQ1LdrlwPU65+2tbj0I2b3iABt5M5DU3t6htkHf8AKdynE+gIyHeTJ5MAD40eIBudQ==",
-      "pathname": "/en/Success.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 308
-    },
-    {
-      "integrity": "sha512-Avbs8vYDfv+9+aQPhedVCI1vxX+3NiL4JTqgo3JrlN6fUHDuH7iFUoVRB2o7zvinG2JCWmH5UtprCFsn1qFMEQ==",
-      "pathname": "/en/Stroller.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 490
-    },
-    {
-      "integrity": "sha512-BWWJirtHUuuNL6iewdD+Du3R8HHR1VPUF4TiZ3JU/W0H/YN4cAup+txoSiSyRQrOch78UMbf4WU+hdvaC1IGng==",
-      "pathname": "/en/Stove.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 397
-    },
-    {
-      "integrity": "sha512-39DyJTSBmW4P8wCZ6uexANcBteljGPp3CGlmfpGH4K7wev5zxrEXEbwrQy1j0ptcC+/oYvXsXjAQTGWwNEuNhQ==",
-      "pathname": "/en/StoreFront.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 647
-    },
-    {
-      "integrity": "sha512-S17R+xlWRgnHoV8bckBhSGC7LfrHH6Lb0c56M/H2zzeJd0g+CfLLd3BImfiY3SdPUeZJbQURNPcFENIA+AJPYg==",
-      "pathname": "/en/Store.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 427
-    },
-    {
-      "integrity": "sha512-SNRu5Y/SKE6CIOf3B4dCAEqwNMKG2C+bxqeRSHULHnYHboqBypZ2ishc1MjjIM07NfxyTVmoFfMlnQAbn0GFNw==",
-      "pathname": "/en/StarHalf.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 3369
-    },
-    {
-      "integrity": "sha512-CljuNt1ZTShNytesJKs7CSZW1xkJZrhlsIqIjw8RlSgQMCftoPmVs19fD9m1CBWQ4Qa23c2y639piSlGiyz7Cw==",
-      "pathname": "/en/StarFull.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 490
-    },
-    {
-      "integrity": "sha512-+Z/k8hu3zvsFkduGwAHkFeBmFPiBtSwiWM2EUI1LwKquVd65owI/QDdJc6ODGx35uswDBlgS8XCLOpKZ1mkssA==",
-      "pathname": "/en/StarEmpty.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 471
-    },
-    {
-      "integrity": "sha512-HduqZsIsP+3dUc0RtszXICC2B7MR5267m/6BdLOnRctt3jaxR7kqLC1GkllAlijqaB15n+VHbqr86l0AAhOFdQ==",
-      "pathname": "/en/StarCheck.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 2437
-    },
-    {
-      "integrity": "sha512-qF+lyg5FUcsWW4xlQFqBFlO2HGiXu092OFSeEXeWdTxwoOVsNQ2R5znyyjREEVOM7cLyLIjDqWPYkC5cBnuLMw==",
-      "pathname": "/en/Stairs.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 339
-    },
-    {
-      "integrity": "sha512-dMmX/yYcQWqQYfhdjFBPiWzxzRsU5OI7Loxa9Dv6KnPo1HF2VOPKzmqDD24d1jkyLqHK808NPy7fvGieyQ5LiA==",
-      "pathname": "/en/Speedometer.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 456
-    },
-    {
-      "integrity": "sha512-9cltSL/rlvxrqKW3aKb+mOwMIQhatFB9MLZqjqvsBF2mAWuPma320XCtEOMXOeqGgkP+8SiZnjj0MERMmtr0Xw==",
-      "pathname": "/en/Sparkles.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 654
-    },
-    {
-      "integrity": "sha512-BVXj9D3MKODTcmaYG4yCgmLphecQlOonIaTZhqFcaw6cwDx+VvRwUpNjPGc047QvvsoaBR84h9IPQcFFIQG+Fw==",
-      "pathname": "/en/Sorting.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 354
-    },
-    {
-      "integrity": "sha512-eCJWHSc0NaqvMTOBWVbJgXH84iUfG12TDmZHKY8m+ENilbd854gFVsR+CYR1EkrkU3hBL9TqE5HFA46M2MN8dQ==",
-      "pathname": "/en/Sofa.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 524
-    },
-    {
-      "integrity": "sha512-fljsvdGegAFcqtIQ6U4PEkWSmIW/RXhZRZnNR2RAwRobx0AkgrnEZqlW1lQAFgDvu0SMeMPtPFVgd0JSwp+Pog==",
-      "pathname": "/en/SmileySad.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 339
-    },
-    {
-      "integrity": "sha512-GAlcS+MHaA+Ow0jV9PBmXxV+Diln5Lq6J+0yh78lR7FRwY/nNE0R9GjLeamhvMtwah9hR5j9bd5ee0X41/XaKw==",
-      "pathname": "/en/SmileyNeutral.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 326
-    },
-    {
-      "integrity": "sha512-mi+EVuG1SKAiuDGaCV34ZRAWCXPgWXIVZRgvLKouDmhzLB8hnogYglqtIdKVAygOyxaB5dKPzu60g2O++TvjrQ==",
-      "pathname": "/en/SmileyHappy.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 1013
-    },
-    {
-      "integrity": "sha512-0kmfrbLb8tbRqZgUhhj9QFUTcg10ZtrgDRo9qho4jG4UZBwEouOkL5TsW9NNq4mgODpWPey2IJXlZMjfYjruXQ==",
-      "pathname": "/en/SmileyGood.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 359
-    },
-    {
-      "integrity": "sha512-SOYcVv3zSxqNQ5gZDGqgss0kDkIr/Lw8V/tI/krtn5gtadcozY3cuMHw6J3tjBuryokLsj9x7izR5j9+VgEm6g==",
-      "pathname": "/en/Skyscraper.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 469
-    },
-    {
-      "integrity": "sha512-+2ysTom75Eo6kayUH5Tc7USlbhVuoDR5dIGBf1G0QS+FGALihD8Vf53cnfesUZ/KtDfdSeJKyL8HOtQVYRNnmw==",
-      "pathname": "/en/SingleCylinder.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 382
-    },
-    {
-      "integrity": "sha512-ptLyZFGmzYRuBTFz0DJRU3Sq0xjc+v6z5gFnxbVY7jDFBIJZUxqHPd34JHKRXrOmDyyBR1kJwBHS68Y5VlNmtA==",
-      "pathname": "/en/Shrink.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 306
-    },
-    {
-      "integrity": "sha512-aiexvvv+rPN4jHF3q3RSWj4xbb2gORTp+6Yo+lhpHYujePQzx/FUsuheAnbDd6A8/I+et9l/NdsfGfDs0adHhw==",
-      "pathname": "/en/Shower.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 395
-    },
-    {
-      "integrity": "sha512-x8E4KFJeUejRCSM1guUIs0b5Ij7FehTMIkFUthtYFn+jdgSjodjc1tmDeAu1tKbHFOlBhKeSW7Y+R3WBe6Pq0w==",
-      "pathname": "/en/ShoppingCart.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 471
-    },
-    {
-      "integrity": "sha512-WXgVbeSidzl1/IqLAKw1N0lsuTOKlIW/BBEUEdS5+cb14Mmz/noQCHdbr5HLz7zxLUQxT2aQjtiTLTZbqgAXXQ==",
-      "pathname": "/en/Shoes.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 478
-    },
-    {
-      "integrity": "sha512-LO1PchsaFYhUGZ0NpZdq0UUFI82tUKAUxqKj18nUOONHZIauFVPdhoqQHT8qze0JFEuP6lGKBRMifX8lz0E+AA==",
-      "pathname": "/en/Shirt.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 695
-    },
-    {
-      "integrity": "sha512-AsrO+LCVLP6i9+1ulTbmZDDoFMIvE1Ch9WbkLBefmvixGI7HlMafY9o7p9/BtWsxVwzUVxxjESrppe3gtIM/qA==",
-      "pathname": "/en/Shipping.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 628
-    },
-    {
-      "integrity": "sha512-nnmWPtsJlpY0Ei8EIrYwLmTh9T3Z8/0qp0G4O6T/jbxRqVsGDyLenhp/t1cwAa8gX8baRjmSs1G/GYrZqMuZtQ==",
-      "pathname": "/en/Share.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 369
-    },
-    {
-      "integrity": "sha512-3KBW9puHWhhVuYHXLI41Dm1H4ZDmRuVTM1IafDCHDLzjlvkPeQR329SuGGtkU0ei8/kIvtkfSBvQou7Uyr9rFw==",
-      "pathname": "/en/Send.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 355
-    },
-    {
-      "integrity": "sha512-LNEw7a3NYo/5Y/hHDD6vyH3K38MYV0R9dHyIkvhens45GBCif8xc6e9jOaThKiNqQRzryZtl0XAKN7MI4IuFVA==",
-      "pathname": "/en/Seat.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 448
-    },
-    {
-      "integrity": "sha512-hRqTgoHRIMaeVCsZgNEtZl8Wqqa3DvydfoOiSJ6arrwe+DSEM3nx+rNI6j7YQJKTAQS5s6RzXgpfPebgYOrYSQ==",
-      "pathname": "/en/Search.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 304
-    },
-    {
-      "integrity": "sha512-Tr+m7MoRCBNXwFnB3QQKX5j6Q4ooT3V/K5A4NqZQiztrOMDCeUdrUnz8U5aLFPwmnJVHFWsW2vlo1A8PY+9L7A==",
-      "pathname": "/en/ScrollUp.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 269
-    },
-    {
-      "integrity": "sha512-vOjGxDYxyI8556y+Clpid1C4Ir5H2gKggclo0KyB780hi8GT7448ZymfeArb65gBW7K2RJiGvNu8AaNrbOC7tA==",
-      "pathname": "/en/Sauna.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 1847
-    },
-    {
-      "integrity": "sha512-ee4TAUhFsx3dw1FtgGToQlCrMDS0TtCjdhOF6lmlWQh+W2GIfGInPaGJ1O7joxE6imyc2HD+BiDXRKmHsHw1gg==",
-      "pathname": "/en/Ruler.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 389
-    },
-    {
-      "integrity": "sha512-hWdWQtZfpgBqp+hFcYrLkvhDgic2d4UKM4VI13w6vBe7FPgd+N1lWv54M2kWf6pNUYUeAzuAMXEFUNq0KJEDLw==",
-      "pathname": "/en/RowingBoat.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 757
-    },
-    {
-      "integrity": "sha512-hijXp0XNaqXA54RZnMPhQcYHuteCdiMi8Y4Kz9WSY7ac3n50+V/GGx0j7JVDjw2UHnZfsIkvTLIvCoomTzs6dw==",
-      "pathname": "/en/RotateRight.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 493
-    },
-    {
-      "integrity": "sha512-NAL7EkleXgzvFs4EYKT6Nw1+/fIIJoE+FNRq2yIcz6oAMsGtqwJpcqSdg4zvfHjl/vUA865dLbKqLVj8cVkczA==",
-      "pathname": "/en/RotateLeft.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 489
-    },
-    {
-      "integrity": "sha512-6v/bt7qww5LOLS1K729Hes7pj5KfQepDc8xWhPORzzD/Xwn9/Vkpr9sSkZMRzjoHSIp1kJVjeXoT/BimkVx9RQ==",
-      "pathname": "/en/RoomService.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 348
-    },
-    {
-      "integrity": "sha512-T5nyX7xDwW8ApTB8hPnqeVLiIpRMpkU8vXpTRSov7VGhz+9HrqYwKmrSBLJbaCa/xIIXa2RIX/+K5hRJy2VT6Q==",
-      "pathname": "/en/Rocket.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 586
-    },
-    {
-      "integrity": "sha512-9tNkW0BSYiQ45Rz5iwCoqRTMN8glLdhfW6ii3uvUeTYtU55TalX5bJ6cPaY29KdcZKpXiuqE78OZGP/cRa5GOA==",
-      "pathname": "/en/Road.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 270
-    },
-    {
-      "integrity": "sha512-8B4W2xTdLQ7erOr+7lu7th1reSaBxu/djXWkRBkVw0PTRk/6LYrWxYJQ7wnYWl8uR3++FD8g/CP9s5ODT5pNXg==",
-      "pathname": "/en/Refresh.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 321
-    },
-    {
-      "integrity": "sha512-1GLni/S5xFLXSHjgjODRR3YKKK1VLdAbmuDcIg9vzOclvzkm9X69uZTgZl/qOoPQvh4vtheMx+YWKknv1LvofA==",
-      "pathname": "/en/Question.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 363
-    },
-    {
-      "integrity": "sha512-QD8XaFqpGV2QOubk2sNN8isxf/kQZdxy7jrj+SCpnbZFrb7rcp1ZB6URD6O4zVzBLmE+hL4q47UxxMqvmzbNFQ==",
-      "pathname": "/en/Propeller.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 962
-    },
-    {
-      "integrity": "sha512-Zwp4V86OO6/rnojWU2dt1b6MfpUL1rMDmWyOFDynNiiJDX5OsJHb3gPrlT1d4aH43CbcWgeEce1cK3x2rRO9mw==",
-      "pathname": "/en/ProductTop.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 377
-    },
-    {
-      "integrity": "sha512-h8GjOcGhsvTHVhjI/mXxzSLVcRU+eabdcRhOU1muKttHmc4fyYh0esViiBSXznZIQZIPhhrn32LflUv+w8Is/A==",
-      "pathname": "/en/ProductStarred.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 397
-    },
-    {
-      "integrity": "sha512-jvLBkioScixdqf09ybxmSGeT2oh8oM+qAOV4IVlHF8mn/4vjkEQER41da7vTBt5oNHPV577HGeHF2G2k3es8iA==",
-      "pathname": "/en/ProductNabolagsprofil.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 491
-    },
-    {
-      "integrity": "sha512-w1eRPYLHiLTkjy4gelO1pRfifTRY+5kJwRxiJ9V2Bw3QheYsceNMz8hY/PbOHo8bKWtzhiTOySybcwN4guO9Yw==",
-      "pathname": "/en/ProductHighlightListing.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 380
-    },
-    {
-      "integrity": "sha512-S9T4HstnejqyUY8dW8xMZtY03wC7UtW75xAzVsUNN9d8uJiuLtd3hutK6nLvu/zgxzH3GEOquyMx7RwnZJyiKg==",
-      "pathname": "/en/ProductCarousel.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 390
-    },
-    {
-      "integrity": "sha512-HEb/w3g9yms4yVwHlZA3lCLnZOY8ajsvppXAJEHdVuqGPqoZpkDjIIjGHg61hvOTSLHB23SKc0//K99aFTTEdQ==",
-      "pathname": "/en/ProductBump.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 349
-    },
-    {
-      "integrity": "sha512-rYyYCPuuS5g8b29TBOCzJ/GjuW9xvRIXpIjYuqGnx7iR2gb0Qkdl1CHkCD/hZnSdx+isTBrbBO1JkUpIsatobg==",
-      "pathname": "/en/Plus.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 257
-    },
-    {
-      "integrity": "sha512-EPIirwMcU/UPyaVHVeUJCY8ld3bFWRFwNwhG5ntnQebWCTUJ/vkIeIxCuRJm+PYjJ5hYGMa56dP9Oo5LaErzLg==",
-      "pathname": "/en/Playhouse.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 462
-    },
-    {
-      "integrity": "sha512-M1VTHP2HiX6DlhRjlYrKZNa+zgd3Voz9I8pMF5NlCfWXudhtrdoJPtU1Vdb3+YH3NshttEYfiZIxoftcbM/axA==",
-      "pathname": "/en/Play.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 693
-    },
-    {
-      "integrity": "sha512-xE3F3MGY0+nAObtF7XPBZbcbCvA0S5Uq+G7g1+zu11PXciYo6NdeXgSYjaJ4wfzLK/u0ZJvCqaMFltshHZKPHQ==",
-      "pathname": "/en/PlaneTakeOff.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 716
-    },
-    {
-      "integrity": "sha512-6xxnaEn4bhPJnUKkcbClfY1g3sbMlOAxC/CTzPvI5xNUpf5ZROnm2K9/CzWWst7/j5hFhEMeIXrRkKETYv2/Ig==",
-      "pathname": "/en/PlaneLand.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 809
-    },
-    {
-      "integrity": "sha512-DLOiczCcbaVaFqYxfbZoiPvdLVlf0W/yzpkvetwLqSqy9HpZ+fNnQmn57LlRlMR/JlDcdXoX+92QW5mBOykcqg==",
-      "pathname": "/en/PinRound.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 1977
-    },
-    {
-      "integrity": "sha512-eV9FqqXdH5BpyTrN4RUnaEdF+yQeWdBTxSwo3SWQ3wWQr8P3A7UanV4upTMz29fC58wOkqxxq4cVr2hJjOW3vw==",
-      "pathname": "/en/PinMarker.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 439
-    },
-    {
-      "integrity": "sha512-/EHp9bLI5QG4sIieMgRmj8hLV1nQLedxehflc4fQJL5bZnWVPzWyMH+cftcrd5OAGQ/P4FKTrUoI/NVhRz3Z0A==",
-      "pathname": "/en/PictureStack.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 1933
-    },
-    {
-      "integrity": "sha512-mIJqjOHq/m9e4W1XCvKOFTLnjGoEAz6o4EwmanICel8zueVwWCjQSgfP114+SrGkt9Nb02L4UQInAlgF+a8yCg==",
-      "pathname": "/en/PhoneUsed.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 456
-    },
-    {
-      "integrity": "sha512-zbKr7NPOrToQkj+sC0OQ/MGCXc0pRTUt1BsCido95HC+stKTx9+GIGyYRt+dC3P3BqvsAJ8QVs2V83Gam/5bUw==",
-      "pathname": "/en/PhoneScratched.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 464
-    },
-    {
-      "integrity": "sha512-S2ERxQlrRkAzOap4/gIL1K5xj1KBFrFY+99PsGJMJCBtWGqjnr97o0Srea6FXkZHfbPxIQvV6Tms+ruE3C1MGw==",
-      "pathname": "/en/PhoneCheck.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 4037
-    },
-    {
-      "integrity": "sha512-/9UBjc6mqHYccTSSlqtoCJFsn6kTzi6nbbCycKjwGDe3bItOlxpkOk/tDkZzy5Q75w5CnfJy47+cRlWn+mBfDQ==",
-      "pathname": "/en/Phone.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 398
-    },
-    {
-      "integrity": "sha512-KlQFO2CXsUX6J5asP4Cy+9tb1CmSNsex4mtO17IusWoCrPOlic09+sH1unTZK+xYYHoUga422gYcnR1Yj8Yrww==",
-      "pathname": "/en/Parking.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 329
-    },
-    {
-      "integrity": "sha512-mDha8kfYtqxfrQzAF/0uTm/rN/8Ku1vgLgLl2hHb9JZ5bfsnkltV2DVLMORHknrr+BX+wqA1Q09fk2lflNNvGQ==",
-      "pathname": "/en/Paperclip.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 353
-    },
-    {
-      "integrity": "sha512-EvcerlSzcqJssdrizlZCpHS5MOJwyKF93UnG6h9Q+awEQEIw5K/7qmEsVlmUAqwo8e7CtoBgsnE+W5gxcZbXKg==",
-      "pathname": "/en/Organize.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 355
-    },
-    {
-      "integrity": "sha512-fXHUq/4SWvWjf+ndyn5wLbxcLPXKJ2pWzBdAL8Iv4UUgbIwJiPO+AZEHAwPCgENbzO8UQni42UDEZk8RDJaqnQ==",
-      "pathname": "/en/OfficeDesk.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 365
-    },
-    {
-      "integrity": "sha512-Br2oLK6d9yrnRhAWKxjIckmB95nw/ZDYw9Ue/y7TchwhPLjgd5LKMl1jFfY74QZ13s9P9CCs3NV0swvIxEsXxA==",
-      "pathname": "/en/NoSmoking.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 480
-    },
-    {
-      "integrity": "sha512-fCA1MN9WR6yaF0dExB/HpPd3PLfQSHxzf8pUcevHtrnVpQ6RCBExiQe3Fmq6mPjU8dGNkyQ5hQ7HL+tldmeWBw==",
-      "pathname": "/en/Mountain.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 425
-    },
-    {
-      "integrity": "sha512-91VOBW2FarxE5DJEbo/f0CjVJgQOoFW1z3cZAHRNR+AQgbu+NERzt86csRrPomTfuobNkXF4/6u3IL27QvhGmw==",
-      "pathname": "/en/Motorcycle.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 638
-    },
-    {
-      "integrity": "sha512-l6wMeJfJOgRBBBSwfVbhk9vOPw7/CZ8ZM5uw8FUw25WDZhmmUMsBjaiGBiEy0mEbk37EsRBRbS1Hrg4Aroc0Dw==",
-      "pathname": "/en/Money.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 406
-    },
-    {
-      "integrity": "sha512-Gk+t5gvfikWbMtAsFPgI+ZDkU8ZdFI3sT/Z05os/DbmHcb58445yBYmEKm/tTgyqCuMqVwh7UwxGwIrRg39mxg==",
-      "pathname": "/en/Mixer.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 2150
-    },
-    {
-      "integrity": "sha512-lNWOXC48tr+UX6e8Yugbas9K98TPpTEtAQQB+RzJxlNzr5k7tUy6vaOYm9VEMH693fm0fZJsSF0aCUi8AEAQaA==",
-      "pathname": "/en/Minus.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 245
-    },
-    {
-      "integrity": "sha512-WUsIc57oNhRKMyqFPVHidQD0Ew5poauw/IrFMlIxHPP8bJS1uSo/tBBbHBh6UmVUh6DaCUsSvXqTjiA2vrUXMQ==",
-      "pathname": "/en/MessagesFilled.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 455
-    },
-    {
-      "integrity": "sha512-RKZrs7Y8mQGn7XzVu2JDTDv5NKIO1y7MUCDcNZ+L8gCxaPbKBngpJL1kbAFa+lFujZrJo5rGSYlAjQGTAFsGyg==",
-      "pathname": "/en/Messages.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 319
-    },
-    {
-      "integrity": "sha512-NlyGkxN+rOVcAIR4goRfVc71d0QBhZazuCb0uvd+AA9sJyUvj4s/De4kcXUBQ3/GiZqEjlunUQSwuPDoFGUVUA==",
-      "pathname": "/en/Megaphone.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 454
-    },
-    {
-      "integrity": "sha512-393k76YBHjWTb+uG1tTq8YDMkQdRXAruz4OYq5/H8yERcv+hkAUQ8ZnFjTu/wj8OpAW9c9wwCfG2I+4tU139Uw==",
-      "pathname": "/en/Map.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 324
-    },
-    {
-      "integrity": "sha512-b3iGFYkZncU9ZjDLPS2XB3w4x4/rZRimF/rjOYVSI3yZu0R/HPehvpTqi0qQSPITWWYtayT4TrUYuDAArdwhwA==",
-      "pathname": "/en/Mailbox.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 461
-    },
-    {
-      "integrity": "sha512-Nkd2FGEqp2L/O9+AVqyBwQwtRQv+E1J3n8Se5ZeNlqakY/ZfoDiGIB3dbfdw6S4NWMfSqSkW//2yhnCaakZRoQ==",
-      "pathname": "/en/Mail.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 318
-    },
-    {
-      "integrity": "sha512-QPEuwY2EAGMPWt0AX8wn1MWCvc2K7sDOAiMwtV0i4IU1HgzzIJi/KCJLhnsqNmRndI8f9xtWwPxMHN6NnEtyRw==",
-      "pathname": "/en/Luggage.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 460
-    },
-    {
-      "integrity": "sha512-1GqpuDn6uW6D3hvlcI54+yWBVXF+ibol3u6kIL0z17VL2EV6dfWc8fOSh70v7bheJii/dAcZXS+Cl/ReLUuiWw==",
-      "pathname": "/en/LotusFlower.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 612
-    },
-    {
-      "integrity": "sha512-ewnEMGd/2H2iSOdBwkFl9J/YjlUc/I8F0agPPnrn9jpJXhuwlgGk0eENPWLpN2hMd3UqhcRef05e298Wl95t4A==",
-      "pathname": "/en/Logout.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 312
-    },
-    {
-      "integrity": "sha512-SXB+iv4FrXSJROXpVPm62PQFE591bLM9tBY7bhJjMUIfjyMEpUdzN9ICX/swMznxwi6WiEg4GGu2CM3YuEzcmw==",
-      "pathname": "/en/LockShield.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 1794
-    },
-    {
-      "integrity": "sha512-XaJf7agXa0qS8lIIXIp15ubiDj1HwZ4YfavMs1hJ/uexgyQ5jQ2DuY+utT/9S7NcHsreGWsl8ThzRsucpO/pSA==",
-      "pathname": "/en/ListSort.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 300
-    },
-    {
-      "integrity": "sha512-zl9WbHTLR3fIf+SWIkJKV9P0/+CDttQLC8bk9e5nOT3Eyxo4olwWHgrPSX+x+1Jwh8qnLG3d6B7Iy4abKaWEtA==",
-      "pathname": "/en/LinkExternal.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 391
-    },
-    {
-      "integrity": "sha512-MuKchve6TJl0Hwvl6uJBHto3W2m/pSjmLbnf3PCwvyMJ1fBkPws1IA6Os3+GSIXWa8c5Fv2tH5rO6FXucF+7nQ==",
-      "pathname": "/en/Link.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 355
-    },
-    {
-      "integrity": "sha512-LypND+1qMPCHjxt5aPW7KB1gqt2jfNCmme2b2HxEVzsMoG7rWprBpTcWZ8Z6JK0seaWw0bAUvyCJdY1EzTpJpg==",
-      "pathname": "/en/Like.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 412
-    },
-    {
-      "integrity": "sha512-BVDuICNi5+ETyAinZU4Hb0JxWTqP3met+gbIimZ8ABEw1zI8PQZRzqOc4j6Smf/n2Ndpn2/b6Oqu+tF4iPtR8Q==",
-      "pathname": "/en/Lift.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 379
-    },
-    {
-      "integrity": "sha512-Fa1niAw8zyQ2Zg4zQHKlyV8z6B6AQ1CJOA8tSmDJVu9qlaysRr8QxauQJVEjkKC/vdCpA9tv+onZ2sYSnI+qNA==",
-      "pathname": "/en/Leaf.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 328
-    },
-    {
-      "integrity": "sha512-dq/Ivxk3ZaJbwY8by/yT+cOJyGwm90RX8OVOdgL3pltztqW50vUOuA1raWpCKXEZAHmEa4HjGyybe2mUmtH37Q==",
-      "pathname": "/en/Layers.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 326
-    },
-    {
-      "integrity": "sha512-70KwIoW9E4GTkqiL7q0jFSZL89a9EJqM0VrpmqVx3jkGrU25CvgI+WNa5xTTtFrYIAgo47c5Hn0GNr7F7J7oRg==",
-      "pathname": "/en/Lamp.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 284
-    },
-    {
-      "integrity": "sha512-fV7xwsEd9EydhJGLlFGgWQioZYAnFbTElrJq65aaeB9QTeUW2cvnGDdKBe5wCWWNRV6Vy7py4NTWpqNx2WtUGw==",
-      "pathname": "/en/Key.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 641
-    },
-    {
-      "integrity": "sha512-US4TscWDcXmK8jriEIKtWIe+JIKf/3DD+sYNt38JnPne4vIPtx49aTTDEt+JaJJtIo2bXR4iZCNgjAAMUqiaRA==",
-      "pathname": "/en/JetSki.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 718
-    },
-    {
-      "integrity": "sha512-cFi1vFIv2g1S6+bVvy+ovDhalj0h59lZbXZr+hyZ/UqrDTG/yeF3xH8unfcyGejFf0f3PRMGJ7jYE1z+LAmR9A==",
-      "pathname": "/en/Instagram.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 625
-    },
-    {
-      "integrity": "sha512-XApHG6qi3Up2fAGQviFO9g/W9Ec2tbqoQaHpRwVAn3RuNLrfb6UKm9xJnSLrpTpAikfbCVBodIEI0FDX2h89LA==",
-      "pathname": "/en/Info.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 309
-    },
-    {
-      "integrity": "sha512-nKkGqtPOdJjTRFKJJrAplCwwgQsZm6IvcpZkJCSht+2Zu0EQfBZH7PdOwdn5v6/3l4gHhJ+VlJqffC8brRSv4Q==",
-      "pathname": "/en/Image.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 1596
-    },
-    {
-      "integrity": "sha512-mYtP+3jjprqOoAq9Cwa7KkIt+KF8mDA3SQTLZAJEJB4Kmki7Xol5TPRnqAgwbr2DsY9KHK9HYgW5Dix0llCjVw==",
-      "pathname": "/en/IceSkater.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 2555
-    },
-    {
-      "integrity": "sha512-tFPQ7V+bOWrsoIt8gbfK5SDLAMKGnUYfAQjbR8MRG9C1xZQxrYMkMtK3PYNHxlc/4o/BUPPMDwUg67J5JHCFYg==",
-      "pathname": "/en/HousePerson.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 545
-    },
-    {
-      "integrity": "sha512-WXG9AlSmVbQNilcF1lqoOuIgjBy8M2Wp3MEKLAphtanBQ2KdNARQXpLeUe23UVSlR5FH0P6SxxYWViBNb4C/Rw==",
-      "pathname": "/en/HouseModern.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 463
-    },
-    {
-      "integrity": "sha512-HEOt3MYsxyhaWSAWPJ1XXXIOErbpSrzIPXIgb/c2G6CAhzJN7xn2/SHPHB8lv5HHrTfnqmaLSzuT4oIP/cBAOw==",
-      "pathname": "/en/HouseFilled.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 354
-    },
-    {
-      "integrity": "sha512-REagc4TRYDZHVtL4MxL84huUFzvJCfccXMR08vJDb83TKMrGwP+2zlfpBJzEeUafHfu1LVkmHfadrsm05s9rjQ==",
-      "pathname": "/en/HouseBed.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 451
-    },
-    {
-      "integrity": "sha512-/VxAGPFSBiA1e3RTQ1h+vR80wtxbt2evP/ItxxB9ruYlPuH7jAV0zAfgISNcqT+0SXb99hxQ9/ktnd6Iax8SmQ==",
-      "pathname": "/en/House.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 334
-    },
-    {
-      "integrity": "sha512-jNhGmuEr/q9/TQj/CNFduTVNoz3il1VRbIS9wBjTRxio/xoIhTQvb2I7HQPfQh8JypBQSI5F8AMJlc5CRiKk3A==",
-      "pathname": "/en/Hotel.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 361
-    },
-    {
-      "integrity": "sha512-OrokUAd1VM8zhH9QcWsA+M2siamt7RobV7RU7i/cc+LXSYbrh6J4GQUnPXQOfhwGH5Cp/SPAWJhuhhXts5uy4A==",
-      "pathname": "/en/History.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 358
-    },
-    {
-      "integrity": "sha512-U9alO3slZZpUVwPVx9FoG12OeYYFOEmwmso5PGt+mq6LH9LzKGquil17gpGmlmFG4NxJdwFfE84MaB+YnYjuNg==",
-      "pathname": "/en/Hiking.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 1461
-    },
-    {
-      "integrity": "sha512-LaIeWEx96COvKCDuR51KWwrby0oaZKOvYeMDKSdI57AznlKWJzTwjEOS6eAwGl7Xrp8s00IIRIxYGEZccrSSug==",
-      "pathname": "/en/HeartRate.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 466
-    },
-    {
-      "integrity": "sha512-IOEB7iHzcHRwEN6zj7OEX0/wjJeRmUq0QhlMrFHpIQ+Da8UT/zMGF7akS+YdA1pfdJPkbB/kC5zIcAgcrebPHw==",
-      "pathname": "/en/Heart.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 389
-    },
-    {
-      "integrity": "sha512-OsT4RZMEEazKFBs2AGHJ7pl+PTeMdQiJvASuG8IIZ2jIlHYobgsP6t3E2SI9yfvJ+/FXvFBOuCtRBB1S6NUhZg==",
-      "pathname": "/en/Headset.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 416
-    },
-    {
-      "integrity": "sha512-JrwOJuROTl5pOxBmcYZvhs5IqttnIYpf2r4mWDB1ycZuHIA/xcZY61iGkTVshFyzDvn0uOAzujJtIy3A4OFF7Q==",
-      "pathname": "/en/Guitar.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 729
-    },
-    {
-      "integrity": "sha512-VtMj5pymIQBllLRTC6IndxiiNpdtO3pTaAvFY1jTHlDRzSy3TUeRZcSvEp+zS0RF3+EAmzb1uMCZPY7S3FUq2g==",
-      "pathname": "/en/Grill.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 801
-    },
-    {
-      "integrity": "sha512-Jit2h3UQQHSP2iFBUBVhW/d+bIjo90ZnapsdgIwpuLrJaCn1CYyWMo6/pRX3BWC5hYjjoBj6gMEqYramT7j+OA==",
-      "pathname": "/en/Grid.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 666
-    },
-    {
-      "integrity": "sha512-HPOH0tYJ2uJwmuO3T1NpQPi2lx8s9fbEZCFFfrFJBCoxw2+s9JhKCHlMafc1seoax7sordumI3B5p3gywX95CQ==",
-      "pathname": "/en/GraphPie.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 416
-    },
-    {
-      "integrity": "sha512-rB3E+cU2RFS2y7x5/4AN3C18y1374uT5x94KpbL5bDmGRgvmmvO562MFjS+adEBF02rzDmapQUN1GCuALzub0Q==",
-      "pathname": "/en/GraphLine.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 300
-    },
-    {
-      "integrity": "sha512-pc6eV8mmmFVoxTqWRSvjl3OBQO7iuypMM6ij7lk8BocT4vmRZRCyUAN5wu7a6VD+tQWPB5SrUgzs+VHBHnQSMg==",
-      "pathname": "/en/GeometricShapes.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 716
-    },
-    {
-      "integrity": "sha512-nCM/sA5F63nsaTHPPto39PGmNXzXg8/Hhl8UfRVXdvONYPQpkQHWk7r+9YchxOxuVmuuhyr3ueCyKkTMTJvFQA==",
-      "pathname": "/en/GearManual.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 312
-    },
-    {
-      "integrity": "sha512-P11jmE0EGqLx7skviO85oArXSZ7E1jRH4X/SPCvnPvPYb0mgsMQG/hsz9humCtt0NQ+iu8VMj1VpTk74hNn/bQ==",
-      "pathname": "/en/GearAutomatic.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 340
-    },
-    {
-      "integrity": "sha512-JsuCyBOyxIfnYLsyjK+0qjBVrdRrPmeY8iK4d/AQ+s+xlpLVuR+RshP1OA9YKVU1Cwn0llPbxU9lxexxCaUu/g==",
-      "pathname": "/en/GasHybrid.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 2492
-    },
-    {
-      "integrity": "sha512-nE3OKq6L0wZYj2EnL3Y/7kwC0s3FegDUcCor0BTRWEnrm8BXGN0d7VmomeimGSQgQ/uJeGsjqO0Zxuh72QCezg==",
-      "pathname": "/en/GasFuel.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 565
-    },
-    {
-      "integrity": "sha512-ufZJRwU/LsVUaHpytwu6K5Kc4lLTdkAJqzV8ajOsM1slF9yUFaAOXBSRxwDvEkeVE8qJupKLV+NDjBsEuwVtVA==",
-      "pathname": "/en/GasDiesel.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 447
-    },
-    {
-      "integrity": "sha512-UrZMnXUJpDHwQLU9Ng/L5wjGtJ4gTmeI721S94YfGvlW/Ha5bzmFTbNF0M6nnAFdn8aZb4KI7IFJuB79EOsSew==",
-      "pathname": "/en/FrontWheelDrive.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 536
-    },
-    {
-      "integrity": "sha512-0dHuPkZs33NWHl8i90JhqdWvxLxqSI2JePgb7wT0Z2FQC60LHjb73oxxdycSFtbTfRIz2R/x0JhGRKPT7G0DNA==",
-      "pathname": "/en/Fishing.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 464
-    },
-    {
-      "integrity": "sha512-dKPvJ+SJ4hcr2abVYyMxyTk8MPGa8zud0WglzyzolJwAq2URFMZsUqaojzPDDglx5en85b1llcOQU99P8Ei3ew==",
-      "pathname": "/en/Fireplace.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 559
-    },
-    {
-      "integrity": "sha512-+ndeOMmPYgCfSHaEWzhFhiBnicAbieIkGRgtEgKvB//xowHMxkp9LZKPPKjT2xVX4yuOZc4tCcjwrR+OGX11Uw==",
-      "pathname": "/en/Filter.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 429
-    },
-    {
-      "integrity": "sha512-Qr/mNsBK+Z0NFpXKcDkJzfFni8txp1hXaxT03MGRNqTbhlu5DpKzCZrO1RFr/Nf/SatNljJ2BZep02G7Csa6YQ==",
-      "pathname": "/en/FileAdd.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 385
-    },
-    {
-      "integrity": "sha512-WsuYQeKLcVa8qA9nNpWTcFfE8K9zQz0jEx7955KOApci5Suhvaj2quE8tqwG9Ux0HZR8eLpSotbGQJmcKaMV/A==",
-      "pathname": "/en/Farm.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 441
-    },
-    {
-      "integrity": "sha512-ErUMTM8Wgg6ZJnh9QgxmQvRZfyY5dSeYpsxVd6fSlR0k40nPZowYLvCfovJI8IuseRt98KKnLR4XuCJlJBnKmg==",
-      "pathname": "/en/Facebook.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 740
-    },
-    {
-      "integrity": "sha512-ivwJDRQKMT8kFejRMk3GR3Akp7WobhH/WEyCkwgUVayXlPHnOfbmHZpU2vnedJyj+WxUTAGEMAke1mdpaB5pnQ==",
-      "pathname": "/en/EyeOn.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 471
-    },
-    {
-      "integrity": "sha512-Zi2emX0w8z7HGiQjozx9Ej6JkgYW+3A1lpsX0AVVKLPjhRjNv2stIYlRCCZaoOwTITN31zK3D4uNhyiS1pw0Gw==",
-      "pathname": "/en/EyeOff.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 488
-    },
-    {
-      "integrity": "sha512-s7TOfMXSbHREyzJqmM2z/lU1b5g0l0Mgwz8jhjlCnZrsf/KeSm3GMxUXoIyeP0kOH7BB+Y1XiigW/9tFtlsIjg==",
-      "pathname": "/en/Expand.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 304
-    },
-    {
-      "integrity": "sha512-ks14KpuWjDAETZ+YeOr31VcwH8L8nlRCPFGq/qFKTjXkSkbFE2UVi3MH5FSe2RGdHCUKua3QMcZF089zVwlw7g==",
-      "pathname": "/en/Exchange.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 501
-    },
-    {
-      "integrity": "sha512-mxzho+oWknWTUAW653sScKuymNWVNuFwp6miSrJtnZANVFZykZettdFnMHb2MNnhwoBi5lUTUOt3C6djnwdLTg==",
-      "pathname": "/en/Error.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 505
-    },
-    {
-      "integrity": "sha512-NiQef915BawnepO7X6Gb0j1zA5dI3PdbVTboqHRj/wN52X3dJqyMmTLBx3Y4io8Vaxokyzt/J72dLCtP+9cm8Q==",
-      "pathname": "/en/EngineBelt.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 1696
-    },
-    {
-      "integrity": "sha512-Ix+cLAfWcgIbj/9Nn4tFIh77Fu5sGctU15/15A9zaBnLZ0Xz+HKOR4GKVBtrrdKB3c9iNkITf8RysCwIYLAWTg==",
-      "pathname": "/en/Engine.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 383
-    },
-    {
-      "integrity": "sha512-F5llfaRw3vYxBSld62TEBKGmcX5c9lbv7GNZSRcTSBeRxpnT5uW5cevuzS+qVUg0fXQkzsmYB8QhNvnMO5Ydvg==",
-      "pathname": "/en/Energy.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 1764
-    },
-    {
-      "integrity": "sha512-uVPGa4nVq/dHAKKp2nrQsTo5jNcco364cWCXUXbGh1DfQ8d0pF5B8iwXIgzoEFr9eigZ5rkI1EIeryHnEGFbqQ==",
-      "pathname": "/en/Edit.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 400
-    },
-    {
-      "integrity": "sha512-YOIyJQZXdIeCJrhUjVT8cZjkNWa2RY1FR0UhbabVsJ7QOX6TSMqK2ggAe7+DtrMUjFZtFBp7HV02rebKCor+wg==",
-      "pathname": "/en/Dumbbell.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 580
-    },
-    {
-      "integrity": "sha512-rUu6f8TqSXEZlopxDlQin1XGheDKdl6DzXrQWXQPTnffvXn//6Ti1p+xYas+mgflCDofF32SykrpSdmXGWPv9Q==",
-      "pathname": "/en/Drink.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 296
-    },
-    {
-      "integrity": "sha512-4SL1HzaMZLVMdw9zWWuMN6gpbSxpRP+hiIHrpuZYge70nBHt+BzSaPlf9FctTMNrz0nsBbmrgGK7q2iZ7P21HQ==",
-      "pathname": "/en/Drill.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 465
-    },
-    {
-      "integrity": "sha512-TUlKuRE30dZTWTOmg7WsX9pnZUgkiOghA0tI2rWLTqxdp8R8i3ci0EkO3QSo2atPwPpw2LEoIZkMto2lrRRLQw==",
-      "pathname": "/en/Drawer.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 391
-    },
-    {
-      "integrity": "sha512-UJU0gNRF7DsDqAk2W7CsQJ6nzR18aUONg5WHj17imvVhPeeSdf/UGWtPZnW7UXGbrpCujoZxnbzEBctP77LGXA==",
-      "pathname": "/en/Draw.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 375
-    },
-    {
-      "integrity": "sha512-6QB7kLKSn/IbyUC/bYFa3t29SKjlwEqDgzp0AJEkU8k/DmJ5ZT1NxKKvpkxGiZNl/eJ61HuxxohLXMDNOhi4Uw==",
-      "pathname": "/en/DragDots.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 543
-    },
-    {
-      "integrity": "sha512-VnmXptnU0hsrZM7CJVaPDswm4F4KLSYOeeD1rESO2Nf+JplV7x1g7SzyplYbGWOHD3AmlaqrEEApFdf57/LSvg==",
-      "pathname": "/en/Download.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 331
-    },
-    {
-      "integrity": "sha512-ZkTj1wulwxxjKxH+7bZE5vzE0Wgqos+f5UfQQqwmeR0yyH2FXE3BRkJk5RwMy2JYPIbJBclpLgl/Yj6gtkn3Ng==",
-      "pathname": "/en/DoubleBed.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 575
-    },
-    {
-      "integrity": "sha512-eId0zHlzr1LBAz6+UhD4ft4fndBiYGwC1q8IWkh6kIq5cpn6KWBPczBtPuQLik0SjfjooZTXcZ6eQkKGS4ebng==",
-      "pathname": "/en/DotsVertical.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 341
-    },
-    {
-      "integrity": "sha512-K/eHVFP1me/zpt69AWEm80cOCAGKYSh0PMJ8WbraeaEv8EplNGPZkSHZqAD811Zc0RMKFOE3SJ+bJ3X3lVOVPQ==",
-      "pathname": "/en/Dots.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 343
-    },
-    {
-      "integrity": "sha512-SWNS0ylE74Ul3rAW5aqCFQ6RBnV80UbNm2zialxsGXK2f4LPwNDKGyZG2E1vQqeyU/3Ob3bfkiPb+IgsJ6KB/Q==",
-      "pathname": "/en/Door.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 310
-    },
-    {
-      "integrity": "sha512-rK85wHrFc+yhp/eww9n7Zau3NaSOgs0FQNx+RDuppYPZHjIeKGy2BtPdcFJLYURhbKN3Hccb2SrfhGAo+KJFmQ==",
-      "pathname": "/en/Dislike.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 417
-    },
-    {
-      "integrity": "sha512-6Q/Cr/UBmJuH7/A1vT4eeupiwfOicua4F45NnC7ixY6az1z2P/PWRfGoEhrFVpL8Ptv9b1DHb1pOkpiXHRPRtQ==",
-      "pathname": "/en/Discount.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 817
-    },
-    {
-      "integrity": "sha512-q7CPStekvltIcDjG2ADgi0Cyxyqf3oluSAovVUupQuWayuuCunBu0iFc92FRAFrG6fhtGGj+BKJnJUsfJN8ldg==",
-      "pathname": "/en/Diner.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 609
-    },
-    {
-      "integrity": "sha512-a5GWvlBFx2qo3rj+QSwgzSV62HGdjWWJosPTWGTjIAA1jcqnfk/WFddhULGY+PTQvQjVV5NcHfmaWPIOW9PtqQ==",
-      "pathname": "/en/Delivery.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 531
-    },
-    {
-      "integrity": "sha512-y3tT5d3i47V7rVTL2osU/lWachZHuhcxQi8Q4gjLK1YobWO4XUEfCtQ8Cg/mJg5Ok9SEJ89sBm1zw9XMvlPzOg==",
-      "pathname": "/en/Cursor.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 523
-    },
-    {
-      "integrity": "sha512-GArSfnja5zKVONd2l+nmfuwryqQwb6YbKkSGmFdvZ4eIvLhPC3pzyTaFk4AFx4i5/WtNODJxEuvCqMGdzcuMYw==",
-      "pathname": "/en/CreditCard.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 368
-    },
-    {
-      "integrity": "sha512-/CTvKsYpVAY7Ds0+4HaP9rr7OUAVoIo3Q6e6H8BANLfbRSTYTd0hLF5LXnWs5nG6FHrwiUZDdtmYTSkeH3fwUA==",
-      "pathname": "/en/Copy.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 428
-    },
-    {
-      "integrity": "sha512-NLg2J0ScMZmnkKqsAzDJiHkJolUrZ3GTpKXO5No7SPPKBUck5TbnZCHJKy31/YbP/oDYCJfyFPiv/yTCDT1HPA==",
-      "pathname": "/en/Confetti.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 532
-    },
-    {
-      "integrity": "sha512-1lFQpx7447dERIyb5j3jLMGe7/LNCIrgvFaUBA00xP7+kN4VbxiVDLKZ+dxzrxXOROoKWOYsX3i3xlzOTcoEbA==",
-      "pathname": "/en/ColorPalette.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 569
-    },
-    {
-      "integrity": "sha512-eAt9SMi2SiwCU9tpSsCzLKkGbriXOYTdUx9sJeo7x3+MJPUDq3Z+5qq/DZcD/2mrwmn9QjEBkuzdeFpBQ/ZTbA==",
-      "pathname": "/en/Cog.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 902
-    },
-    {
-      "integrity": "sha512-4Vw0UQ+1TULaZhLpnpSqJUnDlnpg6mTkbNNuo7BBDkAwaXAX7A7txuf//yQi+Kj402jZW3LI+f+CidAGfGWiSQ==",
-      "pathname": "/en/Close.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 261
-    },
-    {
-      "integrity": "sha512-VqvqQe38JnkDq+62oNAoCQyF3OeFU1MJrYemxrRgTDrE2tRLZRWF8hFJp1Rk7CRyUXJ/6exNhzZgzClh8VWlBg==",
-      "pathname": "/en/Clock.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 279
-    },
-    {
-      "integrity": "sha512-8RitHnjjfCqicOnjiGRHtEXtPI7BSbS+aZ3se1sQmyzYIPvb5noAQPAJP/2IYhnLvc/HDKP+xeQoUmNyzLmFLA==",
-      "pathname": "/en/CircleUserFilled.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 1258
-    },
-    {
-      "integrity": "sha512-+zkTY8OAiiiXChg13GXxQu3Mn5ASQW5CzvlyGADREVJfGK334pJJ2yuxNI6KUVlYSQdRCsD2PJ5jxIE83btYLA==",
-      "pathname": "/en/CircleUser.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 381
-    },
-    {
-      "integrity": "sha512-FNjj6zEJkvqhceB8xTTm6Cc92wnTkHIkJeAAyHYJUenKlhxdKpRNjHdwcX5z00vdU1DgIb0KUZFnMx2n5YmVyQ==",
-      "pathname": "/en/CirclePlusFilled.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 506
-    },
-    {
-      "integrity": "sha512-2OLKIHAYPlGIiHUeUZR+9nI+tyRmA7DNocd6GJm1ol2WIb+dr0M8JrEAGfpVXc6Gu9wsXCVrphr+bMeyb3XJfA==",
-      "pathname": "/en/CirclePlus.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 284
-    },
-    {
-      "integrity": "sha512-ZAfEw+dls+JLlXXpfTgqAj2yK2ZSaAW+9Lysh3Mtz1qPk6nqXwWq6krEJolZbHjn/+tt2tUsmtnYCqdaTc85NA==",
-      "pathname": "/en/ChevronUp.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 261
-    },
-    {
-      "integrity": "sha512-jFhA+IX2Hpzv190ylIMqlImXxoGVgZLmn7a1//1Jrc1A8E/BVAMeGOQ05ZGnGQeYnGkyOCU9AFG8lpbicbBQmg==",
-      "pathname": "/en/ChevronRight.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 263
-    },
-    {
-      "integrity": "sha512-ZNUM6j2BmaeKzOMHswv08K9Bs62OvcQpNJEOdfJkuWElzjmE3p24Th2tuWEN83IgwbO24H9SyNQDtZNwpcpz8w==",
-      "pathname": "/en/ChevronLeft.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 263
-    },
-    {
-      "integrity": "sha512-x3zLcgCjanP8dKb9C7iBe+k/6DxaAKGMrfUFapq0HWSXWw8wTHUV3MZNKAZkVMHFahry6TEI7ttKrWbpZUV7ZQ==",
-      "pathname": "/en/ChevronDown.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 262
-    },
-    {
-      "integrity": "sha512-sXcUr+8mb8or6Cfsh1WpORK0b5ZvZJI6rd3Awk6oopGaLRDb87s9I18h56CS5Z/ROG5TxcfLPl7kAv9hGU2GIg==",
-      "pathname": "/en/ChevronDoubleRight.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 295
-    },
-    {
-      "integrity": "sha512-4hAk8u647e+E+/4jZIxOk5I5vrnNiZY87UAhw4gsj/AHLigkZxNWGccVUz7ku6FcJdVSj5CAZj6sFW9b0MMQSg==",
-      "pathname": "/en/ChevronDoubleLeft.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 297
-    },
-    {
-      "integrity": "sha512-/HAjYpFFCHDdRl6RB+O7DlPKJDx7+efrtujigBp+PDy7Jjb80MpjbjWKFkB+vW4ilDoahNWbxqwPg2iJDUav8g==",
-      "pathname": "/en/Checklist.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 322
-    },
-    {
-      "integrity": "sha512-7u6f85OcezDyLAlnHrp9BeYDMKW0lZCTbuA296eTgOFnH/hWsee5hIRHZHCkqlrN8VPz3LU3FiYzi8CbBRMXIw==",
-      "pathname": "/en/CheckShield.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 343
-    },
-    {
-      "integrity": "sha512-9PVRLnxyse8cqLw67nGQsgOA+uGODzagMmIfSoZia4hPR5XxCxhQotuFUH4J5s1V4vH15h5H+EYyvj/d1fyBGA==",
-      "pathname": "/en/Check.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 255
-    },
-    {
-      "integrity": "sha512-qAlv9tJwXA97g5YhqZc5dGHRYrvgPNMeUjCF8JBqLYmFlBsDbXwO/Ipn/uRGXdusMFc5uE/sOS2jterds17w7w==",
-      "pathname": "/en/ChatSupport.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 460
-    },
-    {
-      "integrity": "sha512-o/WMkSkbWo8FJPft8smiFDEfoB5QtCpA9h6r7O7iR6spHfGdM3G6kw2USygpoVTqfRS0NFqkpwyaA8dJxSa7bw==",
-      "pathname": "/en/Charter.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 624
-    },
-    {
-      "integrity": "sha512-2sK5ns6eSx4iWGD6tUVJve7oru1K1uiwnmaLyb9I8XF69ZpdCzfowEOp9maep+2XAq51qJvu5d/xrCUkdLmi5A==",
-      "pathname": "/en/Charger.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 344
-    },
-    {
-      "integrity": "sha512-dKVyiLr0QvZm4n8XLN7S0zcVgvhaht7KiqWTCeqdfQOP9zTLWt3/9zNgjNeIZp5Nzikc5GvDldvIwu8UTP5i9w==",
-      "pathname": "/en/Chair.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 688
-    },
-    {
-      "integrity": "sha512-zYiUnjQq7cO3I079pWdy0KIh4KTwxqQTQqXsFqowAzlv4ErQK9s/LyBxZqltz0PjJ3QNJZHTfgOfMLTm5aB3ZA==",
-      "pathname": "/en/CarRight.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 1551
-    },
-    {
-      "integrity": "sha512-HmIqaRCk1iasNVkBeybHhCrSx6IdvWgE3bUWe9hARw44v5b9WcbyS8r/GxDwrjAIxIv6i8UXCp0zXZ51jCcWkw==",
-      "pathname": "/en/CarRent.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 2090
-    },
-    {
-      "integrity": "sha512-YorBi2dawvUljjav0bDONHrA1wS6TH3uNC+EHmwqM0zZfYQOq6G1OkyBXofWuaSNg22KCcy+4/KScfGvUPPljg==",
-      "pathname": "/en/CarPart.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 979
-    },
-    {
-      "integrity": "sha512-tZjnVb0OpLe5xdz86SxTufsjdRDkHw/ukIRU8PrNNOPnR62uORZKTXKwA/3/f9BEmNntxDAa0xAdZP5sH7dLLw==",
-      "pathname": "/en/CarLeft.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 1562
-    },
-    {
-      "integrity": "sha512-ok7g234rovuVxBidDrzrw6WeQFygTr9e0QRQDlZGf4ZrTNYailX6mVCQNmdpsOgvdLbl9/exzfuqb/0M/m7ZNQ==",
-      "pathname": "/en/Car.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 466
-    },
-    {
-      "integrity": "sha512-OJVU382mvXDk3y+yi1W0knb/AXbdiCZ3iGn4YhcoO5sFiqL2hR3u04UAHs26fY3UXZ8L69Oobcomw7IKE9pbGA==",
-      "pathname": "/en/Cancel.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 290
-    },
-    {
-      "integrity": "sha512-y6uStew4SgfewuVvIxPigwvl9svmmO/Pz2ha7XydkIbBSFsitj9M7lq9id980ZPJcfvSogH7nkUB1fKMLRNutQ==",
-      "pathname": "/en/Camera.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 519
-    },
-    {
-      "integrity": "sha512-ypuAvwVtTZmUx9vLCBnfBJ01TXw+2p2AIrzVhHPzevlpOEj9J1L9/WNVuSNaPhjrwlFvy58blQj+SZsyLkb9Cg==",
-      "pathname": "/en/CalendarPlus.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 379
-    },
-    {
-      "integrity": "sha512-uOfL+hZB5cURAFpgSkassZT4saGA2bx7uN337sUqB6FrdgJJIjZr0deOsB8w7o6PsXHvHHkpdy2ek17+IfPGiw==",
-      "pathname": "/en/Calendar.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 434
-    },
-    {
-      "integrity": "sha512-h99WYc8S7uNIW8vfrn1tDxVvt/893WFz9CWJDiMSVvUBSW1XVYbRkukSdKeP8KCrEoh9kSFmAEEdgPQIv5vPug==",
-      "pathname": "/en/Calculator.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 428
-    },
-    {
-      "integrity": "sha512-yhl+QUNu5WLQDMUhc1RLzehH+pgu6vVUdG+a5i4Ujmn5XC+bDkpekzGLv2Fa+3mAD6QZuo0NcKwS/rBmYKpkPg==",
-      "pathname": "/en/CabinHut.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 1870
-    },
-    {
-      "integrity": "sha512-20cDBAosVK3imuURtZb/hR3HyT+UmQFTi35aVbxE4yxflE3czrx3QUsNkXUJkEugDrxPYA7Z2g5ZhLxSg9YYLw==",
-      "pathname": "/en/Bus.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 504
-    },
-    {
-      "integrity": "sha512-Fr4cjJm7Fr08OjZoybaV5fbs5QFpiiqIyYirTxJo+5r2x74iqGwvNw+pDDVoF8zILA5Q1JrgMQdDE+89mrdoAA==",
-      "pathname": "/en/Burger.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 264
-    },
-    {
-      "integrity": "sha512-7WzkxZjvgAE77fEGilNadXGbYU22HU5KC/aMDgPO5/+cd3UliTaS5F9rR20YtbNe6MS65BXoNFZuXuw1bChbow==",
-      "pathname": "/en/Bulb.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 482
-    },
-    {
-      "integrity": "sha512-KNJodGvwmpCg4g9bSDNSJmpPuMBP4+wNlFKKCP71ywpiwa+XJPB57EKduf8Ol2plpOeJobi71rx7I4NKjZfmlg==",
-      "pathname": "/en/BuildingPlot.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 440
-    },
-    {
-      "integrity": "sha512-CsBKx5gcY3c6smTA9AgfIUgh0f5BzAc/8EPJR89rjri3hCr3Tgy5r4mSoIAfi5yWTSzadFt9ykBzVlxMso7oPA==",
-      "pathname": "/en/Building.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 373
-    },
-    {
-      "integrity": "sha512-JZEZPY8DShRkg5BSOGPhPzbe85j3XV0L169zwDouckburYub/NB0vR+5ugKmBOzmWeyRHPuyACerDo3zXAUS/Q==",
-      "pathname": "/en/BrowserVerified.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 588
-    },
-    {
-      "integrity": "sha512-gDhRn0M/6V0cBuK2SKCAs28j4SlaNkHlx43h/tLTjQRGBn6EsSSgB/hBljen5w/6HjcU20EepVQKhWk3C9QcEw==",
-      "pathname": "/en/Browser.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 691
-    },
-    {
-      "integrity": "sha512-wTjEGSgklMLnuRWg0x0GnnAkPnLRv0cDl6oVXnO74i3MwJNS4pULZSO+OOT6vehrYXmcP6wmKtfQ+qoDi7bmrw==",
-      "pathname": "/en/BriefcaseUser.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 2163
-    },
-    {
-      "integrity": "sha512-keLqFPS6f+XK1olfY95a3W8L0aWe75L66lcPVAxmpCvAJfRgBlyZS2xnJ0fnNFKvXlHAbmAeihPaRMq0jh1gKQ==",
-      "pathname": "/en/Briefcase.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 585
-    },
-    {
-      "integrity": "sha512-McUX7u7FnZY9gRcKmClHwIz+8o8JntltAb740K9/94PbeGnyNuJSMRqMSKWmuHE4KQoZLlluyMFCIDLuXM8JDA==",
-      "pathname": "/en/Bookmark.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 299
-    },
-    {
-      "integrity": "sha512-KAceK0Z1m1cl49ct38LPzedKPu9SeNU1mrPVU4htUQcdjcSsQ5+2bsf0Y9LvDLLHpq5F2hf0Q1hdB8BgHAqxmw==",
-      "pathname": "/en/Bolt.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 280
-    },
-    {
-      "integrity": "sha512-XL6qnZlFFgjm7kLPvqE0WjcU291EJedr0HFwNC/s+P1wNEMG7fCpIMXaHVMtnvTIUZONKwpsw7DVxcK8zUebFQ==",
-      "pathname": "/en/Boat.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 636
-    },
-    {
-      "integrity": "sha512-FbaJX2N9ocR5rT9wDZAyYs1NvWzbSqgHvkkkcfeI6y5oSWcsPPFJTNlGGw/uMaZ92hFD8zgUrsciEJAR/IwHmg==",
-      "pathname": "/en/Block.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 1324
-    },
-    {
-      "integrity": "sha512-+D0mL2ieOdqRSWNkNIEw7m1r9WB0qBJj/1kiziDrsQZ8ViVtiYvuYjNVvmDXDUF+wSxDxsheO4wWSu5VeFoYPg==",
-      "pathname": "/en/Bin.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 390
-    },
-    {
-      "integrity": "sha512-BU+ZDNgrJxAxWwvbvBdM2On1InEU7M3JHnA1EHYdZZ/vD3P/nRHkvjkItHkjKc5otU3TQ1IMbokQK8L4Wj3Iww==",
-      "pathname": "/en/BellFilled.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 655
-    },
-    {
-      "integrity": "sha512-DpfYqfvYLrycSawfe5U44SZ+d72/SXwx7v/jGQSqfoEqT3JGXuii14JDJDvp7mqTwDbs7NFt2fZXnRKaTlJafA==",
-      "pathname": "/en/Bell.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 413
-    },
-    {
-      "integrity": "sha512-BqrrxP4GdIyJFVbq1E/fJ7iVO+m7nyCi4MQh5TwhnMhAZhqnBYGiS+uSTekqGZvbmF6MmHpZGv141I6AXNFgqA==",
-      "pathname": "/en/Beach.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 528
-    },
-    {
-      "integrity": "sha512-81sJpxFqeJqugDA9QB3GO3ytNc7vASE/zExRxFDVzhWTY0SYzOO3CmDpM6oYfARAe4ooaC4slFp6nSUgWBa6Qw==",
-      "pathname": "/en/BatteryHalfFull.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 368
-    },
-    {
-      "integrity": "sha512-5n8eJ89ip9Qo9f+XqjoMXVUj9M1QqhivBDfucddeFLmKfCoTb0WQySi6aQtgPpWCKByfW1+ud03GbTzD3yxf8g==",
-      "pathname": "/en/BatteryFull.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 382
-    },
-    {
-      "integrity": "sha512-XR70hL2z6M4UeYpc2+kD1LgZVGuZ+wlt5qasi8oxbET3ROz7pxQ6ia0QMFl8GfJ6au0lnHVTwc9s2ljp3rQ3MQ==",
-      "pathname": "/en/BatteryEmpty.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 358
-    },
-    {
-      "integrity": "sha512-lBQ6R8zmOFil39NGBft1sNADpP15daXFbZW2aiiU3QV/jYMEOx1JqnTO7B+GFGFN24efn0d4Tb385qWW0LLnGQ==",
-      "pathname": "/en/BankIdNo.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 277
-    },
-    {
-      "integrity": "sha512-fPk0y4evRASAOoArrFSEKZZWFU+NnKiXWLb+R5OOM7KwT3g7qX0SMR5yA2s25xG12Zt1Vgn355KjOYuS9maWyw==",
-      "pathname": "/en/Bank.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 338
-    },
-    {
-      "integrity": "sha512-7R1B+0zx3tSDHXTYSEJOpODQ1vxwfGIosZiRQTvyOLIsG9SsDRxRLMOu3hR5P83hJ2vL5ddlIXsZW1B/27Qnkg==",
-      "pathname": "/en/Bag.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 405
-    },
-    {
-      "integrity": "sha512-qPBNLLDxwgfhRKoNnoq66mzsTWuXzZXhmgRR3364OGJLkt57qrZeeI0nA56bl96ZntkMM7WlaZR4EOeVb1r2Iw==",
-      "pathname": "/en/BackWheelDrive.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 537
-    },
-    {
-      "integrity": "sha512-7sZIviev35FcOOaK97WQEVnPq+yKsXiY5OSRQ18zwwhNAGhv+KDsEmnImpNEZzFG+5QuBD19/wGsv036AgarEg==",
-      "pathname": "/en/AwardMedal.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 350
-    },
-    {
-      "integrity": "sha512-GgQjAhA5skJalagvv57O1c4chAVG36iEWckbSx7EBt/dlPKTLd6R99eYkTbx5gzdNuUAmZlxWnXZmqZEwkgv+Q==",
-      "pathname": "/en/ArrowUp.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 285
-    },
-    {
-      "integrity": "sha512-FoIqKMACok+DxgDKjAE4+U1KvLHddFA9x+1H6r4ME9Bo+RvUjTVcc9J6yQ/031T0L0JfyW8Z8hDyWwZiM4rW/Q==",
-      "pathname": "/en/ArrowRight.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 289
-    },
-    {
-      "integrity": "sha512-5VLriMOt7oCpZQZqIFQWfvp+qUTb1Y7hPJsLJhkbmpmId4IGXPUyq/CNPItFTol7QaHdp6fnV8B75NebfsjgGQ==",
-      "pathname": "/en/ArrowLeft.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 287
-    },
-    {
-      "integrity": "sha512-y8CcayuwE5j8HLssoWwrBsWrr9ead65DLXeBOUaYzPyD0r0i1pLkhe8b20eurnuk8hDaZSFztpm1y8OeNkoImg==",
-      "pathname": "/en/ArrowDown.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 287
-    },
-    {
-      "integrity": "sha512-bCC+hniV31TivWMhk3Y2PMTuSv5e+izgnJWm85Ql236bei6AZbJoFNuKX1/mm0Szxkd2icdZNUGeqRcQSZlXcg==",
-      "pathname": "/en/Archway.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 1413
-    },
-    {
-      "integrity": "sha512-sha9dNZLc9EJfkzFQzHSYbiSj8ImzMXmHfueKPjcEVPYTrvlq6iYuYCJ/sN37RM6gEVLU5/TimsYVmAB+KLcQg==",
-      "pathname": "/en/AnimalPaw.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 1112
-    },
-    {
-      "integrity": "sha512-NZyupqcoogKzUPe+geGoPDgJ2W8qianIhhH63U3bcUfhPv/vVL6TPIX32QoJRk/4mztzCk0Jzivr8vSwErMTWA==",
-      "pathname": "/en/AllWheelDrive.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 753
-    },
-    {
-      "integrity": "sha512-cN4VMbsiMGngkEq5oe1YnuWgQlJkOejYQ0blZ7WIlQK+22dOj4Qj9cmIZEZiVnqx4l+li1IlsQ9UOUs3pusOzQ==",
-      "pathname": "/en/AirplaneBed.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 621
-    },
-    {
-      "integrity": "sha512-wdYb3ds8R+TjtD7o4zFu5cfHpRwKnblzCp8tA0BatXlhXr9kzDy6CzgTv1s1z+TGadtLWk3OaquFyczCh9Hc/w==",
-      "pathname": "/en/AirCon.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 663
-    },
-    {
-      "integrity": "sha512-AywWw9wJX52yOYb7g2jG1W9aj49YiVgB+OaTVInkQzxca2RgsAtZBksDzj+PVNakAWVAATOerVVEaqiRCHqb+A==",
-      "pathname": "/en/Ads.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 515
-    },
-    {
-      "integrity": "sha512-6F4WdGvCJamirRwWAN9lbX/v98K/t2y+yl67plvqnP7xtBJQuso15BIosT1xk58dav8LmhsOIQNc2jHnoNPiiQ==",
-      "pathname": "/en/ActiveAds.svg",
-      "mimeType": "image/svg+xml",
-      "type": "pkg",
-      "size": 477
     },
     {
       "integrity": "sha512-GuSHkvaComOL8zm699xWLRPW3xhmPhlgry+Pxb5kGfqwxrBr88HUwfnMfTSZZSdYWSZcjaCBpZf8WDtKWqgfgQ==",
@@ -5723,6 +4078,13 @@
       "size": 441
     },
     {
+      "integrity": "sha512-p4CNJtHX8b5nPITdFRkivGx4kBq0eG0HT2rfw+EAI5Oo+vLtEZccLX6kwDpSWssZ1VcfEHu8ziIzKCPbPjjn8Q==",
+      "pathname": "/fi/Sun.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 424
+    },
+    {
       "integrity": "sha512-LPNq5P1PqbM4Zz4okOdJaSHauT/pzDJ7UTN/QXAvNhLtKc8dZm8vgm5wkBixz6/xC/OHZKLrQPf5yewY0xBIFA==",
       "pathname": "/fi/SuitcaseTrolley.svg",
       "mimeType": "image/svg+xml",
@@ -5875,6 +4237,20 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 376
+    },
+    {
+      "integrity": "sha512-7E6SUqV5eUBXhTAHKy1Dv8nLljCWawZRzbQ7FH4OuNzVwIFKfJ8laQuyTQkQ5xVmxJIxdqyyXIsp9TYT45cl0Q==",
+      "pathname": "/fi/SidebarChevronRight.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 416
+    },
+    {
+      "integrity": "sha512-InOy4vn9+q8oMopCCJmHsAQiET/1lA2edUlpEXdvbWQ14k7SXO3JcLljP8Nl4VASGloXmQ45NkRecLgKg3xv8Q==",
+      "pathname": "/fi/SidebarChevronLeft.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 418
     },
     {
       "integrity": "sha512-cRvuHcb+lylV84wXgBJ4hRuDgKiEAs5Qwo8Y98jpGQAQ2JoLhv9+fdzL7eom9sNzWoKsVd8pafOOvWg9XcghFA==",
@@ -6108,11 +4484,11 @@
       "size": 816
     },
     {
-      "integrity": "sha512-Ynutfi134JmtbZEGqCisWfDVRHSUgQwZW/vE5TfDl/EjLGH6M+CBRqhvr8aVto9MQBxgCzkLsLXGTaMYMedLMg==",
+      "integrity": "sha512-Z7R17xz3qUxvZJoIlRh5bPOrqDIVQa8PPpL2eqs3bHPVhtuE2W6xydJ7m+8GUy2JmD2ACiivkeLuFwoGGwvNqg==",
       "pathname": "/fi/PinRound.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 1980
+      "size": 2119
     },
     {
       "integrity": "sha512-cykaTXj/bMuq4QXMQuYBBSMaK7hlOwQU02/a8egoCKYXLBGE8SHTvmRw+XAXSsV4yow0AmYdBAOIPxeFzs4N5g==",
@@ -6122,11 +4498,11 @@
       "size": 446
     },
     {
-      "integrity": "sha512-ovmLHas/dDwaTBC+guOlGL+ghD9li7xn7roF6fbsmNCuIU0PRD6OrbwmArXZQiOwhW6YAUlnyvcpwrsfMZTecg==",
+      "integrity": "sha512-DCyPSLrhQEx6oU8Xj3tIpm7lqWakSVkveNWyfLLLxqsUZ/a+XtYaoiClv4PGNlFkVcDcj/LYfIzwCfBZPsePZA==",
       "pathname": "/fi/PictureStack.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 1924
+      "size": 562
     },
     {
       "integrity": "sha512-F3PWMAPvxpYebCKg7p7Ue4XxTIRvRtcQQPrqUqFpEBavbbbsNOz3LZHpMvAuomX0UQj9wkqiIL3+MYId+LAuOA==",
@@ -6204,6 +4580,13 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 643
+    },
+    {
+      "integrity": "sha512-gjxsegYNhcP0fKneyzsizUiqlrvBxsFKT/WbvqKUOU4dDvUaFkJ3n3MTrq9limNJixsFzwArRws0tG12GBObBQ==",
+      "pathname": "/fi/Moon.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 283
     },
     {
       "integrity": "sha512-BWd+bd//kdkCSxv3XjEOwWpC/iXcN0tUfOWRvfLo65Ml8Oq+CkS4T68RtwOAE5QBYSHXacTUf5C2k0HhAfcG/Q==",
@@ -6381,11 +4764,11 @@
       "size": 319
     },
     {
-      "integrity": "sha512-GmJpdcZKXOD/BtBhH5Lybyp0OjmULH9vcXqC0k1C89fdoA/C1iZW62PX6Q/WlUvEhbKiOxQbR0UQAfxb+uiXwg==",
+      "integrity": "sha512-9c7QmYkTRspZdb/+YaFLEQ+RnsIAC8GY78zk3oZ+LcYGNdqiatDpSm81HyzeV/tkrhszYZN6p10H37FyugOzDw==",
       "pathname": "/fi/Image.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 1601
+      "size": 521
     },
     {
       "integrity": "sha512-dN3j3y8eh4Kz9krcEgta9aXKhXuVPaeUn8LRxP223QPb3sjq2guBxnWczfL9OqIZ7S66cGsafDV1Etb8BnFZ2w==",
@@ -6507,6 +4890,13 @@
       "size": 304
     },
     {
+      "integrity": "sha512-dRhPaJnfvUPmIlNmaM5uwMFGD+3vuh/wa+l+OcRGqxvI7/FtYeG6hQtCxtgNIaiuPm1UZ02T5z0vPpLVDljCOg==",
+      "pathname": "/fi/Globe.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 361
+    },
+    {
       "integrity": "sha512-JBm1BeEuvlsSQWmB+F4eVaRejn4ENwb0p4ZgU0rbicE3UpxlT/Fw/tu8QiTuY8ap7kwvczqK2vRpv/O1M+gnDg==",
       "pathname": "/fi/GeometricShapes.svg",
       "mimeType": "image/svg+xml",
@@ -6575,6 +4965,13 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 444
+    },
+    {
+      "integrity": "sha512-BzlBhWFvP49iT8lMK6GF0I1FRJKl3R7WuHjqD+vRjEBMImZrO/hVPnDekRu7IdCfX+3y7DA2OJJ7/d7euxvZxw==",
+      "pathname": "/fi/FileArrowDown.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 420
     },
     {
       "integrity": "sha512-Y31HQSYiXNoqLmufr9myUT//DbUD2tttYeUD1CWSZblbOoxvCz3Qu1EYOm7S3769zm10eGxv41ZZX2gk367Pyw==",
@@ -6745,11 +5142,11 @@
       "size": 415
     },
     {
-      "integrity": "sha512-ulK7YbgW7JqNsdQmx6Rn68SeMU8m0KGdp40QZJSvUZ/N03npVHEhIxzA0tybu54EI0OLBVyrSDQruZL2lX3Sxg==",
+      "integrity": "sha512-g0oDVO9N8zIHuUBNthxO6dT109e4NXruac+fp5IdpeLsuWXVaLBzqFMXJCSOtwa2VqDY+X2H9idqzTiOav9vhA==",
       "pathname": "/fi/Discount.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 817
+      "size": 822
     },
     {
       "integrity": "sha512-UjFC+wyhz9KFCfWZblRjMuiaopdkH+kus64auOpmVTe3pUWfAIt2kd5TU/SP071VJ9PsV5giWKRFsys53iZxRA==",
@@ -6757,6 +5154,13 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 613
+    },
+    {
+      "integrity": "sha512-597/f6QNjlJUZCVzOZQBQLKKgAvbjGQPEncpguWAcdYENEkzNETHgsibvodK0mMnrJaBEu/oB/8y+fwoOEFV9g==",
+      "pathname": "/fi/DeliveryKey.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 857
     },
     {
       "integrity": "sha512-bsWDE98u7r7Zl2ftvXDdNoJVh8a9I7FL2pLFOOz0DDm3/Cc1ny2TrqJAWXef/Ig1N7nJaBCIYIS57ZGKKhJzaw==",
@@ -6787,6 +5191,13 @@
       "size": 438
     },
     {
+      "integrity": "sha512-9d0IJo+KDFGBXrqVKUdZYmIC+NeqsPWPQ19cZTm7GckXwxSijrr8xNWRWUHzASNVh0lj95dh1XXYdC49teR5+w==",
+      "pathname": "/fi/Cookie.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 417
+    },
+    {
       "integrity": "sha512-kr4fsLlurc/Bk9oYCldY/OmcaKncJRXF/7J1dPyysbiGPceNO+GRQu+acnCVATkrQlf15VzeeEQIPloH1EmPfQ==",
       "pathname": "/fi/Confetti.svg",
       "mimeType": "image/svg+xml",
@@ -6808,11 +5219,25 @@
       "size": 907
     },
     {
+      "integrity": "sha512-RSnl5kkRNZDJvYuwgR784+MEr4QsMyiQx8e0CGLbyT8vQQJNQse5W1QcL/obRunZplTuAEEmaKJZ9yOnPfNmzA==",
+      "pathname": "/fi/Code.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 373
+    },
+    {
       "integrity": "sha512-4Vw0UQ+1TULaZhLpnpSqJUnDlnpg6mTkbNNuo7BBDkAwaXAX7A7txuf//yQi+Kj402jZW3LI+f+CidAGfGWiSQ==",
       "pathname": "/fi/Close.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 261
+    },
+    {
+      "integrity": "sha512-bVBfK6M/NntzjJrlMoNs8wz1oFs0UivyNChYxcZh/3HsSYuS1hVfY6fpnoH3bq/BHLLPVq0rHqoyE2LiUakMDg==",
+      "pathname": "/fi/ClockCountdown.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 444
     },
     {
       "integrity": "sha512-03nxRYA6hOeKicDqOvT1gZ6IKCXeJrzBcytN31pXy4wupvs9jW2jKy+pKVcb0WlKOGnzpZWLRG1Q9QCyX2OZvA==",
@@ -6990,18 +5415,25 @@
       "size": 519
     },
     {
-      "integrity": "sha512-SA3qvr1S3/zx4a+159/GD8fht1rKnHUO+5yClHbBD/2u7OQakKL2NiMcB3SpjqaMH/hdkmpZ4mvonvu7nMSHEA==",
+      "integrity": "sha512-cnXK6FdtDX+xz+NpAV1bO4TcSWlkwlj+q2BJtmzWnBoMsmaHquykoPXdtOnw/t2eDuMwyJknbz+86uNjSBV4kA==",
       "pathname": "/fi/CalendarPlus.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 384
+      "size": 377
     },
     {
-      "integrity": "sha512-DRZMKubRfRAwNP9rkpg+i8BBcOvZlRXo+q9gAWR/ICTYce+0OUsSK0UaX+WpfatIcqu7gQW8pZNx3J94SoBCFQ==",
+      "integrity": "sha512-sHNcNDLyD550IsC7BKKPTVkS8xdMLgWvgdjXHdXSQrlc7o5zzFNvtTq773ebRaXAb4lygxZAy5fVzIDQDFJ8BA==",
+      "pathname": "/fi/CalendarBlank.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 347
+    },
+    {
+      "integrity": "sha512-WClNdULLv4RNTHi8IbjpejuBuI+FfDUHlq6k2e62/v99iJ1p1PFWv4V6kzIbmNqpH+GIJ67yC6nGEV+0h7aLcg==",
       "pathname": "/fi/Calendar.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 435
+      "size": 428
     },
     {
       "integrity": "sha512-9aWx6fdv+oF3Uc+3PfMLgiRsYyaanzr0Kw6P/2MoaLZx/RMkrUKp09yDcEMAhw8CC9m5ys5D6uhoxHt4mdhXFw==",
@@ -7228,6 +5660,13 @@
       "size": 1411
     },
     {
+      "integrity": "sha512-icG6PNq5y6/XrXPW3k3h2bvvzePEew5yZuMGCP3oywyC7XtuoAPVYz21xGSL4sIgH9OQjRj8M/E1y78c+0dV3Q==",
+      "pathname": "/fi/ArchiveBox.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 513
+    },
+    {
       "integrity": "sha512-vZs2q3svYy6Ldx/TZdLILcTV+WgWR1/Nc/oW2aMPH3vdMGUNseZfaZxe8I1rdv7VbtNNfOX2VxHNSbysbwIUtw==",
       "pathname": "/fi/AnimalPaw.svg",
       "mimeType": "image/svg+xml",
@@ -7268,6 +5707,1903 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 482
+    },
+    {
+      "integrity": "sha512-JQdgUmFnw+9yMnqT8QAx1xM9lx2soEAc+wxNxvaDoz82aDnqIewLzYjGVW1/dVTVQlwkYnygjBjXatqpheAqXw==",
+      "pathname": "/en/YouTube.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 668
+    },
+    {
+      "integrity": "sha512-c+vMTb47KP8WCaZutZZcJoxXR22wYxhH5+NQUe+n4zIlyLRb7P4F76L6eMpj4EVesuOKQ+AxbKw/lU0YaKg8sA==",
+      "pathname": "/en/X.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 297
+    },
+    {
+      "integrity": "sha512-GTa1LLI0iVIa2Kx0zS8HJaq/bw7IX4IKQOIij6X0Kp6TPk/UJ0dJk38YI1152HaKmf9uS+n44qH1NdwBmZ1Ahw==",
+      "pathname": "/en/Wrench.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 359
+    },
+    {
+      "integrity": "sha512-uaOKR29FtQ4SyNqNDfUWJmNrl9Aaki2F35TEei8DycYiv8llsr0u5SfQBTUNigp4d7D5004mGxfh5LH8sSZZcg==",
+      "pathname": "/en/Wifi.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 391
+    },
+    {
+      "integrity": "sha512-EeR4mrqwyasbjLMVPM7BIh1/R4KsquLtWGsH74+sRDyBYPkbpk617jdScwBMBwx5/naZ/QFjxJ8oazgEbzlciQ==",
+      "pathname": "/en/Wheelchair.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 367
+    },
+    {
+      "integrity": "sha512-bvrHs6RZSh+0upEqEp8RHG0fb0lxiFq/5kxzEfTij3vexuRlx5fmNtNU34pNJQSKoRkYlU47pAPPEjf0rsKsSw==",
+      "pathname": "/en/Weight.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 598
+    },
+    {
+      "integrity": "sha512-x2p6d1aKAhgaqC1LuPnBFWyBcc7AVuTvUPqZVXHqzxuOVMo96MssG1p43qsQhFvxSgaw+wa26uCfwLv3IJ+RUQ==",
+      "pathname": "/en/WaterPitcher.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 1821
+    },
+    {
+      "integrity": "sha512-VEfHveq5SnEdA+epmRTKB8xeSl+5yQuioco/bAKqvFW25fk6dE9hjvkkhUB8r90vi13rORBgYUe73qX4A2lknA==",
+      "pathname": "/en/WashingMachine.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 482
+    },
+    {
+      "integrity": "sha512-N1BtKz5KGMK5SKMASWcTcPdaappu7l3ZlKV2ALz8mPrRt4dN9twKgphMsuPMyUikCeHYmKzq0RBDh6Gi9f5v3w==",
+      "pathname": "/en/Warranty.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 717
+    },
+    {
+      "integrity": "sha512-Wj5G7j/YInAie7M3OZ0H9JG0gAS8b6hxArlXTfOXNoAQGKignTeoSyK7Dy3YuJNxmQXxNVi6NL68BFh8LeNGyw==",
+      "pathname": "/en/Warning.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 420
+    },
+    {
+      "integrity": "sha512-8a4vaPVAQQFLhjZJpiCFFY9g3fgSyGzI5hLeYGNg+xZ0ODOlsB1lViXb3avvviR/UOuXYp8QRvCxpwtQFteP1g==",
+      "pathname": "/en/Wallet.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 378
+    },
+    {
+      "integrity": "sha512-kyhoQX1obLs7aa6K3FJeFyGJOmNn7zsYXLtdGjDVOJw2UDVIY1cHL5CXhiiIeG13X8BN1hruJRt11l+fy4wzdg==",
+      "pathname": "/en/Verification.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 722
+    },
+    {
+      "integrity": "sha512-fiUXC2c9MHfzhJiquh1EkGS2HKQmLFx9kNgo169wjS6VQvbglRYaMj1HducEA05NOqNnH3zBjNPHS1khpSTC1A==",
+      "pathname": "/en/Vase.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 1077
+    },
+    {
+      "integrity": "sha512-Xh88K1kXTiT7qVjDPnvb/GuCKsuJ12cZ+Z0mP/o+JJPF4xTSINkKNdXJDV7dtxta+NOPJSZS/t5SM877hf9suQ==",
+      "pathname": "/en/Vacuum.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 423
+    },
+    {
+      "integrity": "sha512-orP9OWTTaxEc6q8EKRJ+I7z1mgAiOyBBxbiojTNq45gGwqw1OLJRfRtwFmyKE4v27W0ZXF/i14qf/KeJRRYCTw==",
+      "pathname": "/en/Users.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 398
+    },
+    {
+      "integrity": "sha512-bqe7hTDT75pSNeElWB2+NficGfNQXtAVjfXtAzJu/EgAsDOlzjVlK6cVNd64yrM1kdRLcjNJyYOBtfDHpcQTqA==",
+      "pathname": "/en/UserGroup.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 592
+    },
+    {
+      "integrity": "sha512-fbLRP/J1Herl/9yrbfcezjqY6pdy9x03MvP5kyaGBnxNrs/I9BB7ZdA9FZhi5wxtGeIjhfVu4bBzHibYsjD3Mw==",
+      "pathname": "/en/User.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 358
+    },
+    {
+      "integrity": "sha512-kP/P7qShMadT5lDTkW+yI4UapASg59M8plkXQUBV6q5T/2/ZEA++5ceInDvEuxREwqRH0duPQOGuNWJLAvU9Yg==",
+      "pathname": "/en/Upload.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 320
+    },
+    {
+      "integrity": "sha512-T6PlHm8c5Y4wcvDV1gm5gPiXQY+wUyyVkr/phj1apR0rLaAgQPeODsc21rkulJziud30c1spv16BxnLuKCH66w==",
+      "pathname": "/en/Up.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 384
+    },
+    {
+      "integrity": "sha512-cO/WwH86TC5k1ZtIjIRiQLZwH0xr30csA2cUUD5J6qYDr+x06iiTPTocv9t9h6mctMGstACpWwwA1axTl0pUsQ==",
+      "pathname": "/en/Tshirt.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 285
+    },
+    {
+      "integrity": "sha512-eLQjm7bM1X6qfm76eMIAJIF2gU760w06PB7dVAuPtRgesykI+rTcVms2anOOiQxMJl3pKGvGSf/vewCHrqQq8Q==",
+      "pathname": "/en/TrendUp.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 293
+    },
+    {
+      "integrity": "sha512-mRSWoMLWESbx2Lpo+OEv+lruanmWT/6MVO2qhnC4bWXspI1Zo8IXYwnQKDHIHMFbiCKmcvjs2nr8Qg5KRBp4Dw==",
+      "pathname": "/en/TrendFlat.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 308
+    },
+    {
+      "integrity": "sha512-Y1/vdtQ1iD2wLWyMKUjDXWIus0QHHgDz7xMYS+j6k5yGWjaNgAb2K6yMBw87cRgn3wziutJON7s/cRX/rwNAyg==",
+      "pathname": "/en/TrendDown.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 289
+    },
+    {
+      "integrity": "sha512-I+t2uLB2baamjXaN0og9Z/2jr+OlMhcv6mFRRuZORYgBYhbtU/gqN/tWQz3BkDdaVc0nljo+oiREDMRJyaE0Dw==",
+      "pathname": "/en/Tree.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 287
+    },
+    {
+      "integrity": "sha512-VN4a4upJoKA82KkmjYD2TGKGP7IIO9ptkOBr/cvLLHf0HcRu4UfABQ2VlOySp4jSpmoxvi46JsRFzvnh2t7fzw==",
+      "pathname": "/en/Tractor.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 673
+    },
+    {
+      "integrity": "sha512-+o4Jtf5GIH63vkv3c/hP6wvhVNkryfB3arGLJqv9bZhcn5aQkyxC74g+IdDp8xn1HNKpPQjO8sD45L4YQoSQnw==",
+      "pathname": "/en/TownHouse.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 370
+    },
+    {
+      "integrity": "sha512-gp2WlMTrTJjRd3RaUTO7phUX2o2i8z5ZTGHOVSP8ICgWb+S0dlqviX8HkpOhWgGAaLqpJUh61A/wYSbeAWpKqA==",
+      "pathname": "/en/Ticket.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 369
+    },
+    {
+      "integrity": "sha512-sBSHmTwbR6IpHY5WQiTCY/7LMWdiO6c3yOnvpFASm31Y99l4XLgWj8YkQL8+VTiER/Vdm4SJaiX8WPgEA2Y4nw==",
+      "pathname": "/en/ThreeSixty.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 456
+    },
+    {
+      "integrity": "sha512-1yXjvAN3zUg9P3GtwJJBiaw/EAYHaBtxaHqoJvdAnSQsb11no7IqeqqdWasbJfWp1dMYW/fRnGrqya+OAFExng==",
+      "pathname": "/en/Theater.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 568
+    },
+    {
+      "integrity": "sha512-1/i8MvoUwsa5aCZxe57ZA+DauUerzAHC7k5+ld0djZDO31FomD0oL0YqqqrcJATZJNGPUM7hFlN0qVUfkYDMfA==",
+      "pathname": "/en/TextUnderline.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 287
+    },
+    {
+      "integrity": "sha512-y73U1vRo0rxKzA6+oBHo7v6RFW4aZDGaQNbaJqHA4K0JCeS8E6mAYsArhRCGU7tH6sGngdcuOrmNi7r5U3Emfw==",
+      "pathname": "/en/TextStrikethrough.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 425
+    },
+    {
+      "integrity": "sha512-FyZdBmqfscPcjAE/Wez6RyEukp6h7Tm8jrp5UWXyJ+TDZwzRKNOy5T7XwHTeAOiEC4nLM8gGW15/+yVg/Qg5hQ==",
+      "pathname": "/en/TextItalic.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 276
+    },
+    {
+      "integrity": "sha512-NAqU+B2NZopXNsGOgVAgg6tZyLx59gXy74VAG9sUj6xEyPMsB9CmkKD9H8pfwDly9wJ3fkbOxiv8O3I9+nte9g==",
+      "pathname": "/en/TextBold.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 305
+    },
+    {
+      "integrity": "sha512-SgSiE/2pzJi4957dG+agB/Qw3DDcjWOZAEXi0RHuaoIxpsrwZmMoIZlYQ8N0ywAJ3E1wS7JW62qAaUKl2cQBlA==",
+      "pathname": "/en/TaskList.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 349
+    },
+    {
+      "integrity": "sha512-yPCnGbqaLISvlnzvda3WyYADCIf4/3Vj3aQt99FXHfAigqIIagmt2+QIOxd18eaLn0orsXerrfyd8rcPr1qdkg==",
+      "pathname": "/en/Tag.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 430
+    },
+    {
+      "integrity": "sha512-GQHLg1SdKxzkkFoGADbjukRU/boReDlSB4RyqE/0tmhn1qR82kx3Yf2DdS7R+HthzKhqSB9j+dB1Uuse6cr8FQ==",
+      "pathname": "/en/TV.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 349
+    },
+    {
+      "integrity": "sha512-zWz0sM4UtAVx5KvVnj9BhD3C+Xb8tEh8FDjCacjLir14rCfg+eM2AJ3QCfYXMkEWZG771/DZcjoIEgsfGeR0ow==",
+      "pathname": "/en/Swimming.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 454
+    },
+    {
+      "integrity": "sha512-cQo2fCJ002LvFs5ONiTp13Gmd01tsC4mj5a5jGi8z1eOYFcg2+51+Gvp62Af8chCuRxuCpJdf2SUdqXV+v6Q3g==",
+      "pathname": "/en/Support.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 450
+    },
+    {
+      "integrity": "sha512-/9c6Yegifq6z2yNTeYyW/Q1rrmtQuIHpQ+C4m3vNn6i7ppSG8sKPO6cdl3gvNI4tS2sBDdy2ZvbAl8htcKW3wA==",
+      "pathname": "/en/Sun.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 420
+    },
+    {
+      "integrity": "sha512-5BAEV4NNSWxRRBP8bucMc2aNanfr2m7kbYo46dUFNCGS30ahtc/mZwc1wCqfTBa9142TCbTe8N9ECcebsLQulw==",
+      "pathname": "/en/SuitcaseTrolley.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 605
+    },
+    {
+      "integrity": "sha512-kgqXh477IbtOJup9qQ+x+GRTzOC9/ImW4uO36tRFtDdpIiRMcC++IPLcUR3S/yG4qzet7tPiCYgkZfKbrQ5Fcw==",
+      "pathname": "/en/Suitcase.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 402
+    },
+    {
+      "integrity": "sha512-zGOx1/ndcgzvX49DCRHkGQ1LdrlwPU65+2tbj0I2b3iABt5M5DU3t6htkHf8AKdynE+gIyHeTJ5MAD40eIBudQ==",
+      "pathname": "/en/Success.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 308
+    },
+    {
+      "integrity": "sha512-Avbs8vYDfv+9+aQPhedVCI1vxX+3NiL4JTqgo3JrlN6fUHDuH7iFUoVRB2o7zvinG2JCWmH5UtprCFsn1qFMEQ==",
+      "pathname": "/en/Stroller.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 490
+    },
+    {
+      "integrity": "sha512-BWWJirtHUuuNL6iewdD+Du3R8HHR1VPUF4TiZ3JU/W0H/YN4cAup+txoSiSyRQrOch78UMbf4WU+hdvaC1IGng==",
+      "pathname": "/en/Stove.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 397
+    },
+    {
+      "integrity": "sha512-39DyJTSBmW4P8wCZ6uexANcBteljGPp3CGlmfpGH4K7wev5zxrEXEbwrQy1j0ptcC+/oYvXsXjAQTGWwNEuNhQ==",
+      "pathname": "/en/StoreFront.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 647
+    },
+    {
+      "integrity": "sha512-S17R+xlWRgnHoV8bckBhSGC7LfrHH6Lb0c56M/H2zzeJd0g+CfLLd3BImfiY3SdPUeZJbQURNPcFENIA+AJPYg==",
+      "pathname": "/en/Store.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 427
+    },
+    {
+      "integrity": "sha512-SNRu5Y/SKE6CIOf3B4dCAEqwNMKG2C+bxqeRSHULHnYHboqBypZ2ishc1MjjIM07NfxyTVmoFfMlnQAbn0GFNw==",
+      "pathname": "/en/StarHalf.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 3369
+    },
+    {
+      "integrity": "sha512-CljuNt1ZTShNytesJKs7CSZW1xkJZrhlsIqIjw8RlSgQMCftoPmVs19fD9m1CBWQ4Qa23c2y639piSlGiyz7Cw==",
+      "pathname": "/en/StarFull.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 490
+    },
+    {
+      "integrity": "sha512-+Z/k8hu3zvsFkduGwAHkFeBmFPiBtSwiWM2EUI1LwKquVd65owI/QDdJc6ODGx35uswDBlgS8XCLOpKZ1mkssA==",
+      "pathname": "/en/StarEmpty.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 471
+    },
+    {
+      "integrity": "sha512-HduqZsIsP+3dUc0RtszXICC2B7MR5267m/6BdLOnRctt3jaxR7kqLC1GkllAlijqaB15n+VHbqr86l0AAhOFdQ==",
+      "pathname": "/en/StarCheck.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 2437
+    },
+    {
+      "integrity": "sha512-qF+lyg5FUcsWW4xlQFqBFlO2HGiXu092OFSeEXeWdTxwoOVsNQ2R5znyyjREEVOM7cLyLIjDqWPYkC5cBnuLMw==",
+      "pathname": "/en/Stairs.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 339
+    },
+    {
+      "integrity": "sha512-dMmX/yYcQWqQYfhdjFBPiWzxzRsU5OI7Loxa9Dv6KnPo1HF2VOPKzmqDD24d1jkyLqHK808NPy7fvGieyQ5LiA==",
+      "pathname": "/en/Speedometer.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 456
+    },
+    {
+      "integrity": "sha512-9cltSL/rlvxrqKW3aKb+mOwMIQhatFB9MLZqjqvsBF2mAWuPma320XCtEOMXOeqGgkP+8SiZnjj0MERMmtr0Xw==",
+      "pathname": "/en/Sparkles.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 654
+    },
+    {
+      "integrity": "sha512-BVXj9D3MKODTcmaYG4yCgmLphecQlOonIaTZhqFcaw6cwDx+VvRwUpNjPGc047QvvsoaBR84h9IPQcFFIQG+Fw==",
+      "pathname": "/en/Sorting.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 354
+    },
+    {
+      "integrity": "sha512-eCJWHSc0NaqvMTOBWVbJgXH84iUfG12TDmZHKY8m+ENilbd854gFVsR+CYR1EkrkU3hBL9TqE5HFA46M2MN8dQ==",
+      "pathname": "/en/Sofa.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 524
+    },
+    {
+      "integrity": "sha512-fljsvdGegAFcqtIQ6U4PEkWSmIW/RXhZRZnNR2RAwRobx0AkgrnEZqlW1lQAFgDvu0SMeMPtPFVgd0JSwp+Pog==",
+      "pathname": "/en/SmileySad.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 339
+    },
+    {
+      "integrity": "sha512-GAlcS+MHaA+Ow0jV9PBmXxV+Diln5Lq6J+0yh78lR7FRwY/nNE0R9GjLeamhvMtwah9hR5j9bd5ee0X41/XaKw==",
+      "pathname": "/en/SmileyNeutral.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 326
+    },
+    {
+      "integrity": "sha512-mi+EVuG1SKAiuDGaCV34ZRAWCXPgWXIVZRgvLKouDmhzLB8hnogYglqtIdKVAygOyxaB5dKPzu60g2O++TvjrQ==",
+      "pathname": "/en/SmileyHappy.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 1013
+    },
+    {
+      "integrity": "sha512-0kmfrbLb8tbRqZgUhhj9QFUTcg10ZtrgDRo9qho4jG4UZBwEouOkL5TsW9NNq4mgODpWPey2IJXlZMjfYjruXQ==",
+      "pathname": "/en/SmileyGood.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 359
+    },
+    {
+      "integrity": "sha512-SOYcVv3zSxqNQ5gZDGqgss0kDkIr/Lw8V/tI/krtn5gtadcozY3cuMHw6J3tjBuryokLsj9x7izR5j9+VgEm6g==",
+      "pathname": "/en/Skyscraper.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 469
+    },
+    {
+      "integrity": "sha512-+2ysTom75Eo6kayUH5Tc7USlbhVuoDR5dIGBf1G0QS+FGALihD8Vf53cnfesUZ/KtDfdSeJKyL8HOtQVYRNnmw==",
+      "pathname": "/en/SingleCylinder.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 382
+    },
+    {
+      "integrity": "sha512-2oLoaaD9Y8GquFRYt7L92rq6otD4WNFfsEsyE67hYltG9V1r1tZjVU6cPuI+AvB7EeeCQwdbGTmyActtKaOO2w==",
+      "pathname": "/en/SidebarChevronRight.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 411
+    },
+    {
+      "integrity": "sha512-CLJbsPBhGnLG45AWqFntzSEFS/RZahklp7DLBvgotxb5o2rnq7xqb0D2V3awzktJNBb3nXXAVPEvyGAd33QDTA==",
+      "pathname": "/en/SidebarChevronLeft.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 410
+    },
+    {
+      "integrity": "sha512-ptLyZFGmzYRuBTFz0DJRU3Sq0xjc+v6z5gFnxbVY7jDFBIJZUxqHPd34JHKRXrOmDyyBR1kJwBHS68Y5VlNmtA==",
+      "pathname": "/en/Shrink.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 306
+    },
+    {
+      "integrity": "sha512-aiexvvv+rPN4jHF3q3RSWj4xbb2gORTp+6Yo+lhpHYujePQzx/FUsuheAnbDd6A8/I+et9l/NdsfGfDs0adHhw==",
+      "pathname": "/en/Shower.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 395
+    },
+    {
+      "integrity": "sha512-x8E4KFJeUejRCSM1guUIs0b5Ij7FehTMIkFUthtYFn+jdgSjodjc1tmDeAu1tKbHFOlBhKeSW7Y+R3WBe6Pq0w==",
+      "pathname": "/en/ShoppingCart.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 471
+    },
+    {
+      "integrity": "sha512-WXgVbeSidzl1/IqLAKw1N0lsuTOKlIW/BBEUEdS5+cb14Mmz/noQCHdbr5HLz7zxLUQxT2aQjtiTLTZbqgAXXQ==",
+      "pathname": "/en/Shoes.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 478
+    },
+    {
+      "integrity": "sha512-LO1PchsaFYhUGZ0NpZdq0UUFI82tUKAUxqKj18nUOONHZIauFVPdhoqQHT8qze0JFEuP6lGKBRMifX8lz0E+AA==",
+      "pathname": "/en/Shirt.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 695
+    },
+    {
+      "integrity": "sha512-AsrO+LCVLP6i9+1ulTbmZDDoFMIvE1Ch9WbkLBefmvixGI7HlMafY9o7p9/BtWsxVwzUVxxjESrppe3gtIM/qA==",
+      "pathname": "/en/Shipping.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 628
+    },
+    {
+      "integrity": "sha512-nnmWPtsJlpY0Ei8EIrYwLmTh9T3Z8/0qp0G4O6T/jbxRqVsGDyLenhp/t1cwAa8gX8baRjmSs1G/GYrZqMuZtQ==",
+      "pathname": "/en/Share.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 369
+    },
+    {
+      "integrity": "sha512-3KBW9puHWhhVuYHXLI41Dm1H4ZDmRuVTM1IafDCHDLzjlvkPeQR329SuGGtkU0ei8/kIvtkfSBvQou7Uyr9rFw==",
+      "pathname": "/en/Send.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 355
+    },
+    {
+      "integrity": "sha512-LNEw7a3NYo/5Y/hHDD6vyH3K38MYV0R9dHyIkvhens45GBCif8xc6e9jOaThKiNqQRzryZtl0XAKN7MI4IuFVA==",
+      "pathname": "/en/Seat.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 448
+    },
+    {
+      "integrity": "sha512-hRqTgoHRIMaeVCsZgNEtZl8Wqqa3DvydfoOiSJ6arrwe+DSEM3nx+rNI6j7YQJKTAQS5s6RzXgpfPebgYOrYSQ==",
+      "pathname": "/en/Search.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 304
+    },
+    {
+      "integrity": "sha512-Tr+m7MoRCBNXwFnB3QQKX5j6Q4ooT3V/K5A4NqZQiztrOMDCeUdrUnz8U5aLFPwmnJVHFWsW2vlo1A8PY+9L7A==",
+      "pathname": "/en/ScrollUp.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 269
+    },
+    {
+      "integrity": "sha512-vOjGxDYxyI8556y+Clpid1C4Ir5H2gKggclo0KyB780hi8GT7448ZymfeArb65gBW7K2RJiGvNu8AaNrbOC7tA==",
+      "pathname": "/en/Sauna.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 1847
+    },
+    {
+      "integrity": "sha512-ee4TAUhFsx3dw1FtgGToQlCrMDS0TtCjdhOF6lmlWQh+W2GIfGInPaGJ1O7joxE6imyc2HD+BiDXRKmHsHw1gg==",
+      "pathname": "/en/Ruler.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 389
+    },
+    {
+      "integrity": "sha512-hWdWQtZfpgBqp+hFcYrLkvhDgic2d4UKM4VI13w6vBe7FPgd+N1lWv54M2kWf6pNUYUeAzuAMXEFUNq0KJEDLw==",
+      "pathname": "/en/RowingBoat.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 757
+    },
+    {
+      "integrity": "sha512-hijXp0XNaqXA54RZnMPhQcYHuteCdiMi8Y4Kz9WSY7ac3n50+V/GGx0j7JVDjw2UHnZfsIkvTLIvCoomTzs6dw==",
+      "pathname": "/en/RotateRight.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 493
+    },
+    {
+      "integrity": "sha512-NAL7EkleXgzvFs4EYKT6Nw1+/fIIJoE+FNRq2yIcz6oAMsGtqwJpcqSdg4zvfHjl/vUA865dLbKqLVj8cVkczA==",
+      "pathname": "/en/RotateLeft.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 489
+    },
+    {
+      "integrity": "sha512-6v/bt7qww5LOLS1K729Hes7pj5KfQepDc8xWhPORzzD/Xwn9/Vkpr9sSkZMRzjoHSIp1kJVjeXoT/BimkVx9RQ==",
+      "pathname": "/en/RoomService.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 348
+    },
+    {
+      "integrity": "sha512-T5nyX7xDwW8ApTB8hPnqeVLiIpRMpkU8vXpTRSov7VGhz+9HrqYwKmrSBLJbaCa/xIIXa2RIX/+K5hRJy2VT6Q==",
+      "pathname": "/en/Rocket.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 586
+    },
+    {
+      "integrity": "sha512-9tNkW0BSYiQ45Rz5iwCoqRTMN8glLdhfW6ii3uvUeTYtU55TalX5bJ6cPaY29KdcZKpXiuqE78OZGP/cRa5GOA==",
+      "pathname": "/en/Road.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 270
+    },
+    {
+      "integrity": "sha512-8B4W2xTdLQ7erOr+7lu7th1reSaBxu/djXWkRBkVw0PTRk/6LYrWxYJQ7wnYWl8uR3++FD8g/CP9s5ODT5pNXg==",
+      "pathname": "/en/Refresh.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 321
+    },
+    {
+      "integrity": "sha512-1GLni/S5xFLXSHjgjODRR3YKKK1VLdAbmuDcIg9vzOclvzkm9X69uZTgZl/qOoPQvh4vtheMx+YWKknv1LvofA==",
+      "pathname": "/en/Question.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 363
+    },
+    {
+      "integrity": "sha512-QD8XaFqpGV2QOubk2sNN8isxf/kQZdxy7jrj+SCpnbZFrb7rcp1ZB6URD6O4zVzBLmE+hL4q47UxxMqvmzbNFQ==",
+      "pathname": "/en/Propeller.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 962
+    },
+    {
+      "integrity": "sha512-Zwp4V86OO6/rnojWU2dt1b6MfpUL1rMDmWyOFDynNiiJDX5OsJHb3gPrlT1d4aH43CbcWgeEce1cK3x2rRO9mw==",
+      "pathname": "/en/ProductTop.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 377
+    },
+    {
+      "integrity": "sha512-h8GjOcGhsvTHVhjI/mXxzSLVcRU+eabdcRhOU1muKttHmc4fyYh0esViiBSXznZIQZIPhhrn32LflUv+w8Is/A==",
+      "pathname": "/en/ProductStarred.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 397
+    },
+    {
+      "integrity": "sha512-jvLBkioScixdqf09ybxmSGeT2oh8oM+qAOV4IVlHF8mn/4vjkEQER41da7vTBt5oNHPV577HGeHF2G2k3es8iA==",
+      "pathname": "/en/ProductNabolagsprofil.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 491
+    },
+    {
+      "integrity": "sha512-w1eRPYLHiLTkjy4gelO1pRfifTRY+5kJwRxiJ9V2Bw3QheYsceNMz8hY/PbOHo8bKWtzhiTOySybcwN4guO9Yw==",
+      "pathname": "/en/ProductHighlightListing.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 380
+    },
+    {
+      "integrity": "sha512-S9T4HstnejqyUY8dW8xMZtY03wC7UtW75xAzVsUNN9d8uJiuLtd3hutK6nLvu/zgxzH3GEOquyMx7RwnZJyiKg==",
+      "pathname": "/en/ProductCarousel.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 390
+    },
+    {
+      "integrity": "sha512-HEb/w3g9yms4yVwHlZA3lCLnZOY8ajsvppXAJEHdVuqGPqoZpkDjIIjGHg61hvOTSLHB23SKc0//K99aFTTEdQ==",
+      "pathname": "/en/ProductBump.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 349
+    },
+    {
+      "integrity": "sha512-rYyYCPuuS5g8b29TBOCzJ/GjuW9xvRIXpIjYuqGnx7iR2gb0Qkdl1CHkCD/hZnSdx+isTBrbBO1JkUpIsatobg==",
+      "pathname": "/en/Plus.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 257
+    },
+    {
+      "integrity": "sha512-EPIirwMcU/UPyaVHVeUJCY8ld3bFWRFwNwhG5ntnQebWCTUJ/vkIeIxCuRJm+PYjJ5hYGMa56dP9Oo5LaErzLg==",
+      "pathname": "/en/Playhouse.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 462
+    },
+    {
+      "integrity": "sha512-M1VTHP2HiX6DlhRjlYrKZNa+zgd3Voz9I8pMF5NlCfWXudhtrdoJPtU1Vdb3+YH3NshttEYfiZIxoftcbM/axA==",
+      "pathname": "/en/Play.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 693
+    },
+    {
+      "integrity": "sha512-xE3F3MGY0+nAObtF7XPBZbcbCvA0S5Uq+G7g1+zu11PXciYo6NdeXgSYjaJ4wfzLK/u0ZJvCqaMFltshHZKPHQ==",
+      "pathname": "/en/PlaneTakeOff.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 716
+    },
+    {
+      "integrity": "sha512-6xxnaEn4bhPJnUKkcbClfY1g3sbMlOAxC/CTzPvI5xNUpf5ZROnm2K9/CzWWst7/j5hFhEMeIXrRkKETYv2/Ig==",
+      "pathname": "/en/PlaneLand.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 809
+    },
+    {
+      "integrity": "sha512-bNDQSIBo3b2Woi1Eo1dGZLhue9W2B1LEVt1V3K4KsfhroumsC4Abb/IyCtOR+7Fzc0hW0gNxpEXSKw4r5qvZOg==",
+      "pathname": "/en/PinRound.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 2116
+    },
+    {
+      "integrity": "sha512-eV9FqqXdH5BpyTrN4RUnaEdF+yQeWdBTxSwo3SWQ3wWQr8P3A7UanV4upTMz29fC58wOkqxxq4cVr2hJjOW3vw==",
+      "pathname": "/en/PinMarker.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 439
+    },
+    {
+      "integrity": "sha512-yFubvfobxLYavXDFQqY2+iqXVE7cwmWDDy3DQZS7maKFwX5bYSFkXuT1TJ4kCSEoeMh5mIhjne0RsKBZbCRsnw==",
+      "pathname": "/en/PictureStack.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 571
+    },
+    {
+      "integrity": "sha512-mIJqjOHq/m9e4W1XCvKOFTLnjGoEAz6o4EwmanICel8zueVwWCjQSgfP114+SrGkt9Nb02L4UQInAlgF+a8yCg==",
+      "pathname": "/en/PhoneUsed.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 456
+    },
+    {
+      "integrity": "sha512-zbKr7NPOrToQkj+sC0OQ/MGCXc0pRTUt1BsCido95HC+stKTx9+GIGyYRt+dC3P3BqvsAJ8QVs2V83Gam/5bUw==",
+      "pathname": "/en/PhoneScratched.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 464
+    },
+    {
+      "integrity": "sha512-S2ERxQlrRkAzOap4/gIL1K5xj1KBFrFY+99PsGJMJCBtWGqjnr97o0Srea6FXkZHfbPxIQvV6Tms+ruE3C1MGw==",
+      "pathname": "/en/PhoneCheck.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 4037
+    },
+    {
+      "integrity": "sha512-/9UBjc6mqHYccTSSlqtoCJFsn6kTzi6nbbCycKjwGDe3bItOlxpkOk/tDkZzy5Q75w5CnfJy47+cRlWn+mBfDQ==",
+      "pathname": "/en/Phone.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 398
+    },
+    {
+      "integrity": "sha512-KlQFO2CXsUX6J5asP4Cy+9tb1CmSNsex4mtO17IusWoCrPOlic09+sH1unTZK+xYYHoUga422gYcnR1Yj8Yrww==",
+      "pathname": "/en/Parking.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 329
+    },
+    {
+      "integrity": "sha512-mDha8kfYtqxfrQzAF/0uTm/rN/8Ku1vgLgLl2hHb9JZ5bfsnkltV2DVLMORHknrr+BX+wqA1Q09fk2lflNNvGQ==",
+      "pathname": "/en/Paperclip.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 353
+    },
+    {
+      "integrity": "sha512-EvcerlSzcqJssdrizlZCpHS5MOJwyKF93UnG6h9Q+awEQEIw5K/7qmEsVlmUAqwo8e7CtoBgsnE+W5gxcZbXKg==",
+      "pathname": "/en/Organize.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 355
+    },
+    {
+      "integrity": "sha512-fXHUq/4SWvWjf+ndyn5wLbxcLPXKJ2pWzBdAL8Iv4UUgbIwJiPO+AZEHAwPCgENbzO8UQni42UDEZk8RDJaqnQ==",
+      "pathname": "/en/OfficeDesk.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 365
+    },
+    {
+      "integrity": "sha512-Br2oLK6d9yrnRhAWKxjIckmB95nw/ZDYw9Ue/y7TchwhPLjgd5LKMl1jFfY74QZ13s9P9CCs3NV0swvIxEsXxA==",
+      "pathname": "/en/NoSmoking.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 480
+    },
+    {
+      "integrity": "sha512-fCA1MN9WR6yaF0dExB/HpPd3PLfQSHxzf8pUcevHtrnVpQ6RCBExiQe3Fmq6mPjU8dGNkyQ5hQ7HL+tldmeWBw==",
+      "pathname": "/en/Mountain.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 425
+    },
+    {
+      "integrity": "sha512-91VOBW2FarxE5DJEbo/f0CjVJgQOoFW1z3cZAHRNR+AQgbu+NERzt86csRrPomTfuobNkXF4/6u3IL27QvhGmw==",
+      "pathname": "/en/Motorcycle.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 638
+    },
+    {
+      "integrity": "sha512-ZjQhaMpqr1H+7i7ll1mlHkYjfk4qeTnNPEipSqE94GWZikA6MUc9X5/Iwr0AwG5NxDVwOJTmeu4y1B/BVVk+LA==",
+      "pathname": "/en/Moon.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 284
+    },
+    {
+      "integrity": "sha512-l6wMeJfJOgRBBBSwfVbhk9vOPw7/CZ8ZM5uw8FUw25WDZhmmUMsBjaiGBiEy0mEbk37EsRBRbS1Hrg4Aroc0Dw==",
+      "pathname": "/en/Money.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 406
+    },
+    {
+      "integrity": "sha512-Gk+t5gvfikWbMtAsFPgI+ZDkU8ZdFI3sT/Z05os/DbmHcb58445yBYmEKm/tTgyqCuMqVwh7UwxGwIrRg39mxg==",
+      "pathname": "/en/Mixer.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 2150
+    },
+    {
+      "integrity": "sha512-lNWOXC48tr+UX6e8Yugbas9K98TPpTEtAQQB+RzJxlNzr5k7tUy6vaOYm9VEMH693fm0fZJsSF0aCUi8AEAQaA==",
+      "pathname": "/en/Minus.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 245
+    },
+    {
+      "integrity": "sha512-WUsIc57oNhRKMyqFPVHidQD0Ew5poauw/IrFMlIxHPP8bJS1uSo/tBBbHBh6UmVUh6DaCUsSvXqTjiA2vrUXMQ==",
+      "pathname": "/en/MessagesFilled.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 455
+    },
+    {
+      "integrity": "sha512-RKZrs7Y8mQGn7XzVu2JDTDv5NKIO1y7MUCDcNZ+L8gCxaPbKBngpJL1kbAFa+lFujZrJo5rGSYlAjQGTAFsGyg==",
+      "pathname": "/en/Messages.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 319
+    },
+    {
+      "integrity": "sha512-NlyGkxN+rOVcAIR4goRfVc71d0QBhZazuCb0uvd+AA9sJyUvj4s/De4kcXUBQ3/GiZqEjlunUQSwuPDoFGUVUA==",
+      "pathname": "/en/Megaphone.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 454
+    },
+    {
+      "integrity": "sha512-393k76YBHjWTb+uG1tTq8YDMkQdRXAruz4OYq5/H8yERcv+hkAUQ8ZnFjTu/wj8OpAW9c9wwCfG2I+4tU139Uw==",
+      "pathname": "/en/Map.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 324
+    },
+    {
+      "integrity": "sha512-b3iGFYkZncU9ZjDLPS2XB3w4x4/rZRimF/rjOYVSI3yZu0R/HPehvpTqi0qQSPITWWYtayT4TrUYuDAArdwhwA==",
+      "pathname": "/en/Mailbox.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 461
+    },
+    {
+      "integrity": "sha512-Nkd2FGEqp2L/O9+AVqyBwQwtRQv+E1J3n8Se5ZeNlqakY/ZfoDiGIB3dbfdw6S4NWMfSqSkW//2yhnCaakZRoQ==",
+      "pathname": "/en/Mail.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 318
+    },
+    {
+      "integrity": "sha512-QPEuwY2EAGMPWt0AX8wn1MWCvc2K7sDOAiMwtV0i4IU1HgzzIJi/KCJLhnsqNmRndI8f9xtWwPxMHN6NnEtyRw==",
+      "pathname": "/en/Luggage.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 460
+    },
+    {
+      "integrity": "sha512-1GqpuDn6uW6D3hvlcI54+yWBVXF+ibol3u6kIL0z17VL2EV6dfWc8fOSh70v7bheJii/dAcZXS+Cl/ReLUuiWw==",
+      "pathname": "/en/LotusFlower.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 612
+    },
+    {
+      "integrity": "sha512-ewnEMGd/2H2iSOdBwkFl9J/YjlUc/I8F0agPPnrn9jpJXhuwlgGk0eENPWLpN2hMd3UqhcRef05e298Wl95t4A==",
+      "pathname": "/en/Logout.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 312
+    },
+    {
+      "integrity": "sha512-SXB+iv4FrXSJROXpVPm62PQFE591bLM9tBY7bhJjMUIfjyMEpUdzN9ICX/swMznxwi6WiEg4GGu2CM3YuEzcmw==",
+      "pathname": "/en/LockShield.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 1794
+    },
+    {
+      "integrity": "sha512-XaJf7agXa0qS8lIIXIp15ubiDj1HwZ4YfavMs1hJ/uexgyQ5jQ2DuY+utT/9S7NcHsreGWsl8ThzRsucpO/pSA==",
+      "pathname": "/en/ListSort.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 300
+    },
+    {
+      "integrity": "sha512-zl9WbHTLR3fIf+SWIkJKV9P0/+CDttQLC8bk9e5nOT3Eyxo4olwWHgrPSX+x+1Jwh8qnLG3d6B7Iy4abKaWEtA==",
+      "pathname": "/en/LinkExternal.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 391
+    },
+    {
+      "integrity": "sha512-MuKchve6TJl0Hwvl6uJBHto3W2m/pSjmLbnf3PCwvyMJ1fBkPws1IA6Os3+GSIXWa8c5Fv2tH5rO6FXucF+7nQ==",
+      "pathname": "/en/Link.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 355
+    },
+    {
+      "integrity": "sha512-LypND+1qMPCHjxt5aPW7KB1gqt2jfNCmme2b2HxEVzsMoG7rWprBpTcWZ8Z6JK0seaWw0bAUvyCJdY1EzTpJpg==",
+      "pathname": "/en/Like.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 412
+    },
+    {
+      "integrity": "sha512-BVDuICNi5+ETyAinZU4Hb0JxWTqP3met+gbIimZ8ABEw1zI8PQZRzqOc4j6Smf/n2Ndpn2/b6Oqu+tF4iPtR8Q==",
+      "pathname": "/en/Lift.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 379
+    },
+    {
+      "integrity": "sha512-Fa1niAw8zyQ2Zg4zQHKlyV8z6B6AQ1CJOA8tSmDJVu9qlaysRr8QxauQJVEjkKC/vdCpA9tv+onZ2sYSnI+qNA==",
+      "pathname": "/en/Leaf.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 328
+    },
+    {
+      "integrity": "sha512-dq/Ivxk3ZaJbwY8by/yT+cOJyGwm90RX8OVOdgL3pltztqW50vUOuA1raWpCKXEZAHmEa4HjGyybe2mUmtH37Q==",
+      "pathname": "/en/Layers.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 326
+    },
+    {
+      "integrity": "sha512-70KwIoW9E4GTkqiL7q0jFSZL89a9EJqM0VrpmqVx3jkGrU25CvgI+WNa5xTTtFrYIAgo47c5Hn0GNr7F7J7oRg==",
+      "pathname": "/en/Lamp.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 284
+    },
+    {
+      "integrity": "sha512-fV7xwsEd9EydhJGLlFGgWQioZYAnFbTElrJq65aaeB9QTeUW2cvnGDdKBe5wCWWNRV6Vy7py4NTWpqNx2WtUGw==",
+      "pathname": "/en/Key.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 641
+    },
+    {
+      "integrity": "sha512-US4TscWDcXmK8jriEIKtWIe+JIKf/3DD+sYNt38JnPne4vIPtx49aTTDEt+JaJJtIo2bXR4iZCNgjAAMUqiaRA==",
+      "pathname": "/en/JetSki.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 718
+    },
+    {
+      "integrity": "sha512-cFi1vFIv2g1S6+bVvy+ovDhalj0h59lZbXZr+hyZ/UqrDTG/yeF3xH8unfcyGejFf0f3PRMGJ7jYE1z+LAmR9A==",
+      "pathname": "/en/Instagram.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 625
+    },
+    {
+      "integrity": "sha512-XApHG6qi3Up2fAGQviFO9g/W9Ec2tbqoQaHpRwVAn3RuNLrfb6UKm9xJnSLrpTpAikfbCVBodIEI0FDX2h89LA==",
+      "pathname": "/en/Info.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 309
+    },
+    {
+      "integrity": "sha512-xxdw3sclBqUHoWCYAogH46/Uz/QAQztC+NC8Wr8Wupxfe5BNSTSReALGGJm3ixz9OqGfTdKQ1tJmgmfOhutWyQ==",
+      "pathname": "/en/Image.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 516
+    },
+    {
+      "integrity": "sha512-mYtP+3jjprqOoAq9Cwa7KkIt+KF8mDA3SQTLZAJEJB4Kmki7Xol5TPRnqAgwbr2DsY9KHK9HYgW5Dix0llCjVw==",
+      "pathname": "/en/IceSkater.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 2555
+    },
+    {
+      "integrity": "sha512-tFPQ7V+bOWrsoIt8gbfK5SDLAMKGnUYfAQjbR8MRG9C1xZQxrYMkMtK3PYNHxlc/4o/BUPPMDwUg67J5JHCFYg==",
+      "pathname": "/en/HousePerson.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 545
+    },
+    {
+      "integrity": "sha512-WXG9AlSmVbQNilcF1lqoOuIgjBy8M2Wp3MEKLAphtanBQ2KdNARQXpLeUe23UVSlR5FH0P6SxxYWViBNb4C/Rw==",
+      "pathname": "/en/HouseModern.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 463
+    },
+    {
+      "integrity": "sha512-HEOt3MYsxyhaWSAWPJ1XXXIOErbpSrzIPXIgb/c2G6CAhzJN7xn2/SHPHB8lv5HHrTfnqmaLSzuT4oIP/cBAOw==",
+      "pathname": "/en/HouseFilled.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 354
+    },
+    {
+      "integrity": "sha512-REagc4TRYDZHVtL4MxL84huUFzvJCfccXMR08vJDb83TKMrGwP+2zlfpBJzEeUafHfu1LVkmHfadrsm05s9rjQ==",
+      "pathname": "/en/HouseBed.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 451
+    },
+    {
+      "integrity": "sha512-/VxAGPFSBiA1e3RTQ1h+vR80wtxbt2evP/ItxxB9ruYlPuH7jAV0zAfgISNcqT+0SXb99hxQ9/ktnd6Iax8SmQ==",
+      "pathname": "/en/House.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 334
+    },
+    {
+      "integrity": "sha512-jNhGmuEr/q9/TQj/CNFduTVNoz3il1VRbIS9wBjTRxio/xoIhTQvb2I7HQPfQh8JypBQSI5F8AMJlc5CRiKk3A==",
+      "pathname": "/en/Hotel.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 361
+    },
+    {
+      "integrity": "sha512-OrokUAd1VM8zhH9QcWsA+M2siamt7RobV7RU7i/cc+LXSYbrh6J4GQUnPXQOfhwGH5Cp/SPAWJhuhhXts5uy4A==",
+      "pathname": "/en/History.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 358
+    },
+    {
+      "integrity": "sha512-U9alO3slZZpUVwPVx9FoG12OeYYFOEmwmso5PGt+mq6LH9LzKGquil17gpGmlmFG4NxJdwFfE84MaB+YnYjuNg==",
+      "pathname": "/en/Hiking.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 1461
+    },
+    {
+      "integrity": "sha512-LaIeWEx96COvKCDuR51KWwrby0oaZKOvYeMDKSdI57AznlKWJzTwjEOS6eAwGl7Xrp8s00IIRIxYGEZccrSSug==",
+      "pathname": "/en/HeartRate.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 466
+    },
+    {
+      "integrity": "sha512-IOEB7iHzcHRwEN6zj7OEX0/wjJeRmUq0QhlMrFHpIQ+Da8UT/zMGF7akS+YdA1pfdJPkbB/kC5zIcAgcrebPHw==",
+      "pathname": "/en/Heart.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 389
+    },
+    {
+      "integrity": "sha512-OsT4RZMEEazKFBs2AGHJ7pl+PTeMdQiJvASuG8IIZ2jIlHYobgsP6t3E2SI9yfvJ+/FXvFBOuCtRBB1S6NUhZg==",
+      "pathname": "/en/Headset.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 416
+    },
+    {
+      "integrity": "sha512-JrwOJuROTl5pOxBmcYZvhs5IqttnIYpf2r4mWDB1ycZuHIA/xcZY61iGkTVshFyzDvn0uOAzujJtIy3A4OFF7Q==",
+      "pathname": "/en/Guitar.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 729
+    },
+    {
+      "integrity": "sha512-VtMj5pymIQBllLRTC6IndxiiNpdtO3pTaAvFY1jTHlDRzSy3TUeRZcSvEp+zS0RF3+EAmzb1uMCZPY7S3FUq2g==",
+      "pathname": "/en/Grill.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 801
+    },
+    {
+      "integrity": "sha512-Jit2h3UQQHSP2iFBUBVhW/d+bIjo90ZnapsdgIwpuLrJaCn1CYyWMo6/pRX3BWC5hYjjoBj6gMEqYramT7j+OA==",
+      "pathname": "/en/Grid.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 666
+    },
+    {
+      "integrity": "sha512-HPOH0tYJ2uJwmuO3T1NpQPi2lx8s9fbEZCFFfrFJBCoxw2+s9JhKCHlMafc1seoax7sordumI3B5p3gywX95CQ==",
+      "pathname": "/en/GraphPie.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 416
+    },
+    {
+      "integrity": "sha512-rB3E+cU2RFS2y7x5/4AN3C18y1374uT5x94KpbL5bDmGRgvmmvO562MFjS+adEBF02rzDmapQUN1GCuALzub0Q==",
+      "pathname": "/en/GraphLine.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 300
+    },
+    {
+      "integrity": "sha512-GFaRpGHMGbpvAc2yM2rSKp2IzIBJIqzJeJ6OQdPJOoeLeJM8wJ2bwKzuxmcKXPgtoX/tGN/c8qdtaonxB9XsUQ==",
+      "pathname": "/en/Globe.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 358
+    },
+    {
+      "integrity": "sha512-pc6eV8mmmFVoxTqWRSvjl3OBQO7iuypMM6ij7lk8BocT4vmRZRCyUAN5wu7a6VD+tQWPB5SrUgzs+VHBHnQSMg==",
+      "pathname": "/en/GeometricShapes.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 716
+    },
+    {
+      "integrity": "sha512-nCM/sA5F63nsaTHPPto39PGmNXzXg8/Hhl8UfRVXdvONYPQpkQHWk7r+9YchxOxuVmuuhyr3ueCyKkTMTJvFQA==",
+      "pathname": "/en/GearManual.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 312
+    },
+    {
+      "integrity": "sha512-P11jmE0EGqLx7skviO85oArXSZ7E1jRH4X/SPCvnPvPYb0mgsMQG/hsz9humCtt0NQ+iu8VMj1VpTk74hNn/bQ==",
+      "pathname": "/en/GearAutomatic.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 340
+    },
+    {
+      "integrity": "sha512-JsuCyBOyxIfnYLsyjK+0qjBVrdRrPmeY8iK4d/AQ+s+xlpLVuR+RshP1OA9YKVU1Cwn0llPbxU9lxexxCaUu/g==",
+      "pathname": "/en/GasHybrid.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 2492
+    },
+    {
+      "integrity": "sha512-nE3OKq6L0wZYj2EnL3Y/7kwC0s3FegDUcCor0BTRWEnrm8BXGN0d7VmomeimGSQgQ/uJeGsjqO0Zxuh72QCezg==",
+      "pathname": "/en/GasFuel.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 565
+    },
+    {
+      "integrity": "sha512-ufZJRwU/LsVUaHpytwu6K5Kc4lLTdkAJqzV8ajOsM1slF9yUFaAOXBSRxwDvEkeVE8qJupKLV+NDjBsEuwVtVA==",
+      "pathname": "/en/GasDiesel.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 447
+    },
+    {
+      "integrity": "sha512-UrZMnXUJpDHwQLU9Ng/L5wjGtJ4gTmeI721S94YfGvlW/Ha5bzmFTbNF0M6nnAFdn8aZb4KI7IFJuB79EOsSew==",
+      "pathname": "/en/FrontWheelDrive.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 536
+    },
+    {
+      "integrity": "sha512-0dHuPkZs33NWHl8i90JhqdWvxLxqSI2JePgb7wT0Z2FQC60LHjb73oxxdycSFtbTfRIz2R/x0JhGRKPT7G0DNA==",
+      "pathname": "/en/Fishing.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 464
+    },
+    {
+      "integrity": "sha512-dKPvJ+SJ4hcr2abVYyMxyTk8MPGa8zud0WglzyzolJwAq2URFMZsUqaojzPDDglx5en85b1llcOQU99P8Ei3ew==",
+      "pathname": "/en/Fireplace.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 559
+    },
+    {
+      "integrity": "sha512-+ndeOMmPYgCfSHaEWzhFhiBnicAbieIkGRgtEgKvB//xowHMxkp9LZKPPKjT2xVX4yuOZc4tCcjwrR+OGX11Uw==",
+      "pathname": "/en/Filter.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 429
+    },
+    {
+      "integrity": "sha512-sQvqH8lbFj0dCUGvL7vSlLrBVRqwX37qDglVaC/4+Onw0ByowBWQvXwETJKDxJG2NbXoe6z7+SDl66D78ByKDg==",
+      "pathname": "/en/FileArrowDown.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 415
+    },
+    {
+      "integrity": "sha512-Qr/mNsBK+Z0NFpXKcDkJzfFni8txp1hXaxT03MGRNqTbhlu5DpKzCZrO1RFr/Nf/SatNljJ2BZep02G7Csa6YQ==",
+      "pathname": "/en/FileAdd.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 385
+    },
+    {
+      "integrity": "sha512-WsuYQeKLcVa8qA9nNpWTcFfE8K9zQz0jEx7955KOApci5Suhvaj2quE8tqwG9Ux0HZR8eLpSotbGQJmcKaMV/A==",
+      "pathname": "/en/Farm.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 441
+    },
+    {
+      "integrity": "sha512-ErUMTM8Wgg6ZJnh9QgxmQvRZfyY5dSeYpsxVd6fSlR0k40nPZowYLvCfovJI8IuseRt98KKnLR4XuCJlJBnKmg==",
+      "pathname": "/en/Facebook.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 740
+    },
+    {
+      "integrity": "sha512-ivwJDRQKMT8kFejRMk3GR3Akp7WobhH/WEyCkwgUVayXlPHnOfbmHZpU2vnedJyj+WxUTAGEMAke1mdpaB5pnQ==",
+      "pathname": "/en/EyeOn.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 471
+    },
+    {
+      "integrity": "sha512-Zi2emX0w8z7HGiQjozx9Ej6JkgYW+3A1lpsX0AVVKLPjhRjNv2stIYlRCCZaoOwTITN31zK3D4uNhyiS1pw0Gw==",
+      "pathname": "/en/EyeOff.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 488
+    },
+    {
+      "integrity": "sha512-s7TOfMXSbHREyzJqmM2z/lU1b5g0l0Mgwz8jhjlCnZrsf/KeSm3GMxUXoIyeP0kOH7BB+Y1XiigW/9tFtlsIjg==",
+      "pathname": "/en/Expand.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 304
+    },
+    {
+      "integrity": "sha512-ks14KpuWjDAETZ+YeOr31VcwH8L8nlRCPFGq/qFKTjXkSkbFE2UVi3MH5FSe2RGdHCUKua3QMcZF089zVwlw7g==",
+      "pathname": "/en/Exchange.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 501
+    },
+    {
+      "integrity": "sha512-mxzho+oWknWTUAW653sScKuymNWVNuFwp6miSrJtnZANVFZykZettdFnMHb2MNnhwoBi5lUTUOt3C6djnwdLTg==",
+      "pathname": "/en/Error.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 505
+    },
+    {
+      "integrity": "sha512-NiQef915BawnepO7X6Gb0j1zA5dI3PdbVTboqHRj/wN52X3dJqyMmTLBx3Y4io8Vaxokyzt/J72dLCtP+9cm8Q==",
+      "pathname": "/en/EngineBelt.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 1696
+    },
+    {
+      "integrity": "sha512-Ix+cLAfWcgIbj/9Nn4tFIh77Fu5sGctU15/15A9zaBnLZ0Xz+HKOR4GKVBtrrdKB3c9iNkITf8RysCwIYLAWTg==",
+      "pathname": "/en/Engine.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 383
+    },
+    {
+      "integrity": "sha512-F5llfaRw3vYxBSld62TEBKGmcX5c9lbv7GNZSRcTSBeRxpnT5uW5cevuzS+qVUg0fXQkzsmYB8QhNvnMO5Ydvg==",
+      "pathname": "/en/Energy.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 1764
+    },
+    {
+      "integrity": "sha512-uVPGa4nVq/dHAKKp2nrQsTo5jNcco364cWCXUXbGh1DfQ8d0pF5B8iwXIgzoEFr9eigZ5rkI1EIeryHnEGFbqQ==",
+      "pathname": "/en/Edit.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 400
+    },
+    {
+      "integrity": "sha512-YOIyJQZXdIeCJrhUjVT8cZjkNWa2RY1FR0UhbabVsJ7QOX6TSMqK2ggAe7+DtrMUjFZtFBp7HV02rebKCor+wg==",
+      "pathname": "/en/Dumbbell.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 580
+    },
+    {
+      "integrity": "sha512-rUu6f8TqSXEZlopxDlQin1XGheDKdl6DzXrQWXQPTnffvXn//6Ti1p+xYas+mgflCDofF32SykrpSdmXGWPv9Q==",
+      "pathname": "/en/Drink.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 296
+    },
+    {
+      "integrity": "sha512-4SL1HzaMZLVMdw9zWWuMN6gpbSxpRP+hiIHrpuZYge70nBHt+BzSaPlf9FctTMNrz0nsBbmrgGK7q2iZ7P21HQ==",
+      "pathname": "/en/Drill.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 465
+    },
+    {
+      "integrity": "sha512-TUlKuRE30dZTWTOmg7WsX9pnZUgkiOghA0tI2rWLTqxdp8R8i3ci0EkO3QSo2atPwPpw2LEoIZkMto2lrRRLQw==",
+      "pathname": "/en/Drawer.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 391
+    },
+    {
+      "integrity": "sha512-UJU0gNRF7DsDqAk2W7CsQJ6nzR18aUONg5WHj17imvVhPeeSdf/UGWtPZnW7UXGbrpCujoZxnbzEBctP77LGXA==",
+      "pathname": "/en/Draw.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 375
+    },
+    {
+      "integrity": "sha512-6QB7kLKSn/IbyUC/bYFa3t29SKjlwEqDgzp0AJEkU8k/DmJ5ZT1NxKKvpkxGiZNl/eJ61HuxxohLXMDNOhi4Uw==",
+      "pathname": "/en/DragDots.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 543
+    },
+    {
+      "integrity": "sha512-VnmXptnU0hsrZM7CJVaPDswm4F4KLSYOeeD1rESO2Nf+JplV7x1g7SzyplYbGWOHD3AmlaqrEEApFdf57/LSvg==",
+      "pathname": "/en/Download.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 331
+    },
+    {
+      "integrity": "sha512-ZkTj1wulwxxjKxH+7bZE5vzE0Wgqos+f5UfQQqwmeR0yyH2FXE3BRkJk5RwMy2JYPIbJBclpLgl/Yj6gtkn3Ng==",
+      "pathname": "/en/DoubleBed.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 575
+    },
+    {
+      "integrity": "sha512-eId0zHlzr1LBAz6+UhD4ft4fndBiYGwC1q8IWkh6kIq5cpn6KWBPczBtPuQLik0SjfjooZTXcZ6eQkKGS4ebng==",
+      "pathname": "/en/DotsVertical.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 341
+    },
+    {
+      "integrity": "sha512-K/eHVFP1me/zpt69AWEm80cOCAGKYSh0PMJ8WbraeaEv8EplNGPZkSHZqAD811Zc0RMKFOE3SJ+bJ3X3lVOVPQ==",
+      "pathname": "/en/Dots.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 343
+    },
+    {
+      "integrity": "sha512-SWNS0ylE74Ul3rAW5aqCFQ6RBnV80UbNm2zialxsGXK2f4LPwNDKGyZG2E1vQqeyU/3Ob3bfkiPb+IgsJ6KB/Q==",
+      "pathname": "/en/Door.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 310
+    },
+    {
+      "integrity": "sha512-rK85wHrFc+yhp/eww9n7Zau3NaSOgs0FQNx+RDuppYPZHjIeKGy2BtPdcFJLYURhbKN3Hccb2SrfhGAo+KJFmQ==",
+      "pathname": "/en/Dislike.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 417
+    },
+    {
+      "integrity": "sha512-XYRxRZh/G43xRiuDmWtSuOjZ48boUkKPdCgCQ7qE5XhaMCWMbl1yfP4Lb1grOuqCt95XnxL3cmjsNR9p4gwwmg==",
+      "pathname": "/en/Discount.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 822
+    },
+    {
+      "integrity": "sha512-q7CPStekvltIcDjG2ADgi0Cyxyqf3oluSAovVUupQuWayuuCunBu0iFc92FRAFrG6fhtGGj+BKJnJUsfJN8ldg==",
+      "pathname": "/en/Diner.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 609
+    },
+    {
+      "integrity": "sha512-RWlOaeJGg96apdiAzUIVGMg/2mPboSZ9COStcBrJxd3sxUrsq5mGF3noJb3K4B97mbcaYzyG7ITdnas75an3WQ==",
+      "pathname": "/en/DeliveryKey.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 847
+    },
+    {
+      "integrity": "sha512-a5GWvlBFx2qo3rj+QSwgzSV62HGdjWWJosPTWGTjIAA1jcqnfk/WFddhULGY+PTQvQjVV5NcHfmaWPIOW9PtqQ==",
+      "pathname": "/en/Delivery.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 531
+    },
+    {
+      "integrity": "sha512-y3tT5d3i47V7rVTL2osU/lWachZHuhcxQi8Q4gjLK1YobWO4XUEfCtQ8Cg/mJg5Ok9SEJ89sBm1zw9XMvlPzOg==",
+      "pathname": "/en/Cursor.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 523
+    },
+    {
+      "integrity": "sha512-GArSfnja5zKVONd2l+nmfuwryqQwb6YbKkSGmFdvZ4eIvLhPC3pzyTaFk4AFx4i5/WtNODJxEuvCqMGdzcuMYw==",
+      "pathname": "/en/CreditCard.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 368
+    },
+    {
+      "integrity": "sha512-/CTvKsYpVAY7Ds0+4HaP9rr7OUAVoIo3Q6e6H8BANLfbRSTYTd0hLF5LXnWs5nG6FHrwiUZDdtmYTSkeH3fwUA==",
+      "pathname": "/en/Copy.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 428
+    },
+    {
+      "integrity": "sha512-oKPCUoUUhFwTfI8dIawZlppXxs5rE4DbIxq3HiFK8l79FGOGR7vvASgX5OKZytNKnQ+WXBHpDDifxDLe41lBeA==",
+      "pathname": "/en/Cookie.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 414
+    },
+    {
+      "integrity": "sha512-NLg2J0ScMZmnkKqsAzDJiHkJolUrZ3GTpKXO5No7SPPKBUck5TbnZCHJKy31/YbP/oDYCJfyFPiv/yTCDT1HPA==",
+      "pathname": "/en/Confetti.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 532
+    },
+    {
+      "integrity": "sha512-1lFQpx7447dERIyb5j3jLMGe7/LNCIrgvFaUBA00xP7+kN4VbxiVDLKZ+dxzrxXOROoKWOYsX3i3xlzOTcoEbA==",
+      "pathname": "/en/ColorPalette.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 569
+    },
+    {
+      "integrity": "sha512-eAt9SMi2SiwCU9tpSsCzLKkGbriXOYTdUx9sJeo7x3+MJPUDq3Z+5qq/DZcD/2mrwmn9QjEBkuzdeFpBQ/ZTbA==",
+      "pathname": "/en/Cog.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 902
+    },
+    {
+      "integrity": "sha512-z/giZA+l3jM4zBRUJNmM1KkgXxjGLx2XrqASvHYHMPDS7vmbXtcd82zTrgy4Q5UENv3Kyv2KcLWtHK+H/9Pnhw==",
+      "pathname": "/en/Code.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 345
+    },
+    {
+      "integrity": "sha512-4Vw0UQ+1TULaZhLpnpSqJUnDlnpg6mTkbNNuo7BBDkAwaXAX7A7txuf//yQi+Kj402jZW3LI+f+CidAGfGWiSQ==",
+      "pathname": "/en/Close.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 261
+    },
+    {
+      "integrity": "sha512-bU1KN6h3h1yh9SEc490RANk8oR8+5IsXcIQI2iWET1jpfcqTxb/wG4rmi9ticg1LNO7rOpLXGD3Qnu0JtxsuxQ==",
+      "pathname": "/en/ClockCountdown.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 434
+    },
+    {
+      "integrity": "sha512-VqvqQe38JnkDq+62oNAoCQyF3OeFU1MJrYemxrRgTDrE2tRLZRWF8hFJp1Rk7CRyUXJ/6exNhzZgzClh8VWlBg==",
+      "pathname": "/en/Clock.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 279
+    },
+    {
+      "integrity": "sha512-8RitHnjjfCqicOnjiGRHtEXtPI7BSbS+aZ3se1sQmyzYIPvb5noAQPAJP/2IYhnLvc/HDKP+xeQoUmNyzLmFLA==",
+      "pathname": "/en/CircleUserFilled.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 1258
+    },
+    {
+      "integrity": "sha512-+zkTY8OAiiiXChg13GXxQu3Mn5ASQW5CzvlyGADREVJfGK334pJJ2yuxNI6KUVlYSQdRCsD2PJ5jxIE83btYLA==",
+      "pathname": "/en/CircleUser.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 381
+    },
+    {
+      "integrity": "sha512-FNjj6zEJkvqhceB8xTTm6Cc92wnTkHIkJeAAyHYJUenKlhxdKpRNjHdwcX5z00vdU1DgIb0KUZFnMx2n5YmVyQ==",
+      "pathname": "/en/CirclePlusFilled.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 506
+    },
+    {
+      "integrity": "sha512-2OLKIHAYPlGIiHUeUZR+9nI+tyRmA7DNocd6GJm1ol2WIb+dr0M8JrEAGfpVXc6Gu9wsXCVrphr+bMeyb3XJfA==",
+      "pathname": "/en/CirclePlus.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 284
+    },
+    {
+      "integrity": "sha512-ZAfEw+dls+JLlXXpfTgqAj2yK2ZSaAW+9Lysh3Mtz1qPk6nqXwWq6krEJolZbHjn/+tt2tUsmtnYCqdaTc85NA==",
+      "pathname": "/en/ChevronUp.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 261
+    },
+    {
+      "integrity": "sha512-jFhA+IX2Hpzv190ylIMqlImXxoGVgZLmn7a1//1Jrc1A8E/BVAMeGOQ05ZGnGQeYnGkyOCU9AFG8lpbicbBQmg==",
+      "pathname": "/en/ChevronRight.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 263
+    },
+    {
+      "integrity": "sha512-ZNUM6j2BmaeKzOMHswv08K9Bs62OvcQpNJEOdfJkuWElzjmE3p24Th2tuWEN83IgwbO24H9SyNQDtZNwpcpz8w==",
+      "pathname": "/en/ChevronLeft.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 263
+    },
+    {
+      "integrity": "sha512-x3zLcgCjanP8dKb9C7iBe+k/6DxaAKGMrfUFapq0HWSXWw8wTHUV3MZNKAZkVMHFahry6TEI7ttKrWbpZUV7ZQ==",
+      "pathname": "/en/ChevronDown.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 262
+    },
+    {
+      "integrity": "sha512-sXcUr+8mb8or6Cfsh1WpORK0b5ZvZJI6rd3Awk6oopGaLRDb87s9I18h56CS5Z/ROG5TxcfLPl7kAv9hGU2GIg==",
+      "pathname": "/en/ChevronDoubleRight.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 295
+    },
+    {
+      "integrity": "sha512-4hAk8u647e+E+/4jZIxOk5I5vrnNiZY87UAhw4gsj/AHLigkZxNWGccVUz7ku6FcJdVSj5CAZj6sFW9b0MMQSg==",
+      "pathname": "/en/ChevronDoubleLeft.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 297
+    },
+    {
+      "integrity": "sha512-/HAjYpFFCHDdRl6RB+O7DlPKJDx7+efrtujigBp+PDy7Jjb80MpjbjWKFkB+vW4ilDoahNWbxqwPg2iJDUav8g==",
+      "pathname": "/en/Checklist.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 322
+    },
+    {
+      "integrity": "sha512-7u6f85OcezDyLAlnHrp9BeYDMKW0lZCTbuA296eTgOFnH/hWsee5hIRHZHCkqlrN8VPz3LU3FiYzi8CbBRMXIw==",
+      "pathname": "/en/CheckShield.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 343
+    },
+    {
+      "integrity": "sha512-9PVRLnxyse8cqLw67nGQsgOA+uGODzagMmIfSoZia4hPR5XxCxhQotuFUH4J5s1V4vH15h5H+EYyvj/d1fyBGA==",
+      "pathname": "/en/Check.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 255
+    },
+    {
+      "integrity": "sha512-qAlv9tJwXA97g5YhqZc5dGHRYrvgPNMeUjCF8JBqLYmFlBsDbXwO/Ipn/uRGXdusMFc5uE/sOS2jterds17w7w==",
+      "pathname": "/en/ChatSupport.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 460
+    },
+    {
+      "integrity": "sha512-o/WMkSkbWo8FJPft8smiFDEfoB5QtCpA9h6r7O7iR6spHfGdM3G6kw2USygpoVTqfRS0NFqkpwyaA8dJxSa7bw==",
+      "pathname": "/en/Charter.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 624
+    },
+    {
+      "integrity": "sha512-2sK5ns6eSx4iWGD6tUVJve7oru1K1uiwnmaLyb9I8XF69ZpdCzfowEOp9maep+2XAq51qJvu5d/xrCUkdLmi5A==",
+      "pathname": "/en/Charger.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 344
+    },
+    {
+      "integrity": "sha512-dKVyiLr0QvZm4n8XLN7S0zcVgvhaht7KiqWTCeqdfQOP9zTLWt3/9zNgjNeIZp5Nzikc5GvDldvIwu8UTP5i9w==",
+      "pathname": "/en/Chair.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 688
+    },
+    {
+      "integrity": "sha512-zYiUnjQq7cO3I079pWdy0KIh4KTwxqQTQqXsFqowAzlv4ErQK9s/LyBxZqltz0PjJ3QNJZHTfgOfMLTm5aB3ZA==",
+      "pathname": "/en/CarRight.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 1551
+    },
+    {
+      "integrity": "sha512-HmIqaRCk1iasNVkBeybHhCrSx6IdvWgE3bUWe9hARw44v5b9WcbyS8r/GxDwrjAIxIv6i8UXCp0zXZ51jCcWkw==",
+      "pathname": "/en/CarRent.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 2090
+    },
+    {
+      "integrity": "sha512-YorBi2dawvUljjav0bDONHrA1wS6TH3uNC+EHmwqM0zZfYQOq6G1OkyBXofWuaSNg22KCcy+4/KScfGvUPPljg==",
+      "pathname": "/en/CarPart.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 979
+    },
+    {
+      "integrity": "sha512-tZjnVb0OpLe5xdz86SxTufsjdRDkHw/ukIRU8PrNNOPnR62uORZKTXKwA/3/f9BEmNntxDAa0xAdZP5sH7dLLw==",
+      "pathname": "/en/CarLeft.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 1562
+    },
+    {
+      "integrity": "sha512-ok7g234rovuVxBidDrzrw6WeQFygTr9e0QRQDlZGf4ZrTNYailX6mVCQNmdpsOgvdLbl9/exzfuqb/0M/m7ZNQ==",
+      "pathname": "/en/Car.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 466
+    },
+    {
+      "integrity": "sha512-OJVU382mvXDk3y+yi1W0knb/AXbdiCZ3iGn4YhcoO5sFiqL2hR3u04UAHs26fY3UXZ8L69Oobcomw7IKE9pbGA==",
+      "pathname": "/en/Cancel.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 290
+    },
+    {
+      "integrity": "sha512-y6uStew4SgfewuVvIxPigwvl9svmmO/Pz2ha7XydkIbBSFsitj9M7lq9id980ZPJcfvSogH7nkUB1fKMLRNutQ==",
+      "pathname": "/en/Camera.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 519
+    },
+    {
+      "integrity": "sha512-FDzZBTKcjuaEQbJYctu8wTmuOi4MJJlZOVlQ2hyvCmdJhAwdwRtE4B8TDcCOqNEK+mPoYPQBOstamuSR9YXKcg==",
+      "pathname": "/en/CalendarPlus.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 372
+    },
+    {
+      "integrity": "sha512-wGs1SZ+QSgNcajN7VJl1lBbkkGL65IwL/WRAUE5AF+pbwebCWd4qwdgWYtPQXLOUupRuJxElAfxbc8c3X2jPuQ==",
+      "pathname": "/en/CalendarBlank.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 345
+    },
+    {
+      "integrity": "sha512-IiOpOb95AEVWWCKj6ObskZ+5rHdO/feyZ6r3+1s/vEpv/TYPc6AEegvZi4BHsQtOKZ4IuZMWZsTalw23C1qcfQ==",
+      "pathname": "/en/Calendar.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 427
+    },
+    {
+      "integrity": "sha512-h99WYc8S7uNIW8vfrn1tDxVvt/893WFz9CWJDiMSVvUBSW1XVYbRkukSdKeP8KCrEoh9kSFmAEEdgPQIv5vPug==",
+      "pathname": "/en/Calculator.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 428
+    },
+    {
+      "integrity": "sha512-yhl+QUNu5WLQDMUhc1RLzehH+pgu6vVUdG+a5i4Ujmn5XC+bDkpekzGLv2Fa+3mAD6QZuo0NcKwS/rBmYKpkPg==",
+      "pathname": "/en/CabinHut.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 1870
+    },
+    {
+      "integrity": "sha512-20cDBAosVK3imuURtZb/hR3HyT+UmQFTi35aVbxE4yxflE3czrx3QUsNkXUJkEugDrxPYA7Z2g5ZhLxSg9YYLw==",
+      "pathname": "/en/Bus.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 504
+    },
+    {
+      "integrity": "sha512-Fr4cjJm7Fr08OjZoybaV5fbs5QFpiiqIyYirTxJo+5r2x74iqGwvNw+pDDVoF8zILA5Q1JrgMQdDE+89mrdoAA==",
+      "pathname": "/en/Burger.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 264
+    },
+    {
+      "integrity": "sha512-7WzkxZjvgAE77fEGilNadXGbYU22HU5KC/aMDgPO5/+cd3UliTaS5F9rR20YtbNe6MS65BXoNFZuXuw1bChbow==",
+      "pathname": "/en/Bulb.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 482
+    },
+    {
+      "integrity": "sha512-KNJodGvwmpCg4g9bSDNSJmpPuMBP4+wNlFKKCP71ywpiwa+XJPB57EKduf8Ol2plpOeJobi71rx7I4NKjZfmlg==",
+      "pathname": "/en/BuildingPlot.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 440
+    },
+    {
+      "integrity": "sha512-CsBKx5gcY3c6smTA9AgfIUgh0f5BzAc/8EPJR89rjri3hCr3Tgy5r4mSoIAfi5yWTSzadFt9ykBzVlxMso7oPA==",
+      "pathname": "/en/Building.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 373
+    },
+    {
+      "integrity": "sha512-JZEZPY8DShRkg5BSOGPhPzbe85j3XV0L169zwDouckburYub/NB0vR+5ugKmBOzmWeyRHPuyACerDo3zXAUS/Q==",
+      "pathname": "/en/BrowserVerified.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 588
+    },
+    {
+      "integrity": "sha512-gDhRn0M/6V0cBuK2SKCAs28j4SlaNkHlx43h/tLTjQRGBn6EsSSgB/hBljen5w/6HjcU20EepVQKhWk3C9QcEw==",
+      "pathname": "/en/Browser.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 691
+    },
+    {
+      "integrity": "sha512-wTjEGSgklMLnuRWg0x0GnnAkPnLRv0cDl6oVXnO74i3MwJNS4pULZSO+OOT6vehrYXmcP6wmKtfQ+qoDi7bmrw==",
+      "pathname": "/en/BriefcaseUser.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 2163
+    },
+    {
+      "integrity": "sha512-keLqFPS6f+XK1olfY95a3W8L0aWe75L66lcPVAxmpCvAJfRgBlyZS2xnJ0fnNFKvXlHAbmAeihPaRMq0jh1gKQ==",
+      "pathname": "/en/Briefcase.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 585
+    },
+    {
+      "integrity": "sha512-McUX7u7FnZY9gRcKmClHwIz+8o8JntltAb740K9/94PbeGnyNuJSMRqMSKWmuHE4KQoZLlluyMFCIDLuXM8JDA==",
+      "pathname": "/en/Bookmark.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 299
+    },
+    {
+      "integrity": "sha512-KAceK0Z1m1cl49ct38LPzedKPu9SeNU1mrPVU4htUQcdjcSsQ5+2bsf0Y9LvDLLHpq5F2hf0Q1hdB8BgHAqxmw==",
+      "pathname": "/en/Bolt.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 280
+    },
+    {
+      "integrity": "sha512-XL6qnZlFFgjm7kLPvqE0WjcU291EJedr0HFwNC/s+P1wNEMG7fCpIMXaHVMtnvTIUZONKwpsw7DVxcK8zUebFQ==",
+      "pathname": "/en/Boat.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 636
+    },
+    {
+      "integrity": "sha512-FbaJX2N9ocR5rT9wDZAyYs1NvWzbSqgHvkkkcfeI6y5oSWcsPPFJTNlGGw/uMaZ92hFD8zgUrsciEJAR/IwHmg==",
+      "pathname": "/en/Block.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 1324
+    },
+    {
+      "integrity": "sha512-+D0mL2ieOdqRSWNkNIEw7m1r9WB0qBJj/1kiziDrsQZ8ViVtiYvuYjNVvmDXDUF+wSxDxsheO4wWSu5VeFoYPg==",
+      "pathname": "/en/Bin.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 390
+    },
+    {
+      "integrity": "sha512-BU+ZDNgrJxAxWwvbvBdM2On1InEU7M3JHnA1EHYdZZ/vD3P/nRHkvjkItHkjKc5otU3TQ1IMbokQK8L4Wj3Iww==",
+      "pathname": "/en/BellFilled.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 655
+    },
+    {
+      "integrity": "sha512-DpfYqfvYLrycSawfe5U44SZ+d72/SXwx7v/jGQSqfoEqT3JGXuii14JDJDvp7mqTwDbs7NFt2fZXnRKaTlJafA==",
+      "pathname": "/en/Bell.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 413
+    },
+    {
+      "integrity": "sha512-BqrrxP4GdIyJFVbq1E/fJ7iVO+m7nyCi4MQh5TwhnMhAZhqnBYGiS+uSTekqGZvbmF6MmHpZGv141I6AXNFgqA==",
+      "pathname": "/en/Beach.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 528
+    },
+    {
+      "integrity": "sha512-81sJpxFqeJqugDA9QB3GO3ytNc7vASE/zExRxFDVzhWTY0SYzOO3CmDpM6oYfARAe4ooaC4slFp6nSUgWBa6Qw==",
+      "pathname": "/en/BatteryHalfFull.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 368
+    },
+    {
+      "integrity": "sha512-5n8eJ89ip9Qo9f+XqjoMXVUj9M1QqhivBDfucddeFLmKfCoTb0WQySi6aQtgPpWCKByfW1+ud03GbTzD3yxf8g==",
+      "pathname": "/en/BatteryFull.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 382
+    },
+    {
+      "integrity": "sha512-XR70hL2z6M4UeYpc2+kD1LgZVGuZ+wlt5qasi8oxbET3ROz7pxQ6ia0QMFl8GfJ6au0lnHVTwc9s2ljp3rQ3MQ==",
+      "pathname": "/en/BatteryEmpty.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 358
+    },
+    {
+      "integrity": "sha512-lBQ6R8zmOFil39NGBft1sNADpP15daXFbZW2aiiU3QV/jYMEOx1JqnTO7B+GFGFN24efn0d4Tb385qWW0LLnGQ==",
+      "pathname": "/en/BankIdNo.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 277
+    },
+    {
+      "integrity": "sha512-fPk0y4evRASAOoArrFSEKZZWFU+NnKiXWLb+R5OOM7KwT3g7qX0SMR5yA2s25xG12Zt1Vgn355KjOYuS9maWyw==",
+      "pathname": "/en/Bank.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 338
+    },
+    {
+      "integrity": "sha512-7R1B+0zx3tSDHXTYSEJOpODQ1vxwfGIosZiRQTvyOLIsG9SsDRxRLMOu3hR5P83hJ2vL5ddlIXsZW1B/27Qnkg==",
+      "pathname": "/en/Bag.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 405
+    },
+    {
+      "integrity": "sha512-qPBNLLDxwgfhRKoNnoq66mzsTWuXzZXhmgRR3364OGJLkt57qrZeeI0nA56bl96ZntkMM7WlaZR4EOeVb1r2Iw==",
+      "pathname": "/en/BackWheelDrive.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 537
+    },
+    {
+      "integrity": "sha512-7sZIviev35FcOOaK97WQEVnPq+yKsXiY5OSRQ18zwwhNAGhv+KDsEmnImpNEZzFG+5QuBD19/wGsv036AgarEg==",
+      "pathname": "/en/AwardMedal.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 350
+    },
+    {
+      "integrity": "sha512-GgQjAhA5skJalagvv57O1c4chAVG36iEWckbSx7EBt/dlPKTLd6R99eYkTbx5gzdNuUAmZlxWnXZmqZEwkgv+Q==",
+      "pathname": "/en/ArrowUp.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 285
+    },
+    {
+      "integrity": "sha512-FoIqKMACok+DxgDKjAE4+U1KvLHddFA9x+1H6r4ME9Bo+RvUjTVcc9J6yQ/031T0L0JfyW8Z8hDyWwZiM4rW/Q==",
+      "pathname": "/en/ArrowRight.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 289
+    },
+    {
+      "integrity": "sha512-5VLriMOt7oCpZQZqIFQWfvp+qUTb1Y7hPJsLJhkbmpmId4IGXPUyq/CNPItFTol7QaHdp6fnV8B75NebfsjgGQ==",
+      "pathname": "/en/ArrowLeft.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 287
+    },
+    {
+      "integrity": "sha512-y8CcayuwE5j8HLssoWwrBsWrr9ead65DLXeBOUaYzPyD0r0i1pLkhe8b20eurnuk8hDaZSFztpm1y8OeNkoImg==",
+      "pathname": "/en/ArrowDown.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 287
+    },
+    {
+      "integrity": "sha512-bCC+hniV31TivWMhk3Y2PMTuSv5e+izgnJWm85Ql236bei6AZbJoFNuKX1/mm0Szxkd2icdZNUGeqRcQSZlXcg==",
+      "pathname": "/en/Archway.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 1413
+    },
+    {
+      "integrity": "sha512-6VHSltIkat2t5M4Y1QbwKh5TVu/kx0I20+8Yhxh44+fVy3w1/hQVtRslzwCQlVdDCYfOu/AnNFqSrXer3UZ5PA==",
+      "pathname": "/en/ArchiveBox.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 508
+    },
+    {
+      "integrity": "sha512-sha9dNZLc9EJfkzFQzHSYbiSj8ImzMXmHfueKPjcEVPYTrvlq6iYuYCJ/sN37RM6gEVLU5/TimsYVmAB+KLcQg==",
+      "pathname": "/en/AnimalPaw.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 1112
+    },
+    {
+      "integrity": "sha512-NZyupqcoogKzUPe+geGoPDgJ2W8qianIhhH63U3bcUfhPv/vVL6TPIX32QoJRk/4mztzCk0Jzivr8vSwErMTWA==",
+      "pathname": "/en/AllWheelDrive.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 753
+    },
+    {
+      "integrity": "sha512-cN4VMbsiMGngkEq5oe1YnuWgQlJkOejYQ0blZ7WIlQK+22dOj4Qj9cmIZEZiVnqx4l+li1IlsQ9UOUs3pusOzQ==",
+      "pathname": "/en/AirplaneBed.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 621
+    },
+    {
+      "integrity": "sha512-wdYb3ds8R+TjtD7o4zFu5cfHpRwKnblzCp8tA0BatXlhXr9kzDy6CzgTv1s1z+TGadtLWk3OaquFyczCh9Hc/w==",
+      "pathname": "/en/AirCon.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 663
+    },
+    {
+      "integrity": "sha512-AywWw9wJX52yOYb7g2jG1W9aj49YiVgB+OaTVInkQzxca2RgsAtZBksDzj+PVNakAWVAATOerVVEaqiRCHqb+A==",
+      "pathname": "/en/Ads.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 515
+    },
+    {
+      "integrity": "sha512-6F4WdGvCJamirRwWAN9lbX/v98K/t2y+yl67plvqnP7xtBJQuso15BIosT1xk58dav8LmhsOIQNc2jHnoNPiiQ==",
+      "pathname": "/en/ActiveAds.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 477
     },
     {
       "integrity": "sha512-yXIncaHQy6ZLvavm46biI5fML+C6aiId1E9sFjDPeJQMUJAvhqcCONIoQxPvoaXyWKrps6R6fs2zq7WxQLmObw==",
@@ -7536,6 +7872,13 @@
       "size": 445
     },
     {
+      "integrity": "sha512-BxvvOet0G0lGT997uHW3jo72xxUDFo0QmQvewrsn+xjhkrZ2Y1HUXBU33HfQBVau3VvYmbpzJ2R77OBgsPdabQ==",
+      "pathname": "/da/Sun.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 420
+    },
+    {
       "integrity": "sha512-4qtryTkyjl/WkA+PXhhL8btu3qyh+Qjsi9jvM/uitKDmae+ScB1V4Wz3QY1aA4jEZ7hF+RoMFFGV5b+/tNOVDw==",
       "pathname": "/da/SuitcaseTrolley.svg",
       "mimeType": "image/svg+xml",
@@ -7688,6 +8031,20 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 382
+    },
+    {
+      "integrity": "sha512-V55RFa91NJlyLO2GgELLen7X4NYBaA/ZSXTIgRIbKFUNZtLPC+VfAmhYju6WLb2p3hXAwklK0ElxUr1mbAmBFg==",
+      "pathname": "/da/SidebarChevronRight.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 422
+    },
+    {
+      "integrity": "sha512-xc4yZyN7Mbgjut5LWQp4OIvTeNExDIcgT8hLlaUAjsbsXi0GQJYdnsA86CtnTmN5up3k91F8L2NwHbnOPidcbw==",
+      "pathname": "/da/SidebarChevronLeft.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 423
     },
     {
       "integrity": "sha512-urgOE4mjRZIo8nyI6/9kGX0Ij/n3fi2yA4MxQ7ZrjTb2kgVtG6wTKP6rbBC6XVMueQRAZ/cpWbY/sbDfXi8Kpg==",
@@ -7921,11 +8278,11 @@
       "size": 811
     },
     {
-      "integrity": "sha512-JiMFL6cveXug/duKaZ9vq+u3nl0hhZB4rk9Z+jgqCdHOs/m/BDA1xXiIHM78edH08p9sAW+8CXiqli8m7orNTQ==",
+      "integrity": "sha512-yIA+eKP7ufByJ09mZiMxPdOSKlnTKKdBKej/2noJHDwjKMCBWKuaO1mODm+L0KDPwU4+M5K8l2mWpBkPub/JuQ==",
       "pathname": "/da/PinRound.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 1970
+      "size": 2109
     },
     {
       "integrity": "sha512-ulcHJODrbIHf8wKFZl2MhUGH33iySzz8XWt6Suf0G6wXM2MYy3HDuLzV79mExUgYobcZ3W9Z0bL62p+4HFe7YQ==",
@@ -7935,11 +8292,11 @@
       "size": 440
     },
     {
-      "integrity": "sha512-dqwo8wIuws7t9UYAWabUG0LCO0iX0ASsv+yj5MFjAP4Ycg814PrENBGdJCAKqQfwupGAOrhkTQLwobHmovcQhA==",
+      "integrity": "sha512-0vcaMEx4SpTCfCY4E5pZ+dW4yVqfbQp+6c5W3zmW3FHJptsof3Kb/liYLa3bjZCi2VTy1zzp/RqQmcZmLw8EOQ==",
       "pathname": "/da/PictureStack.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 1930
+      "size": 568
     },
     {
       "integrity": "sha512-EzBoGAhfZrwqlmFThvtMARJUxnsggAh2S3XGL/MnHCmMPl7EmOsOMc4XyEMWGW79fk+m4aWKm8PiLd4OKxdG7A==",
@@ -8017,6 +8374,13 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 638
+    },
+    {
+      "integrity": "sha512-UYFSnAOSTpg54gfu7XNtsf4tQv6hDggjhHOC/98XwL8UVrbSyor1izplVuuzYvGhENjUJ398yi9qVPlK/pIGUg==",
+      "pathname": "/da/Moon.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 285
     },
     {
       "integrity": "sha512-7/DHqBI1DwP5BnaNrGtrSiShob6IyQvNTeDVgdD2bvHjmHZClbCKTGQnKwdORRuB/+HA+vnKrJDswpoK8mH5vw==",
@@ -8194,11 +8558,11 @@
       "size": 304
     },
     {
-      "integrity": "sha512-yrgwhR7myzgdVHhAxlQyv1upmHCOafjGLtaTI3PpZ9Lr5u42m26M6SyS1uHFc1ZDSqbzMobaC+dDp0L4oGBttA==",
+      "integrity": "sha512-hK5R6DSomnhfW/vfH6oFkVODHeNtVViGGGNQPlinhOv06xW1CmCQZQ9TPaK7rlzkXEt7UWfKHk8vLfHqdDU/NQ==",
       "pathname": "/da/Image.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 1592
+      "size": 512
     },
     {
       "integrity": "sha512-nqly6iAJm+Sc0qOF8gLLIfri0JhVq824Lc8K60NvxlTuGR2EZLUXOBQn+wIt2Lvug41Q/oQbrMxa0raxxr645g==",
@@ -8320,6 +8684,13 @@
       "size": 302
     },
     {
+      "integrity": "sha512-Pn3wyidy5g3rXIg+2hICHkUr4+6HgsO+CjPCkSNYUWMiADX15lwSrpCl4JESARCS/9lTmngaDcapjfc8PsQkcg==",
+      "pathname": "/da/Globe.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 359
+    },
+    {
       "integrity": "sha512-RNgQcMyp/en9z8/tjhmC2gpTBcQ1lGouVAVy+PTGUZBbXT3qCzbDHkNOx5WPVt2XkWZ5rG9A75zQA/4lkzGfjQ==",
       "pathname": "/da/GeometricShapes.svg",
       "mimeType": "image/svg+xml",
@@ -8388,6 +8759,13 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 428
+    },
+    {
+      "integrity": "sha512-g2bBsmhOToDST6BJUEgZFpylNGZJZb6oewo2FxqJrmbtuJwPMYeGkAT3r75Rmxq85RY+h7WLl88qSDCaZ/1EnQ==",
+      "pathname": "/da/FileArrowDown.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 412
     },
     {
       "integrity": "sha512-xLFQXKOq4DU3U277OYiHkh6gTiMFOrQt9Vbp9kbW/zXC2mctszfZC6RxtSPGbR58FzcCRoULl2fbcnsejFMRLg==",
@@ -8558,11 +8936,11 @@
       "size": 416
     },
     {
-      "integrity": "sha512-sZJOFfPWvHhDoQx7AhQGGawqkuuS9qv8kJyS3jVatEC4/fd9QGXE3qVkx0jliB98TjM20N4Mdn5q0dA/zxBB1Q==",
+      "integrity": "sha512-2A/Lw/7G7tULPjOmY5g4lBUCbfnYGe8rRSN8dQf4siq7vO1Jf3uvvLPqyAemCXZlzzbWQFGiNoN8DjYNGIpEOw==",
       "pathname": "/da/Discount.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 813
+      "size": 818
     },
     {
       "integrity": "sha512-3uhXgafhdztvcpatvL6BBf2i54oJLgh1NKWR6DLqDW1GfYndXvn+J30yjYiWqzDZLc2a0YjwkWZsBQ1aO/QIBg==",
@@ -8570,6 +8948,13 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 609
+    },
+    {
+      "integrity": "sha512-911UPrwjxpvhZqrcm92qKPe2/LD2mgQ89epBjedRu1QUWczmA48v8HeqolihUhiZxTxoDatRIVBrS3XtYZaSsA==",
+      "pathname": "/da/DeliveryKey.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 856
     },
     {
       "integrity": "sha512-ANfmFMUwiKscTvEY5iknZDTbdYiBvRyECJfE3e7kVU8/yV66Jd5ySuNVIO4qzmCowVJZRVxWSDndzMpujj7LMQ==",
@@ -8600,6 +8985,13 @@
       "size": 430
     },
     {
+      "integrity": "sha512-dIVTzmPYSdEWwSUEENFQdyhzMqVDfeljSZQvtKkblEIV5ZG9ZIgUNdrfLlQioHvhPa7px77yMEWr+6PFBBNMnA==",
+      "pathname": "/da/Cookie.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 407
+    },
+    {
       "integrity": "sha512-TFnJDw8A23ouIXwbbrmSCPuhhYNaKf/6FbW1j04SbU3B6Dr0oHNWZBj8A4D1a9Uv80ZmuMZhNKub4IBLoyzbMA==",
       "pathname": "/da/Confetti.svg",
       "mimeType": "image/svg+xml",
@@ -8621,11 +9013,25 @@
       "size": 902
     },
     {
+      "integrity": "sha512-pSPObadt/dWxNBbuCcQwioh/I40xyo0cHto/7X/hFmh1ZYYf8tuHokcA+hpBzNdAnYTcKHQ0VCA4vdos+KtbUw==",
+      "pathname": "/da/Code.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 347
+    },
+    {
       "integrity": "sha512-4Vw0UQ+1TULaZhLpnpSqJUnDlnpg6mTkbNNuo7BBDkAwaXAX7A7txuf//yQi+Kj402jZW3LI+f+CidAGfGWiSQ==",
       "pathname": "/da/Close.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 261
+    },
+    {
+      "integrity": "sha512-JdP4lMSsRPGJQeq5avI4Gqh59229XbtetVMmu7izY52yzy8B+atYG2qu8kOp8EMMLKhMcHoBn9kpFg5QabTqGg==",
+      "pathname": "/da/ClockCountdown.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 434
     },
     {
       "integrity": "sha512-0I7NLF9zK1CsQReFTXxquyBeG4tvBGqSUNxOnG6nZw0pCTO+TI22IZ86KI7J5RpJjjYhsiAXQEd/kNnFZPUczA==",
@@ -8803,18 +9209,25 @@
       "size": 519
     },
     {
-      "integrity": "sha512-AL/NGx2qrzJhUmABkEIXI/ykEnsn4Ylsfp7Nlf0MISt7CHPwkWKfHbWEeJBM17J+seh/Sa0EBUtqxDRQdQeDkg==",
+      "integrity": "sha512-/fZvOabQV59nyGqI1kv3Qfnc6rHnDYEXUsgHooWFayZuqYOZWsMF/4DeOeq2wZoRN0dQLFQXSRsdDTbKpDjJaA==",
       "pathname": "/da/CalendarPlus.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 377
+      "size": 370
     },
     {
-      "integrity": "sha512-E0dT/0NdHtYwccswCRATuTIuFLJJnAFZL6MQYadh1X3qnraEP4nMvEMhGSqk4ySk4T0mFD/jfIXC09clCZZtQA==",
+      "integrity": "sha512-QbpBDW5P/E63sraOfULfOjF56bxQ+HpIrj1pzoy9XW39wR1n3sC3dUPYwhPZnWCOpTEWrMfAa3fKo0x9lUiVuw==",
+      "pathname": "/da/CalendarBlank.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 343
+    },
+    {
+      "integrity": "sha512-G/EAAHw6d2kvAgoSr+4G00916nAoV1mxc2o5olo5IhtCxXL7N8MNCPe3Hu/EyHvixr53uHorUDDVaQ1YtxUMdw==",
       "pathname": "/da/Calendar.svg",
       "mimeType": "image/svg+xml",
       "type": "pkg",
-      "size": 434
+      "size": 427
     },
     {
       "integrity": "sha512-5/SMOGUJz2nXOWREx72dr+pmzrnDWkY2FO3MdfM6J+/qoyyw3TBB3vXpkHWrRH7sWW+M1PweP/9+cStAyXsFGg==",
@@ -9039,6 +9452,13 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 1413
+    },
+    {
+      "integrity": "sha512-OhrNQNI/wouYadA+ga5hTy6r+5v3lskZmivWjxoTlktIMiU+sU/hYF7uv9iXdc1i/WLrrrJN4Jsv4Ax+na7pVg==",
+      "pathname": "/da/ArchiveBox.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 505
     },
     {
       "integrity": "sha512-JVS5Z1P/zIB55FuvflFElI9il2Dj59sCEEyj6ZH/I9XNhnpNI0/AM4VZ0pjhxahMTdJRkyK/fmUD1PsmNiwq/Q==",
