@@ -566,6 +566,11 @@ msgstr "Fiskekrog"
 msgid "icon.title.front-wheel-drive"
 msgstr "Forhjulstræk"
 
+#. Title for gaming controller.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.gaming-controller"
+msgstr "Gaming-controller"
+
 #. Title for gas diesel.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.gas-diesel"
@@ -746,6 +751,11 @@ msgstr "Link"
 msgid "icon.title.link-external"
 msgstr "Firkant med diagonal pil ud af højre hjørne foroven"
 
+#. Title for list numbers.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.list-numbers"
+msgstr "Nummereret liste"
+
 #. Title for list sort.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.list-sort"
@@ -800,6 +810,16 @@ msgstr "Chatboble"
 #. js-lingui-explicit-id
 msgid "icon.title.messages-filled"
 msgstr "Chatboble"
+
+#. Title for microphone.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.microphone"
+msgstr "Mikrofon"
+
+#. Title for microphone slash.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.microphone-slash"
+msgstr "Mikrofon slået fra"
 
 #. Title for minus.svg icon
 #. js-lingui-explicit-id
@@ -865,6 +885,11 @@ msgstr "Smartphone"
 #. js-lingui-explicit-id
 msgid "icon.title.phone-check"
 msgstr "Smartphone og et badge med et flueben"
+
+#. Title for phone handset.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.phone-handset"
+msgstr "Telefonrør"
 
 #. Title for phone scratched.svg icon
 #. js-lingui-explicit-id
@@ -1001,6 +1026,11 @@ msgstr "Lineal"
 msgid "icon.title.sauna"
 msgstr "Sauna"
 
+#. Title for scale.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.scale"
+msgstr "Vægt"
+
 #. Title for scroll up.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.scroll-up"
@@ -1045,6 +1075,11 @@ msgstr "Sko"
 #. js-lingui-explicit-id
 msgid "icon.title.shopping-cart"
 msgstr "Indkøbsvogn"
+
+#. Title for shovel.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.shovel"
+msgstr "Skovl"
 
 #. Title for shower.svg icon
 #. js-lingui-explicit-id
@@ -1206,6 +1241,11 @@ msgstr "Bog med et bogmærke"
 msgid "icon.title.text-bold"
 msgstr "Fed tekst"
 
+#. Title for text h one.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.text-h-one"
+msgstr "Overskrift 1 tekst"
+
 #. Title for text italic.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.text-italic"
@@ -1245,6 +1285,11 @@ msgstr "To byhuse"
 #. js-lingui-explicit-id
 msgid "icon.title.tractor"
 msgstr "Traktor"
+
+#. Title for translate.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.translate"
+msgstr "Symbol, der repræsenterer oversættelse mellem sprog"
 
 #. Title for tree.svg icon
 #. js-lingui-explicit-id
