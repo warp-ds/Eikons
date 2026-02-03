@@ -566,6 +566,11 @@ msgstr "Ongenkoukku"
 msgid "icon.title.front-wheel-drive"
 msgstr "Etuvetoinen ajoneuvo"
 
+#. Title for gaming controller.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.gaming-controller"
+msgstr "Peliohjain"
+
 #. Title for gas diesel.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.gas-diesel"
@@ -746,6 +751,11 @@ msgstr "Linkki"
 msgid "icon.title.link-external"
 msgstr "Neliö, jossa on oikeasta yläkulmasta viistosti lähtevä nuoli"
 
+#. Title for list numbers.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.list-numbers"
+msgstr "Numeroitu luettelo"
+
 #. Title for list sort.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.list-sort"
@@ -800,6 +810,16 @@ msgstr "Puhekupla"
 #. js-lingui-explicit-id
 msgid "icon.title.messages-filled"
 msgstr "Puhekupla"
+
+#. Title for microphone.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.microphone"
+msgstr "Mikrofoni"
+
+#. Title for microphone slash.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.microphone-slash"
+msgstr "Mykistetty miktofoni"
 
 #. Title for minus.svg icon
 #. js-lingui-explicit-id
@@ -865,6 +885,11 @@ msgstr "Älypuhelin"
 #. js-lingui-explicit-id
 msgid "icon.title.phone-check"
 msgstr "Älypuhelin ja valintamerkki"
+
+#. Title for phone handset.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.phone-handset"
+msgstr "Puhelimen luuri"
 
 #. Title for phone scratched.svg icon
 #. js-lingui-explicit-id
@@ -1001,6 +1026,11 @@ msgstr "Viivotin"
 msgid "icon.title.sauna"
 msgstr "Sauna"
 
+#. Title for scale.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.scale"
+msgstr "Vaaka"
+
 #. Title for scroll up.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.scroll-up"
@@ -1045,6 +1075,11 @@ msgstr "Kenkä"
 #. js-lingui-explicit-id
 msgid "icon.title.shopping-cart"
 msgstr "Ostoskori"
+
+#. Title for shovel.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.shovel"
+msgstr "Lapio"
 
 #. Title for shower.svg icon
 #. js-lingui-explicit-id
@@ -1206,6 +1241,11 @@ msgstr "Kirja ja kirjanmerkki"
 msgid "icon.title.text-bold"
 msgstr "Lihavoitu teksti"
 
+#. Title for text h one.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.text-h-one"
+msgstr "Otsikon 1 teksti"
+
 #. Title for text italic.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.text-italic"
@@ -1245,6 +1285,11 @@ msgstr "Kaksi kaupunkitaloa"
 #. js-lingui-explicit-id
 msgid "icon.title.tractor"
 msgstr "Traktori"
+
+#. Title for translate.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.translate"
+msgstr "Kielten välistä käännöstä kuvaava symboli"
 
 #. Title for tree.svg icon
 #. js-lingui-explicit-id
