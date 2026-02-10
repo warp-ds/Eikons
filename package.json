@@ -14,14 +14,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "glob": "^11.0.2",
-    "happy-dom": "^17.4.7"
+    "glob": "^11.1.0",
+    "happy-dom": "^17.6.3"
   },
   "devDependencies": {
-    "@eik/cli": "^3.1.16",
-    "@lingui/cli": "^5.4.1",
-    "@lingui/conf": "^5.4.1",
-    "nanoid": "^5.1.5",
+    "@eik/cli": "^3.1.34",
+    "@lingui/cli": "^5.9.0",
+    "@lingui/conf": "^5.9.0",
+    "nanoid": "^5.1.6",
     "svgo": "^3.3.2"
   },
   "eik": {

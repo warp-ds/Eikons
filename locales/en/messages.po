@@ -1288,6 +1288,11 @@ msgstr "Tractor"
 msgid "icon.title.translate"
 msgstr "Symbol representing translation between languages"
 
+#. Title for tray.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.tray"
+msgstr "Tray"
+
 #. Title for tree.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.tree"

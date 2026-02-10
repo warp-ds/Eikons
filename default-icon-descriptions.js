@@ -1023,6 +1023,10 @@ export default {
     message: "Symbol representing translation between languages",
     id: "icon.title.translate"
   },
+  tray: {
+    message: "Tray",
+    id: "icon.title.tray"
+  },
   tree: {
     message: "Spruce tree",
     id: "icon.title.tree"
