@@ -1291,6 +1291,11 @@ msgstr "Traktori"
 msgid "icon.title.translate"
 msgstr "Kielten välistä käännöstä kuvaava symboli"
 
+#. Title for tray.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.tray"
+msgstr "Tarjotin"
+
 #. Title for tree.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.tree"
