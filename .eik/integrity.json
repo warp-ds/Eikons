@@ -1,7 +1,7 @@
 {
-  "integrity": "sha512-YEbsY8cpDN4TFYdTbkqAtVhZ8FLDIbmxbHdPwuHqSQb1NYH40Gq97OekO3vPCfXhSTZKC3SEyFUgCouN15nvdg==",
-  "version": "0.0.1-alpha.6",
-  "created": 1770126151,
+  "integrity": "sha512-iWHlPgq98cA5KIZAM452wzO/iKz1Uf5gEIuLVJH6s7taeUmXSc5Z1GfrsPXVOqIj9Et7rhOY53EpIDhA1ug+lg==",
+  "version": "0.0.1-alpha.7",
+  "created": 1771328829,
   "author": {
     "name": "Generic User",
     "user": "generic_user"
@@ -184,6 +184,13 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 280
+    },
+    {
+      "integrity": "sha512-e5is0y5VWc5D7yc3p8fr5igFjuw9immtx1Mlvf0DmlY+7zeFhInLY+0CQw4YG6GXJqcigHVPYxC4qGm+si0pxw==",
+      "pathname": "/sv/Tray.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 458
     },
     {
       "integrity": "sha512-stQ7/HF9lr0EdFQuDjwNQ5qJZiTkIYprJh2lJcuhrCs3rXklfc/um8yuL592BKm/cmHEwqNE4jCQjfDZI6d5Ag==",
@@ -2146,6 +2153,13 @@
       "size": 283
     },
     {
+      "integrity": "sha512-eXsjAnniOZegTeGf9UkmNT5vDXrKxz+maDKxMrjC2EprYTDyONi6BSd8hXrDJTD/zU0rGtaxEJtIclx8vnXYEg==",
+      "pathname": "/nb/Tray.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 457
+    },
+    {
       "integrity": "sha512-imThixM2mXDIXgCDavDzLz2KiliTfbAkTPQ1XLznmSTGELGi7GANH5ooKEGQbyWHS7/5PkHVfuS77Q8nT30tOQ==",
       "pathname": "/nb/Translate.svg",
       "mimeType": "image/svg+xml",
@@ -4104,6 +4118,13 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 281
+    },
+    {
+      "integrity": "sha512-oouyoEttob+ZhaWUEaWb0fbpPE9nrpeyLMHAdeBqO9CIoejPIOltZtHMX+tgZfGrFrOsxH7sjzICq30FYHY+yA==",
+      "pathname": "/fi/Tray.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 460
     },
     {
       "integrity": "sha512-7+0AlimDJlf0lJJgxV6jf6ZPGWLhe/gdoqeYaOLpGEw/oDFlIQeorrhoo18mNB0mVQpsY2mYtJ5wWPwM6X1GAQ==",
@@ -6066,6 +6087,13 @@
       "size": 287
     },
     {
+      "integrity": "sha512-rqEB1WyQ5a3io8Jdi1CcKIrTXGSqoyq5lQ94jS3+eYI3wSfDH+MUQC7XM2ToB2oV6fT4kWHffF23eO0fWJkUtA==",
+      "pathname": "/en/Tray.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 456
+    },
+    {
       "integrity": "sha512-/Iq6vOkI6m9Ap0tDzYqpGHnxxO1X0jCta9Ysdzt+9+lNhc7A7Ah5vcaCzT3Iw+xmOYbL64ZW3nYM72bN8zGjvA==",
       "pathname": "/en/Translate.svg",
       "mimeType": "image/svg+xml",
@@ -8024,6 +8052,13 @@
       "mimeType": "image/svg+xml",
       "type": "pkg",
       "size": 284
+    },
+    {
+      "integrity": "sha512-36jqehhPzWEOhVWJdzSx9Lt5dnM4JREfZihaIQ7cN/fI2SMsIY5ey6/Bhx+cuNgLh9cO5x9LRa/YM8IOGid5oQ==",
+      "pathname": "/da/Tray.svg",
+      "mimeType": "image/svg+xml",
+      "type": "pkg",
+      "size": 457
     },
     {
       "integrity": "sha512-OOM/OMhfPZcwgW+Xio4p+Z0xyHDDybnPB9kA0oE3i36U4WVmDiFWAUfeJD8+SJ3bEiIutn6rHT2hy8LfYRnXAA==",
