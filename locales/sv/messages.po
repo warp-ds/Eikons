@@ -1421,3 +1421,7 @@ msgstr "X-ikon"
 msgid "icon.title.youtube"
 msgstr "YouTube-ikon"
 
+#. Title for jacket.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.jacket"
+msgstr "jacka"
