@@ -45,6 +45,9 @@ regularIcons.map(async (icon) => {
 
     Object.keys(titles).forEach((lang) => {
       const title = titles[lang];
+      if (!title) {
+        console.warn(`⚠  Missing title for "${iconName}" in locale "${lang}"`);
+      }
       const svgString = `<svg ${attrs.join(" ")}><title>${title}</title>${
         svg.html
       }</svg>`;

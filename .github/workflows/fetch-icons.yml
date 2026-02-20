@@ -1,0 +1,44 @@
+---
+name: Fetch icons from Figma
+on:
+  workflow_dispatch:
+
+jobs:
+  fetch-and-create-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+
+      - uses: pnpm/action-setup@v4
+        with:
+          run_install: true
+
+      - name: Create env file
+        run: |
+          touch .env
+          echo FIGMA_TOKEN=${{ secrets.FIGMA_TOKEN }} >> .env
+          echo OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }} >> .env
+
+      - name: Import icons from Figma
+        run: pnpm run import
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: figma-icon-update
+          branch-suffix: timestamp
+          commit-message: "feat: icon updates from Figma"
+          committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          author: ${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>
+          title: "Icon updates from Figma"
+          body: |
+            Automated icon import from Figma.
+            - Check the diff under `svg/` to see what changed
+          reviewers: imprashast

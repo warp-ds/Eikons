@@ -1,0 +1,106 @@
+---
+name: Release
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+
+      - uses: pnpm/action-setup@v4
+        with:
+          run_install: true
+
+      # Determine version bump from conventional commits since last tag
+      - name: Determine version bump
+        id: version
+        run: |
+          # Get the latest tag, or fallback to initial commit
+          LATEST_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "")
+
+          if [ -z "$LATEST_TAG" ]; then
+            RANGE="HEAD"
+          else
+            RANGE="${LATEST_TAG}..HEAD"
+          fi
+
+          # Check commit messages for feat: (minor) or fix: (patch)
+          HAS_FEAT=$(git log "$RANGE" --pretty=format:"%s" | grep -c "^feat" || true)
+          HAS_FIX=$(git log "$RANGE" --pretty=format:"%s" | grep -c "^fix" || true)
+
+          if [ "$HAS_FEAT" -gt 0 ]; then
+            echo "bump=minor" >> "$GITHUB_OUTPUT"
+          elif [ "$HAS_FIX" -gt 0 ]; then
+            echo "bump=patch" >> "$GITHUB_OUTPUT"
+          else
+            echo "bump=none" >> "$GITHUB_OUTPUT"
+          fi
+
+          echo "current_tag=$LATEST_TAG" >> "$GITHUB_OUTPUT"
+
+      - name: Compute next version
+        if: steps.version.outputs.bump != 'none'
+        id: next
+        run: |
+          CURRENT="${{ steps.version.outputs.current_tag }}"
+          BUMP="${{ steps.version.outputs.bump }}"
+
+          if [ -z "$CURRENT" ]; then
+            # No existing tag – start at 0.1.0
+            NEXT="0.1.0"
+          else
+            # Strip leading 'v' if present
+            VERSION="${CURRENT#v}"
+            IFS='.' read -r MAJOR MINOR PATCH <<< "$VERSION"
+
+            if [ "$BUMP" = "minor" ]; then
+              MINOR=$((MINOR + 1))
+              PATCH=0
+            else
+              PATCH=$((PATCH + 1))
+            fi
+
+            NEXT="${MAJOR}.${MINOR}.${PATCH}"
+          fi
+
+          echo "version=$NEXT" >> "$GITHUB_OUTPUT"
+          echo "tag=v$NEXT" >> "$GITHUB_OUTPUT"
+
+      - name: Update package.json version
+        if: steps.version.outputs.bump != 'none'
+        run: |
+          npm version "${{ steps.next.outputs.version }}" --no-git-tag-version
+
+      - name: Create env file
+        if: steps.version.outputs.bump != 'none'
+        run: |
+          touch .env
+          echo EIK_TOKEN=${{ secrets.EIK_TOKEN }} >> .env
+
+      - name: Build
+        if: steps.version.outputs.bump != 'none'
+        run: pnpm run build
+
+      - name: Publish to CDN
+        if: steps.version.outputs.bump != 'none'
+        run: pnpm run eikpublish
+
+      - name: Commit version bump and tag
+        if: steps.version.outputs.bump != 'none'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add package.json
+          git commit -m "chore: release ${{ steps.next.outputs.tag }}"
+          git tag "${{ steps.next.outputs.tag }}"
+          git push origin main --tags
