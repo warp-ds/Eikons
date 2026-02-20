@@ -94,7 +94,9 @@ jobs:
 
       - name: Publish to CDN
         if: steps.version.outputs.bump != 'none'
-        run: pnpm run eikpublish
+        run: pnpm eik login -k $EIK_TOKEN && pnpm eik publish || true
+        env:
+          EIK_TOKEN: ${{ secrets.EIK_TOKEN }}
 
       - name: Commit version bump and tag
         if: steps.version.outputs.bump != 'none'
