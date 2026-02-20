@@ -1,6 +1,6 @@
 {
   "name": "eikons",
-  "version": "0.0.1-alpha.7",
+  "version": "0.1.0",
   "description": "",
   "type": "module",
   "main": "index.js",
