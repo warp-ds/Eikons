@@ -24,7 +24,7 @@ export default {
     id: "icon.title.animal-paw"
   },
   archivebox: {
-    message: "File with an arrow pointing down",
+    message: "Archive box",
     id: "icon.title.archive-box"
   },
   archway: {
@@ -196,7 +196,7 @@ export default {
     id: "icon.title.car-right"
   },
   chair: {
-    message: "chair",
+    message: "Chair",
     id: "icon.title.chair"
   },
   charger: {
@@ -356,7 +356,7 @@ export default {
     id: "icon.title.daw"
   },
   drawer: {
-    message: "Drawer",
+    message: "Chest of drawers",
     id: "icon.title.drawer"
   },
   drill: {
@@ -440,7 +440,7 @@ export default {
     id: "icon.title.front-wheel-drive"
   },
   gamingcontroller: {
-    message: "Gaming Controller",
+    message: "Gaming controller",
     id: "icon.title.gaming-controller"
   },
   gasdiesel: {
@@ -550,6 +550,10 @@ export default {
   instagram: {
     message: "Instagram icon",
     id: "icon.title.instagram"
+  },
+  jacket: {
+    message: "Jacket",
+    id: "icon.title.jacket"
   },
   jetski: {
     message: "Jet ski",
