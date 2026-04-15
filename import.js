@@ -184,36 +184,6 @@ function getExistingIconNames() {
     .map((file) => path.basename(file, ".svg"));
 }
 
-async function updateIconDescriptions(icons) {
-  // Scaffold placeholder entries for icons with no description at all
-  for (const name of icons) {
-    const key = name.toLowerCase();
-    const msgId = `icon.title.${toKebab(name)}`;
-    defaultIconDescriptions[key] = { message: name, id: msgId };
-  }
-  writeIconDescriptions(defaultIconDescriptions);
-  console.log(`📝 Synced ${icons.length} placeholder(s) in default-icon-descriptions.js`);
-
-  for (let i = 0; i < icons.length; i++) {
-    const name = icons[i];
-    const key = name.toLowerCase();
-    const kebab = toKebab(name);
-    const msgId = `icon.title.${kebab}`;
-    const desc = defaultIconDescriptions[key];
-    const enText = desc?.message || name;
-
-    // Write English .po entry
-    const enPoPath = path.join(LOCALES_DIR, "en", "messages.po");
-    addPoEntry(enPoPath, {
-      comment: `Title for ${kebab.replace(/-/g, " ")}.svg icon`,
-      msgId,
-      msgStr: enText,
-    });
-  }
-
-  console.log(`📝 Synced ${icons.length} placeholder(s) in locales/en/messages.po`);
-}
-
 /** Warn about icons that exist locally but were not found in Figma. */
 function reportMissingFromFigma(existingNames, downloadedNames) {
   const missing = existingNames.filter((n) => !downloadedNames.includes(n));
@@ -304,7 +274,6 @@ function reportMissingFromFigma(existingNames, downloadedNames) {
   const added = downloadedNames.filter((n) => !existingIcons.includes(n));
   if (added.length) console.log(`\n✨ ${added.length} new icon(s) added:`, added.sort());
 
-  await updateIconDescriptions(downloadedNames);
   // Report any missing icons in Figma
   reportMissingFromFigma(existingIcons, downloadedNames);
 })();
