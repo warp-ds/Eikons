@@ -756,7 +756,7 @@ export default {
     id: "icon.title.plane-take-off"
   },
   play: {
-    message: "Circle with a rightward triangle inside",
+    message: "Play",
     id: "icon.title.play"
   },
   playhouse: {

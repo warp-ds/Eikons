@@ -956,7 +956,7 @@ msgstr "Plane taking off"
 #. Title for play.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.play"
-msgstr "Circle with a rightward triangle inside"
+msgstr "Play"
 
 #. Title for playhouse.svg icon
 #. js-lingui-explicit-id
