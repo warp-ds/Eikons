@@ -6,7 +6,7 @@
  * and saves them as individual SVGs to svg/Regular/.
  *
  * Prerequisites:
- *   - Set FIGMA_TOKEN in your environment or .env file
+ *   - Set FIGMA_TOKEN (a Personal access token with read access) in your environment or .env file
  *
  * Usage:
  *   node import.js
@@ -30,8 +30,6 @@ const ICON_SIZE_VARIANT = "Size=24";
 const OUTPUT_DIR = "svg/Regular";
 const LOCALES_DIR = "locales";
 const KEYWORDS_PATH = "./data/icon-keywords.json";
-const LOCALE_CODES = ["nb", "fi", "da", "sv"];
-const LOCALE_LABELS = { nb: "Norwegian", fi: "Finnish", da: "Danish", sv: "Swedish" };
 
 // ─── Figma API helpers ───────────────────────────────────────────
 
@@ -164,83 +162,6 @@ function processFigmaDescriptions(icons) {
   }
 }
 
-// ─── OpenAI translation ──────────────────────────────────────────
-
-/**
- * Call OpenAI to translate English alt text into the configured locales.
- * Returns { nb: "...", fi: "...", da: "...", sv: "..." } or null on failure.
- */
-async function translateAltText(enText, iconName) {
-  const apiKey = process.env.OPENAI_API_KEY;
-  if (!apiKey) {
-    console.log(`  [OpenAI] Skipping "${iconName}" — no OPENAI_API_KEY set`);
-    return null;
-  }
-
-  const langList = LOCALE_CODES.map((c) => LOCALE_LABELS[c]).join(", ");
-  console.log(`  [OpenAI] Translating "${enText}" for "${iconName}" into ${langList}`);
-
-  let res;
-  try {
-    res = await fetch("https://api.openai.com/v1/chat/completions", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        Authorization: `Bearer ${apiKey}`,
-      },
-      body: JSON.stringify({
-        model: "gpt-5-mini-2025-08-07",
-        response_format: { type: "json_object" },
-        messages: [
-          {
-            role: "system",
-            content: [
-              "You translate concise, accessible alt text for SVG icons.",
-              `Reply ONLY with a JSON object with keys: ${LOCALE_CODES.join(", ")}.`,
-              "Each value is the translated alt text string in the respective language.",
-              "Keep translations short and natural.",
-            ].join(" "),
-          },
-          {
-            role: "user",
-            content: `Translate this icon alt text into ${langList}:\n\n"${enText}"`,
-          },
-        ],
-      }),
-    });
-  } catch (e) {
-    console.error(`  [OpenAI] Network error for "${iconName}": ${e.message}`);
-    return null;
-  }
-
-  if (!res.ok) {
-    const body = await res.text().catch(() => "(unreadable body)");
-    console.error(`  [OpenAI] API error for "${iconName}": HTTP ${res.status} — ${body}`);
-    return null;
-  }
-
-  const json = await res.json();
-  const rawContent = json.choices?.[0]?.message?.content;
-
-  if (!rawContent) {
-    console.error(`  [OpenAI] Empty response for "${iconName}". Full response:`, JSON.stringify(json, null, 2));
-    return null;
-  }
-
-  try {
-    const parsed = JSON.parse(rawContent);
-    const missingLocales = LOCALE_CODES.filter((c) => !parsed[c]);
-    if (missingLocales.length) {
-      console.warn(`  [OpenAI] "${iconName}" response missing locales: ${missingLocales.join(", ")}`);
-    }
-    console.log(`  [OpenAI] ✔ "${iconName}" →`, parsed);
-    return parsed;
-  } catch {
-    console.error(`  [OpenAI] Failed to parse JSON for "${iconName}". Raw content: ${rawContent}`);
-    return null;
-  }
-}
-
 // ─── Download & save ─────────────────────────────────────────────
 
 /** Download an SVG, optimize it, and write to disk. */
@@ -261,95 +182,6 @@ function getExistingIconNames() {
   return glob
     .sync(path.join(OUTPUT_DIR, "*.svg"))
     .map((file) => path.basename(file, ".svg"));
-}
-
-/** Report icons that are new in this import, translate alt texts, and update descriptions + .po files. */
-async function reportNewIcons(existingNames, downloadedNames, spinner) {
-  const added = downloadedNames.filter((n) => !existingNames.includes(n));
-  if (!added.length) return;
-
-  console.log(`\n✨ ${added.length} new icon(s) added:`, added.sort());
-
-  // Only process icons that don't already have a description entry
-  const iconsNeedingEntry = added.filter(
-    (name) => !defaultIconDescriptions[name.toLowerCase()],
-  );
-
-  if (iconsNeedingEntry.length) {
-    // Scaffold placeholder entries for icons with no description at all
-    for (const name of iconsNeedingEntry) {
-      const key = name.toLowerCase();
-      const msgId = `icon.title.${toKebab(name)}`;
-      defaultIconDescriptions[key] = { message: name, id: msgId };
-    }
-    writeIconDescriptions(defaultIconDescriptions);
-    console.log(`📝 Scaffolded ${iconsNeedingEntry.length} placeholder(s) in default-icon-descriptions.js`);
-  }
-
-  // Now translate all new icons that have English alt text into other locales
-  const iconsToTranslate = added.filter((name) => {
-    const desc = defaultIconDescriptions[name.toLowerCase()];
-    return !!desc?.message;
-  });
-
-  const hasOpenAI = !!process.env.OPENAI_API_KEY;
-
-  if (hasOpenAI && iconsToTranslate.length) {
-    spinner.start(`Translating alt texts for ${iconsToTranslate.length} icon(s)…`);
-  } else if (!hasOpenAI && iconsToTranslate.length) {
-    console.log("\nℹ  OPENAI_API_KEY not set — adding English text to .po files only");
-  }
-
-  for (let i = 0; i < added.length; i++) {
-    const name = added[i];
-    const key = name.toLowerCase();
-    const kebab = toKebab(name);
-    const msgId = `icon.title.${kebab}`;
-    const desc = defaultIconDescriptions[key];
-    const enText = desc?.message || name;
-
-    console.log(`\n[${i + 1}/${added.length}] Processing "${name}" (msgId: ${msgId})`);
-    console.log(`  English: "${enText}"`);
-
-    // Translate via OpenAI
-    let translations = null;
-    if (hasOpenAI && iconsToTranslate.includes(name)) {
-      translations = await translateAltText(enText, name);
-    }
-
-    // Write English .po entry
-    const enPoPath = path.join(LOCALES_DIR, "en", "messages.po");
-    addPoEntry(enPoPath, {
-      comment: `Title for ${kebab.replace(/-/g, " ")}.svg icon`,
-      msgId,
-      msgStr: enText,
-    });
-    console.log(`  .po [en]: "${enText}"`);
-
-    // Write translated .po entries
-    for (const locale of LOCALE_CODES) {
-      const translatedText = translations?.[locale] || "";
-      const poPath = path.join(LOCALES_DIR, locale, "messages.po");
-      addPoEntry(poPath, {
-        comment: `Title for ${kebab.replace(/-/g, " ")}.svg icon`,
-        msgId,
-        msgStr: translatedText,
-      });
-      if (translatedText) {
-        console.log(`  .po [${locale}]: "${translatedText}"`);
-      } else {
-        console.log(`  .po [${locale}]: (empty — needs manual translation)`);
-      }
-    }
-  }
-
-  if (hasOpenAI && iconsToTranslate.length) {
-    spinner.succeed(`Translated alt texts for ${iconsToTranslate.length} icon(s)`);
-  }
-
-  console.log(
-    `📝 Added ${added.length} entry/entries to locale .po files`,
-  );
 }
 
 /** Warn about icons that exist locally but were not found in Figma. */
@@ -419,6 +251,7 @@ function reportMissingFromFigma(existingNames, downloadedNames) {
 
   // 5. Download, optimize, and save
   let completed = 0;
+  /** @type {string[]} */
   const downloadedNames = [];
 
   spinner.start(`Downloading icons: 0/${icons.length}`);
@@ -438,7 +271,9 @@ function reportMissingFromFigma(existingNames, downloadedNames) {
 
   spinner.succeed(`Downloaded and optimized ${downloadedNames.length} icons`);
 
-  // 6. Report new and missing icons
-  await reportNewIcons(existingIcons, downloadedNames, spinner);
+  const added = downloadedNames.filter((n) => !existingIcons.includes(n));
+  if (added.length) console.log(`\n✨ ${added.length} new icon(s) added:`, added.sort());
+
+  // Report any missing icons in Figma
   reportMissingFromFigma(existingIcons, downloadedNames);
 })();

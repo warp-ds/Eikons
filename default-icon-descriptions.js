@@ -247,6 +247,14 @@ export default {
     message: "Arrow pointing up",
     id: "icon.title.chevron-up"
   },
+  circlepause: {
+    message: "Pause",
+    id: "icon.title.circle-pause",
+  },
+  circleplay: {
+    message: "Play",
+    id: "icon.title.circle-play",
+  },
   circleplus: {
     message: "Plus sign inside a circle",
     id: "icon.title.circle-plus"
@@ -254,6 +262,10 @@ export default {
   circleplusfilled: {
     message: "Plus sign inside a circle",
     id: "icon.title.circle-plus-filled"
+  },
+  circlestop: {
+    message: "Stop",
+    id: "icon.title.circle-stop",
   },
   circleuser: {
     message: "Circle with user profile inside",
@@ -274,6 +286,10 @@ export default {
   close: {
     message: "X",
     id: "icon.title.close"
+  },
+  coathanger: {
+    message: "Coat hanger",
+    id: "icon.title.coat-hanger",
   },
   code: {
     message: "Chevron left and right with a slash in between",
@@ -695,6 +711,10 @@ export default {
     message: "Circle with letter P inside",
     id: "icon.title.parking"
   },
+  pause: {
+    message: "Pause",
+    id: "icon.title.pause",
+  },
   phone: {
     message: "Smartphone",
     id: "icon.title.phone"
@@ -736,7 +756,7 @@ export default {
     id: "icon.title.plane-take-off"
   },
   play: {
-    message: "Circle with a rightward triangle inside",
+    message: "Play",
     id: "icon.title.play"
   },
   playhouse: {
@@ -746,6 +766,10 @@ export default {
   plus: {
     message: "Plus sign",
     id: "icon.title.plus"
+  },
+  printer: {
+    message: "Printer",
+    id: "icon.title.printer",
   },
   productbump: {
     message: "Three horizontal lines and an arrow pointing up",
@@ -838,6 +862,14 @@ export default {
   share: {
     message: "Curved arrow pointing right",
     id: "icon.title.share"
+  },
+  shareandroid: {
+    message: "Three connected dots",
+    id: "icon.title.share-android",
+  },
+  shareios: {
+    message: "Upward arrow emerging from a square",
+    id: "icon.title.share-ios",
   },
   shipping: {
     message: "Truck in motion",
@@ -934,6 +966,10 @@ export default {
   starhalf: {
     message: "Half full star",
     id: "icon.title.star-half"
+  },
+  stop: {
+    message: "Stop",
+    id: "icon.title.stop",
   },
   store: {
     message: "Storefront building",
