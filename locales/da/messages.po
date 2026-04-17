@@ -49,7 +49,7 @@ msgstr "Hundepote"
 #. Title for archive box.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.archive-box"
-msgstr "Fil med en pil, der peger ned"
+msgstr "Arkivkasse"
 
 #. Title for archway.svg icon
 #. js-lingui-explicit-id
@@ -264,7 +264,7 @@ msgstr "En bil, som vender mod højre"
 #. Title for chair.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.chair"
-msgstr "stol"
+msgstr "Stol"
 
 #. Title for charger.svg icon
 #. js-lingui-explicit-id
@@ -326,6 +326,16 @@ msgstr "Pil, som peger til højre"
 msgid "icon.title.chevron-up"
 msgstr "Pil, som peger opad"
 
+#. Title for circle pause.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.circle-pause"
+msgstr "Pause"
+
+#. Title for circle play.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.circle-play"
+msgstr "Afspil"
+
 #. Title for circle plus.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.circle-plus"
@@ -335,6 +345,11 @@ msgstr "Plustegn inde i en cirkel"
 #. js-lingui-explicit-id
 msgid "icon.title.circle-plus-filled"
 msgstr "Plustegn inde i en cirkel"
+
+#. Title for circle stop.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.circle-stop"
+msgstr "Stop"
 
 #. Title for circle user.svg icon
 #. js-lingui-explicit-id
@@ -360,6 +375,11 @@ msgstr "Ur, der tæller ned"
 #. js-lingui-explicit-id
 msgid "icon.title.close"
 msgstr "X"
+
+#. Title for coat hanger.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.coat-hanger"
+msgstr "Tøjbøjle"
 
 #. Title for code.svg icon
 #. js-lingui-explicit-id
@@ -464,7 +484,7 @@ msgstr "Gitter af prikker med to kolonner og tre rækker"
 #. Title for drawer.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.drawer"
-msgstr "Skuffe"
+msgstr "Kommode"
 
 #. Title for drill.svg icon
 #. js-lingui-explicit-id
@@ -706,6 +726,11 @@ msgstr "Cirkel med brev indeni"
 msgid "icon.title.instagram"
 msgstr "Instagram-ikon"
 
+#. Title for jacket.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.jacket"
+msgstr "Jakke"
+
 #. Title for jet ski.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.jet-ski"
@@ -876,6 +901,11 @@ msgstr "Papirklip"
 msgid "icon.title.parking"
 msgstr "Cikel med \"P\" indeni"
 
+#. Title for pause.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.pause"
+msgstr "Pause"
+
 #. Title for phone.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.phone"
@@ -929,7 +959,7 @@ msgstr "Fly, der letter"
 #. Title for play.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.play"
-msgstr "Cikel med trekant mod højre indeni"
+msgstr "Afspil"
 
 #. Title for playhouse.svg icon
 #. js-lingui-explicit-id
@@ -940,6 +970,11 @@ msgstr "Legehus"
 #. js-lingui-explicit-id
 msgid "icon.title.plus"
 msgstr "Plustegn"
+
+#. Title for printer.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.printer"
+msgstr "Printer"
 
 #. Title for product bump.svg icon
 #. js-lingui-explicit-id
@@ -1055,6 +1090,16 @@ msgstr "Papirfly"
 #. js-lingui-explicit-id
 msgid "icon.title.share"
 msgstr "Buet pil mod højre"
+
+#. Title for share android.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.share-android"
+msgstr "Tre forbundne prikker"
+
+#. Title for share i o s.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.share-ios"
+msgstr "Pil, der peger opad fra en firkant"
 
 #. Title for shipping.svg icon
 #. js-lingui-explicit-id
@@ -1175,6 +1220,11 @@ msgstr "Hel stjerne"
 #. js-lingui-explicit-id
 msgid "icon.title.star-half"
 msgstr "Halvfyldt stjerne"
+
+#. Title for stop.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.stop"
+msgstr "Stop"
 
 #. Title for store.svg icon
 #. js-lingui-explicit-id
@@ -1420,9 +1470,4 @@ msgstr "X-ikon"
 #. js-lingui-explicit-id
 msgid "icon.title.youtube"
 msgstr "YouTube-ikon"
-
-#. Title for jacket.svg icon
-#. js-lingui-explicit-id
-msgid "icon.title.jacket"
-msgstr "Jakke"
 

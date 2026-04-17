@@ -49,7 +49,7 @@ msgstr "Koiran tassu"
 #. Title for archive box.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.archive-box"
-msgstr "Tiedosto ja alaspäin osoittava nuoli"
+msgstr "Arkistolaatikko"
 
 #. Title for archway.svg icon
 #. js-lingui-explicit-id
@@ -264,7 +264,7 @@ msgstr "Oikealle kääntynyt auto"
 #. Title for chair.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.chair"
-msgstr "tuoli"
+msgstr "Tuoli"
 
 #. Title for charger.svg icon
 #. js-lingui-explicit-id
@@ -326,6 +326,16 @@ msgstr "Oikealle osoittava nuoli"
 msgid "icon.title.chevron-up"
 msgstr "Ylöspäin osoittava nuoli"
 
+#. Title for circle pause.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.circle-pause"
+msgstr "Keskeytä"
+
+#. Title for circle play.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.circle-play"
+msgstr "Toista"
+
 #. Title for circle plus.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.circle-plus"
@@ -335,6 +345,11 @@ msgstr "Plusmerkki ympyrän sisällä"
 #. js-lingui-explicit-id
 msgid "icon.title.circle-plus-filled"
 msgstr "Plusmerkki ympyrän sisällä"
+
+#. Title for circle stop.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.circle-stop"
+msgstr "Pysäytä"
 
 #. Title for circle user.svg icon
 #. js-lingui-explicit-id
@@ -360,6 +375,11 @@ msgstr "Aikaa alaspäin laskeva kello"
 #. js-lingui-explicit-id
 msgid "icon.title.close"
 msgstr "X"
+
+#. Title for coat hanger.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.coat-hanger"
+msgstr "Henkari"
 
 #. Title for code.svg icon
 #. js-lingui-explicit-id
@@ -706,6 +726,11 @@ msgstr "Ympyrä, jonka sisällä on I-kirjain"
 msgid "icon.title.instagram"
 msgstr "Instagram-kuvake"
 
+#. Title for jacket.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.jacket"
+msgstr "Takki"
+
 #. Title for jet ski.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.jet-ski"
@@ -876,6 +901,11 @@ msgstr "Paperiliitin"
 msgid "icon.title.parking"
 msgstr "Ympyrä, jonka sisällä on P-kirjain"
 
+#. Title for pause.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.pause"
+msgstr "Keskeytä"
+
 #. Title for phone.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.phone"
@@ -929,7 +959,7 @@ msgstr "Lähtevä lentokone"
 #. Title for play.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.play"
-msgstr "Ympyrä, jonka sisällä on oikealle osoittava kolmio"
+msgstr "Toista"
 
 #. Title for playhouse.svg icon
 #. js-lingui-explicit-id
@@ -940,6 +970,11 @@ msgstr "Leikkimökki"
 #. js-lingui-explicit-id
 msgid "icon.title.plus"
 msgstr "Plusmerkki"
+
+#. Title for printer.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.printer"
+msgstr "Tulostin"
 
 #. Title for product bump.svg icon
 #. js-lingui-explicit-id
@@ -1055,6 +1090,16 @@ msgstr "Paperilennokki"
 #. js-lingui-explicit-id
 msgid "icon.title.share"
 msgstr "Kaareva nuoli, joka osoittaa oikealle"
+
+#. Title for share android.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.share-android"
+msgstr "Kolme pistettä"
+
+#. Title for share i o s.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.share-ios"
+msgstr "Neliöstä ylöspäin lähtevä nuoli"
 
 #. Title for shipping.svg icon
 #. js-lingui-explicit-id
@@ -1175,6 +1220,11 @@ msgstr "Täysi tähti"
 #. js-lingui-explicit-id
 msgid "icon.title.star-half"
 msgstr "Puoliksi täytetty tähti"
+
+#. Title for stop.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.stop"
+msgstr "Pysäytä"
 
 #. Title for store.svg icon
 #. js-lingui-explicit-id
@@ -1420,9 +1470,4 @@ msgstr "X-kuvake"
 #. js-lingui-explicit-id
 msgid "icon.title.youtube"
 msgstr "YouTube-kuvake"
-
-#. Title for jacket.svg icon
-#. js-lingui-explicit-id
-msgid "icon.title.jacket"
-msgstr "Takki"
 
