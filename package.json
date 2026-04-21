@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "build": "lingui compile && node index.js",
-    "eikpublish": "eik login && eik publish",
+    "eikpublish": "eik login && eik publish && node postpublish-test.js",
     "import": "node import.js",
     "messages:compile": "lingui compile",
     "update": "node update-icon-translations.js"
