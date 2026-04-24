@@ -47,6 +47,10 @@ export default {
     message: "Arrow pointing up",
     id: "icon.title.arrow-up"
   },
+  atv: {
+    message: "Side view of an all-terrain vehicle",
+    id: "icon.title.atv"
+  },
   awardmedal: {
     message: "Award medal",
     id: "icon.title.award-medal"
@@ -139,6 +143,10 @@ export default {
     message: "Light bulb",
     id: "icon.title.bulb"
   },
+  bulldozer: {
+    message: "Side view of a bulldozer",
+    id: "icon.title.bulldozer"
+  },
   burger: {
     message: "Menu",
     id: "icon.title.burger"
@@ -178,6 +186,10 @@ export default {
   car: {
     message: "Car",
     id: "icon.title.car"
+  },
+  caravan: {
+    message: "Side view of a towed caravan",
+    id: "icon.title.caravan"
   },
   carleft: {
     message: "Car facing left",
@@ -249,11 +261,11 @@ export default {
   },
   circlepause: {
     message: "Pause",
-    id: "icon.title.circle-pause",
+    id: "icon.title.circle-pause"
   },
   circleplay: {
     message: "Play",
-    id: "icon.title.circle-play",
+    id: "icon.title.circle-play"
   },
   circleplus: {
     message: "Plus sign inside a circle",
@@ -265,7 +277,7 @@ export default {
   },
   circlestop: {
     message: "Stop",
-    id: "icon.title.circle-stop",
+    id: "icon.title.circle-stop"
   },
   circleuser: {
     message: "Circle with user profile inside",
@@ -289,7 +301,7 @@ export default {
   },
   coathanger: {
     message: "Coat hanger",
-    id: "icon.title.coat-hanger",
+    id: "icon.title.coat-hanger"
   },
   code: {
     message: "Chevron left and right with a slash in between",
@@ -507,6 +519,10 @@ export default {
     message: "Guitar",
     id: "icon.title.guitar"
   },
+  harvester: {
+    message: "Side view of a harvester",
+    id: "icon.title.harvester"
+  },
   headset: {
     message: "Headphones",
     id: "icon.title.headset"
@@ -683,6 +699,10 @@ export default {
     message: "Moon",
     id: "icon.title.moon"
   },
+  moped: {
+    message: "Side view of a moped",
+    id: "icon.title.moped"
+  },
   motorcycle: {
     message: "Motorcycle",
     id: "icon.title.motorcycle"
@@ -713,7 +733,7 @@ export default {
   },
   pause: {
     message: "Pause",
-    id: "icon.title.pause",
+    id: "icon.title.pause"
   },
   phone: {
     message: "Smartphone",
@@ -769,7 +789,7 @@ export default {
   },
   printer: {
     message: "Printer",
-    id: "icon.title.printer",
+    id: "icon.title.printer"
   },
   productbump: {
     message: "Three horizontal lines and an arrow pointing up",
@@ -835,6 +855,10 @@ export default {
     message: "Ruler",
     id: "icon.title.ruler"
   },
+  rv: {
+    message: "Side view of a motorhome",
+    id: "icon.title.rv"
+  },
   sauna: {
     message: "Sauna",
     id: "icon.title.sauna"
@@ -865,11 +889,11 @@ export default {
   },
   shareandroid: {
     message: "Three connected dots",
-    id: "icon.title.share-android",
+    id: "icon.title.share-android"
   },
   shareios: {
     message: "Upward arrow emerging from a square",
-    id: "icon.title.share-ios",
+    id: "icon.title.share-ios"
   },
   shipping: {
     message: "Truck in motion",
@@ -931,6 +955,10 @@ export default {
     message: "Sad smiley",
     id: "icon.title.smiley-sad"
   },
+  snowmobile: {
+    message: "Side view of a snowmobile",
+    id: "icon.title.snowmobile"
+  },
   sofa: {
     message: "Sofa",
     id: "icon.title.sofa"
@@ -969,7 +997,7 @@ export default {
   },
   stop: {
     message: "Stop",
-    id: "icon.title.stop",
+    id: "icon.title.stop"
   },
   store: {
     message: "Storefront building",
@@ -1082,6 +1110,10 @@ export default {
   trendup: {
     message: "Increasing trend line",
     id: "icon.title.trend-up"
+  },
+  truck: {
+    message: "Side view of a box truck",
+    id: "icon.title.truck"
   },
   tshirt: {
     message: "T shirt",
