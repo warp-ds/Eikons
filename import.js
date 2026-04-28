@@ -144,6 +144,8 @@ function processFigmaDescriptions(icons) {
         .split(",")
         .map((k) => k.trim())
         .filter(Boolean);
+    } else {
+      keywords[icon.name] = [];
     }
   }
 

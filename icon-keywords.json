@@ -73,6 +73,7 @@
     "Building",
     "Loan"
   ],
+  "BankIdNo": [],
   "BatteryEmpty": [
     "0%",
     "Charging",
@@ -1228,6 +1229,16 @@
     "Export",
     "Publish",
     "Distribute",
+    "Social"
+  ],
+  "ShareAndroid": [
+    "Send",
+    "Forward",
+    "Export",
+    "Publish",
+    "Distribute",
+    "Network",
+    "Arrow up",
     "Social"
   ],
   "ShareIOS": [
