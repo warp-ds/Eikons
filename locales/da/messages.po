@@ -1474,7 +1474,7 @@ msgstr "YouTube-ikon"
 #. Title for ice skater.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.ice-skater"
-msgstr "Skøjtende pindefigur"
+msgstr "Skøjtende tændstiksfigur"
 
 #. Title for you tube.svg icon
 #. js-lingui-explicit-id
@@ -1499,7 +1499,7 @@ msgstr "Autocamper set fra siden"
 #. Title for caravan.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.caravan"
-msgstr "Campingvogn set fra siden"
+msgstr "Campingvogn på slæb set fra siden"
 
 #. Title for harvester.svg icon
 #. js-lingui-explicit-id
@@ -1509,7 +1509,7 @@ msgstr "Mejetærsker set fra siden"
 #. Title for atv.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.atv"
-msgstr "ATV set fra siden"
+msgstr "Et terrængående køretøj set fra siden"
 
 #. Title for snowmobile.svg icon
 #. js-lingui-explicit-id
@@ -1519,9 +1519,10 @@ msgstr "Snescooter set fra siden"
 #. Title for truck.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.truck"
-msgstr "Lastbil set fra siden"
+msgstr "Kassevogn set fra siden"
 
 #. Title for moped.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.moped"
 msgstr "Knallert set fra siden"
+

@@ -1489,39 +1489,40 @@ msgstr "Penna som ritar en böjd linje"
 #. Title for bulldozer.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.bulldozer"
-msgstr "Bulldozer sedd från sidan"
+msgstr "En bulldozer från sidan"
 
 #. Title for rv.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.rv"
-msgstr "Husbil sedd från sidan"
+msgstr "En husbil från sidan"
 
 #. Title for caravan.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.caravan"
-msgstr "Husvagn sedd från sidan"
+msgstr "En husvagn från sidan"
 
 #. Title for harvester.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.harvester"
-msgstr "Skördetröska sedd från sidan"
+msgstr "En trösta från sidan"
 
 #. Title for atv.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.atv"
-msgstr "Fyrhjuling sedd från sidan"
+msgstr "En ATV från sidan"
 
 #. Title for snowmobile.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.snowmobile"
-msgstr "Snöskoter sedd från sidan"
+msgstr "En snöskoter från sidan"
 
 #. Title for truck.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.truck"
-msgstr "Lastbil sedd från sidan"
+msgstr "En skåpbil från sidan"
 
 #. Title for moped.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.moped"
-msgstr "Moped sedd från sidan"
+msgstr "En moped från sidan"
+
