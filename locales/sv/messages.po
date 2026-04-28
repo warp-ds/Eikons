@@ -1471,3 +1471,57 @@ msgstr "X-ikon"
 msgid "icon.title.youtube"
 msgstr "YouTube-ikon"
 
+#. Title for ice skater.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.ice-skater"
+msgstr "Streckgubbe som åker skridskor"
+
+#. Title for you tube.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.you-tube"
+msgstr "YouTube-ikon"
+
+#. Title for draw.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.draw"
+msgstr "Penna som ritar en böjd linje"
+
+#. Title for bulldozer.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.bulldozer"
+msgstr "Bulldozer sedd från sidan"
+
+#. Title for rv.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.rv"
+msgstr "Husbil sedd från sidan"
+
+#. Title for caravan.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.caravan"
+msgstr "Husvagn sedd från sidan"
+
+#. Title for harvester.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.harvester"
+msgstr "Skördetröska sedd från sidan"
+
+#. Title for atv.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.atv"
+msgstr "Fyrhjuling sedd från sidan"
+
+#. Title for snowmobile.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.snowmobile"
+msgstr "Snöskoter sedd från sidan"
+
+#. Title for truck.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.truck"
+msgstr "Lastbil sedd från sidan"
+
+#. Title for moped.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.moped"
+msgstr "Moped sedd från sidan"

@@ -6,7 +6,7 @@
  * and saves them as individual SVGs to svg/Regular/.
  *
  * Prerequisites:
- *   - Set FIGMA_TOKEN (a Personal access token with read access) in your environment or .env file
+ *   - Set FIGMA_TOKEN in your environment or .env file
  *
  * Usage:
  *   node import.js
@@ -30,6 +30,8 @@ const ICON_SIZE_VARIANT = "Size=24";
 const OUTPUT_DIR = "svg/Regular";
 const LOCALES_DIR = "locales";
 const KEYWORDS_PATH = "./data/icon-keywords.json";
+const LOCALE_CODES = ["nb", "fi", "da", "sv"];
+const LOCALE_LABELS = { nb: "Norwegian", fi: "Finnish", da: "Danish", sv: "Swedish" };
 
 // ─── Figma API helpers ───────────────────────────────────────────
 
@@ -184,6 +186,56 @@ function getExistingIconNames() {
     .map((file) => path.basename(file, ".svg"));
 }
 
+/** Report icons that are new in this import, translate alt texts, and update descriptions + .po files. */
+async function reportNewIcons(existingNames, downloadedNames, spinner) {
+  const added = downloadedNames.filter((n) => !existingNames.includes(n));
+  if (added.length) {
+    console.log(`\n✨ ${added.length} new icon(s) added:`, added.sort());
+  }
+
+
+  // Only process icons that don't already have a description entry
+  const iconsNeedingEntry = added.filter(
+    (name) => !defaultIconDescriptions[name.toLowerCase()],
+  );
+
+  if (iconsNeedingEntry.length) {
+    // Scaffold placeholder entries for icons with no description at all
+    for (const name of iconsNeedingEntry) {
+      const key = name.toLowerCase();
+      const msgId = `icon.title.${toKebab(name)}`;
+      defaultIconDescriptions[key] = { message: name, id: msgId };
+    }
+    writeIconDescriptions(defaultIconDescriptions);
+    console.log(`📝 Scaffolded ${iconsNeedingEntry.length} placeholder(s) in default-icon-descriptions.js`);
+  }
+
+  for (let i = 0; i < added.length; i++) {
+    const name = added[i];
+    const key = name.toLowerCase();
+    const kebab = toKebab(name);
+    const msgId = `icon.title.${kebab}`;
+    const desc = defaultIconDescriptions[key];
+    const enText = desc?.message || name;
+
+    console.log(`\n[${i + 1}/${added.length}] Processing "${name}" (msgId: ${msgId})`);
+    console.log(`  English: "${enText}"`);
+
+    // Write English .po entry
+    const enPoPath = path.join(LOCALES_DIR, "en", "messages.po");
+    addPoEntry(enPoPath, {
+      comment: `Title for ${kebab.replace(/-/g, " ")}.svg icon`,
+      msgId,
+      msgStr: enText,
+    });
+    console.log(`  .po [en]: "${enText}"`);
+  }
+
+  console.log(
+    `📝 Added ${added.length} entry/entries to locale .po files`,
+  );
+}
+
 /** Warn about icons that exist locally but were not found in Figma. */
 function reportMissingFromFigma(existingNames, downloadedNames) {
   const missing = existingNames.filter((n) => !downloadedNames.includes(n));
@@ -251,7 +303,6 @@ function reportMissingFromFigma(existingNames, downloadedNames) {
 
   // 5. Download, optimize, and save
   let completed = 0;
-  /** @type {string[]} */
   const downloadedNames = [];
 
   spinner.start(`Downloading icons: 0/${icons.length}`);
@@ -271,9 +322,7 @@ function reportMissingFromFigma(existingNames, downloadedNames) {
 
   spinner.succeed(`Downloaded and optimized ${downloadedNames.length} icons`);
 
-  const added = downloadedNames.filter((n) => !existingIcons.includes(n));
-  if (added.length) console.log(`\n✨ ${added.length} new icon(s) added:`, added.sort());
-
-  // Report any missing icons in Figma
+  // 6. Report new and missing icons
+  await reportNewIcons(existingIcons, downloadedNames, spinner);
   reportMissingFromFigma(existingIcons, downloadedNames);
 })();

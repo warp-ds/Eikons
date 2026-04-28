@@ -1468,3 +1468,57 @@ msgstr "X icon"
 msgid "icon.title.youtube"
 msgstr "YouTube icon"
 
+#. Title for ice skater.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.ice-skater"
+msgstr "Ice skating stick figure"
+
+#. Title for you tube.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.you-tube"
+msgstr "YouTube icon"
+
+#. Title for draw.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.draw"
+msgstr "Pencil drawing a curved line"
+
+#. Title for bulldozer.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.bulldozer"
+msgstr "Side view of a bulldozer"
+
+#. Title for rv.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.rv"
+msgstr "Side view of a motorhome"
+
+#. Title for caravan.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.caravan"
+msgstr "Side view of a towed caravan"
+
+#. Title for harvester.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.harvester"
+msgstr "Side view of a harvester"
+
+#. Title for atv.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.atv"
+msgstr "Side view of an all-terrain vehicle"
+
+#. Title for snowmobile.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.snowmobile"
+msgstr "Side view of a snowmobile"
+
+#. Title for truck.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.truck"
+msgstr "Side view of a box truck"
+
+#. Title for moped.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.moped"
+msgstr "Side view of a moped"
