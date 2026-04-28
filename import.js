@@ -29,7 +29,7 @@ const FRAME_NODE_ID = "7245:198";
 const ICON_SIZE_VARIANT = "Size=24";
 const OUTPUT_DIR = "svg/Regular";
 const LOCALES_DIR = "locales";
-const KEYWORDS_PATH = "./data/icon-keywords.json";
+const KEYWORDS_PATH = "./icon-keywords.json";
 const LOCALE_CODES = ["nb", "fi", "da", "sv"];
 const LOCALE_LABELS = { nb: "Norwegian", fi: "Finnish", da: "Danish", sv: "Swedish" };
 
