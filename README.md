@@ -38,7 +38,5 @@ The importer should have updated the English `.po` with the altText from Figma.
 - Once you see the new icons render and all is ok, update alias:
 
 ```sh
-# eik alias eikons <version> <alias>
-# example:
-eik alias eikons 0.1.2 1
+pnpm run eikalias 0.1.4 1
 ```

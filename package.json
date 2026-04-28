@@ -7,6 +7,7 @@
   "scripts": {
     "build": "lingui compile && node index.js",
     "eikpublish": "eik login && eik publish && node postpublish-test.js",
+    "eikalias": "eik alias eikons",
     "import": "node import.js",
     "messages:compile": "lingui compile",
     "update": "node update-icon-translations.js"
