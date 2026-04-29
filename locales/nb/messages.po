@@ -1489,39 +1489,40 @@ msgstr "Blyant som tegner en buet linje"
 #. Title for bulldozer.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.bulldozer"
-msgstr "Bulldoser sett fra siden"
+msgstr "En bulldoser sett fra siden"
 
 #. Title for rv.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.rv"
-msgstr "Bobil sett fra siden"
+msgstr "En bobil sett fra siden"
 
 #. Title for caravan.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.caravan"
-msgstr "Campingvogn sett fra siden"
+msgstr "En campingvogn sett fra siden"
 
 #. Title for harvester.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.harvester"
-msgstr "Skurtresker sett fra siden"
+msgstr "En tresker sett fra siden"
 
 #. Title for atv.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.atv"
-msgstr "ATV sett fra siden"
+msgstr "En ATV sett fra siden"
 
 #. Title for snowmobile.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.snowmobile"
-msgstr "Snøscooter sett fra siden"
+msgstr "En snøscooter sett fra siden"
 
 #. Title for truck.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.truck"
-msgstr "Lastebil sett fra siden"
+msgstr "En skapbil sett fra siden"
 
 #. Title for moped.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.moped"
-msgstr "Moped sett fra siden"
+msgstr "En moped sett fra siden"
+
