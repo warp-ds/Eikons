@@ -19,24 +19,22 @@ pnpm run import
 
 ## 2. Get translations
 
-The importer should have updated the English `.po` with the altText from Figma.
+The importer should have updated the English `.po` with the altText from Figma. Do a machine translation of the English text to the other locales for an initial release.
 
-- create PR and merge to `main` branch when approved – pushes to the `main` branch trigger translation request in Crowdin
-- await PR from Crowdin with updated `.po` files from all 4 languages – check that the translations are OK and merge into `main`
+When the English `.po` files get pushed to the `main` branch it trigger translation request in Crowdin. Ship a patch release once they arrive.
 
 ## 3. Build icons
 
-- run `git pull` on the `main branch` to get the updated `.po` files
-- run `pnpm build` – this compiles the `.po` files to `.mjs` for each locale and builds new icons in `dist` folder
+Tun `pnpm build` – this compiles the `.po` files to `.mjs` for each locale and builds new icons in `dist` folder.
 
 ## 4. Publish to Eik
 
-- update version number in `package.json` to the next desired version before publishing
-- publish to eik manually using `@eik/cli`: `pnpm run eikpublish`
-- this requires a key, ask your neighbourhood frontend platform webbie
-- update the eikons version used in the preview list in Warp Portal documentation
-- Once you see the new icons render and all is ok, update alias:
+Use Conventional Commits format (`fix:`, `feat:`) on a commit to trigger a new release to Eik via GitHub Actions. It will automatically version and publish.
+
+## 5. Update the alias on Eik
+
+The `postpublish-test.js` script runs on GitHub Actions. If it passes at least all the previous URLs still work. You can do a sanity check on the SVGs themselves, then update the alias.
 
 ```sh
-pnpm run eikalias 0.1.4 1
+pnpm run eikalias 0.2.0 2
 ```
