@@ -1529,12 +1529,12 @@ msgstr "Knallert set fra siden"
 #. Title for error filled.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.error-filled"
-msgstr "Udråbstegn i en ottekant"
+msgstr "Udråbstegn inden i en ottekant"
 
 #. Title for info filled.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.info-filled"
-msgstr "Sirkel med et i"
+msgstr "Cirkel med bogstavet \"i\" inden i"
 
 #. Title for success filled.svg icon
 #. js-lingui-explicit-id
