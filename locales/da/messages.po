@@ -1526,3 +1526,23 @@ msgstr "Kassevogn set fra siden"
 msgid "icon.title.moped"
 msgstr "Knallert set fra siden"
 
+#. Title for error filled.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.error-filled"
+msgstr "Udråbstegn i en ottekant"
+
+#. Title for info filled.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.info-filled"
+msgstr "Sirkel med et i"
+
+#. Title for success filled.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.success-filled"
+msgstr "Cirkel med flueben"
+
+#. Title for warning filled.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.warning-filled"
+msgstr "Advarselstrekant med udråbstegn"
+

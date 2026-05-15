@@ -1526,3 +1526,23 @@ msgstr "Kuorma-auton sivuprofiili"
 msgid "icon.title.moped"
 msgstr "Mopon sivuprofiili"
 
+#. Title for error filled.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.error-filled"
+msgstr "Huutomerkki kahdeksankulmion sisällä"
+
+#. Title for info filled.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.info-filled"
+msgstr "Ympyrä, jonka sisällä on i-kirjain"
+
+#. Title for success filled.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.success-filled"
+msgstr "Ympyrä, jossa on valintamerkki"
+
+#. Title for warning filled.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.warning-filled"
+msgstr "Varoituskolmio huutomerkillä"
+
