@@ -419,6 +419,10 @@ export default {
     message: "Exclamation mark inside an octagon",
     id: "icon.title.error"
   },
+  errorfilled: {
+    message: "Exclamation mark inside an octagon",
+    id: "icon.title.error-filled"
+  },
   exchange: {
     message: "Two arrows pointing in opposite directions",
     id: "icon.title.exchange"
@@ -578,6 +582,10 @@ export default {
   info: {
     message: "Circle with letter i inside",
     id: "icon.title.info"
+  },
+  infofilled: {
+    message: "Circle with letter i inside",
+    id: "icon.title.info-filled"
   },
   instagram: {
     message: "Instagram icon",
@@ -1019,6 +1027,10 @@ export default {
     message: "Circle with checkmark",
     id: "icon.title.success"
   },
+  successfilled: {
+    message: "Circle with checkmark",
+    id: "icon.title.success-filled"
+  },
   suitcase: {
     message: "Suitcase",
     id: "icon.title.suitcase"
@@ -1162,6 +1174,10 @@ export default {
   warning: {
     message: "Warning triangle with exclamation point",
     id: "icon.title.warning"
+  },
+  warningfilled: {
+    message: "Warning triangle with exclamation point",
+    id: "icon.title.warning-filled"
   },
   warranty: {
     message: "Badge with a checkmark inside",

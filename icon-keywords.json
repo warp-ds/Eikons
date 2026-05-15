@@ -583,6 +583,11 @@
     "Issue",
     "Negative"
   ],
+  "ErrorFilled": [
+    "Error",
+    "Issue",
+    "Negative"
+  ],
   "Exchange": [
     "Transfer",
     "Switch",
@@ -801,6 +806,12 @@
     "Camera roll"
   ],
   "Info": [
+    "Information",
+    "Details",
+    "Help",
+    "Tips"
+  ],
+  "InfoFilled": [
     "Information",
     "Details",
     "Help",
@@ -1422,6 +1433,13 @@
     "Done",
     "Finished"
   ],
+  "SuccessFilled": [
+    "Checkmark",
+    "Tick",
+    "Approved",
+    "Done",
+    "Finished"
+  ],
   "Suitcase": [
     "Travel",
     "Luggage",
@@ -1608,6 +1626,10 @@
     "Alert",
     "Caution"
   ],
+  "WarningFilled": [
+    "Alert",
+    "Caution"
+  ],
   "Warranty": [
     "Approved",
     "Safety",
@@ -1649,7 +1671,8 @@
   "X": [
     "X",
     "Social media",
-    "Twitter"
+    "Twitter",
+    "Elon musk"
   ],
   "YouTube": [
     "Social media",
