@@ -36,5 +36,5 @@ Use Conventional Commits format (`fix:`, `feat:`) on a commit to trigger a new r
 The `postpublish-test.js` script runs on GitHub Actions. If it passes at least all the previous URLs still work. You can do a sanity check on the SVGs themselves, then update the alias.
 
 ```sh
-pnpm run eikalias 0.2.0 2
+pnpm run eikalias 0.2.0 1
 ```
