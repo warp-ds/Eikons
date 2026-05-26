@@ -1529,12 +1529,12 @@ msgstr "En moped från sidan"
 #. Title for error filled.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.error-filled"
-msgstr "Utropstecken i en åttahörning"
+msgstr "Utropstecken inuti oktagon"
 
 #. Title for info filled.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.info-filled"
-msgstr "Inringat i"
+msgstr "Cirkel med bokstaven I inuti"
 
 #. Title for success filled.svg icon
 #. js-lingui-explicit-id
