@@ -1546,3 +1546,8 @@ msgstr "Ympyrä, jonka sisällä on valintamerkki"
 msgid "icon.title.warning-filled"
 msgstr "Varoituskolmio, jonka sisällä on huutomerkki"
 
+#. Title for heart filled.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.heart-filled"
+msgstr "Sydän"
+

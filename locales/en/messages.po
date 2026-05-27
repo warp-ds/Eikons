@@ -1542,3 +1542,8 @@ msgstr "Circle with checkmark"
 #. js-lingui-explicit-id
 msgid "icon.title.warning-filled"
 msgstr "Warning triangle with exclamation point"
+
+#. Title for heart filled.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.heart-filled"
+msgstr "Heart"

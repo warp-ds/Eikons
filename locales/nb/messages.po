@@ -1546,3 +1546,8 @@ msgstr "Sirkel med hakemerke"
 msgid "icon.title.warning-filled"
 msgstr "Varseltrekant med utropstegn"
 
+#. Title for heart filled.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.heart-filled"
+msgstr "Hjerte"
+
