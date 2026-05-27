@@ -535,6 +535,10 @@ export default {
     message: "Heart",
     id: "icon.title.heart"
   },
+  heartfilled: {
+    message: "Heart",
+    id: "icon.title.heart-filled"
+  },
   heartrate: {
     message: "Heart with heart rate indicator",
     id: "icon.title.heart-rate"
