@@ -1551,3 +1551,38 @@ msgstr "Varningstriangel med utropstecken"
 msgid "icon.title.heart-filled"
 msgstr "Hjärta"
 
+#. Title for anchor.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.anchor"
+msgstr "Ett ankare framifrån"
+
+#. Title for chainsaw.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.chainsaw"
+msgstr "En motorsåg från sidan"
+
+#. Title for file.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.file"
+msgstr "Dokumentsida med ett vikt hörn uppe till höger"
+
+#. Title for file pdf.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.file-pdf"
+msgstr "Dokumentsida med bokstäverna PDF"
+
+#. Title for file text.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.file-text"
+msgstr "Dokumentsida med horisontella textrader"
+
+#. Title for low speed vehicle.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.low-speed-vehicle"
+msgstr "En bil med varningstriangel bak sedd från sidan"
+
+#. Title for trailer.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.trailer"
+msgstr "En släpvagn från sidan"
+

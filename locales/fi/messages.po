@@ -1551,3 +1551,38 @@ msgstr "Varoituskolmio, jonka sisällä on huutomerkki"
 msgid "icon.title.heart-filled"
 msgstr "Sydän"
 
+#. Title for anchor.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.anchor"
+msgstr "Ankkuri edestä"
+
+#. Title for chainsaw.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.chainsaw"
+msgstr "Moottorisaha viistosta"
+
+#. Title for file.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.file"
+msgstr "Asiakirjasivu, jonka oikea yläkulma on taitettu"
+
+#. Title for file pdf.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.file-pdf"
+msgstr "Asiakirjasivu, jossa lukee PDF"
+
+#. Title for file text.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.file-text"
+msgstr "Asiakirjasivu, jossa on vaakasuoria tekstirivejä"
+
+#. Title for low speed vehicle.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.low-speed-vehicle"
+msgstr "Auton sivuprofiili, jossa on varoituskolmio takana"
+
+#. Title for trailer.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.trailer"
+msgstr "Peräkärryn sivuprofiili"
+
