@@ -1551,3 +1551,38 @@ msgstr "Advarselstrekant med udråbstegn"
 msgid "icon.title.heart-filled"
 msgstr "Hjerte"
 
+#. Title for anchor.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.anchor"
+msgstr "Et anker set forfra"
+
+#. Title for chainsaw.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.chainsaw"
+msgstr "En motorsav set på skrå"
+
+#. Title for file.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.file"
+msgstr "Dokumentside med et foldet hjørne øverst til højre"
+
+#. Title for file pdf.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.file-pdf"
+msgstr "Dokumentside med bogstaverne PDF"
+
+#. Title for file text.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.file-text"
+msgstr "Dokumentside med horisontale tekstlinjer"
+
+#. Title for low speed vehicle.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.low-speed-vehicle"
+msgstr "En bil med advarselstrekant bagpå set fra siden"
+
+#. Title for trailer.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.trailer"
+msgstr "En anhænger set fra siden"
+

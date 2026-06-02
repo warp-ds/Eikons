@@ -1547,3 +1547,38 @@ msgstr "Warning triangle with exclamation point"
 #. js-lingui-explicit-id
 msgid "icon.title.heart-filled"
 msgstr "Heart"
+
+#. Title for anchor.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.anchor"
+msgstr "Front view of a nautical anchor"
+
+#. Title for chainsaw.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.chainsaw"
+msgstr "Angled view of a chainsaw"
+
+#. Title for file.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.file"
+msgstr "Document page with a folded top-right corner"
+
+#. Title for file pdf.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.file-pdf"
+msgstr "Document page with the letters PDF"
+
+#. Title for file text.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.file-text"
+msgstr "Document page with horizontal text lines"
+
+#. Title for low speed vehicle.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.low-speed-vehicle"
+msgstr "Side view of a car with a rear warning triangle"
+
+#. Title for trailer.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.trailer"
+msgstr "Side view of a utility cargo trailer"

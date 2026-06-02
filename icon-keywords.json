@@ -20,6 +20,14 @@
     "4WD",
     "4-wheel drive"
   ],
+  "Anchor": [
+    "Marine",
+    "Boat",
+    "Ship",
+    "Harbor",
+    "Harbour",
+    "Dock"
+  ],
   "AnimalPaw": [
     "Dog",
     "Print",
@@ -243,6 +251,15 @@
   "CarRight": [
     "Vehicle",
     "Taxonomy"
+  ],
+  "Chainsaw": [
+    "Power tool",
+    "Wood",
+    "Cutting",
+    "Logging",
+    "Lumberjack",
+    "Forestry",
+    "Saw"
   ],
   "Chair": [
     "Taxonomy"
@@ -620,6 +637,15 @@
     "Village",
     "Property"
   ],
+  "File": [
+    "Paper",
+    "Sheet",
+    "Blank page",
+    "Document",
+    "Asset",
+    "Template",
+    "Attachment"
+  ],
   "FileAdd": [
     "New",
     "Upload",
@@ -627,6 +653,25 @@
   ],
   "FileArrowDown": [
     "Download"
+  ],
+  "FilePdf": [
+    "Paper",
+    "PDF file",
+    "Portable document format",
+    "Export",
+    "Download",
+    "Report"
+  ],
+  "FileText": [
+    "Paper",
+    "Document",
+    "txt",
+    "Sheet",
+    "Blank page",
+    "Document",
+    "Asset",
+    "Template",
+    "Attachment"
   ],
   "Filter": [
     "Adjust",
@@ -896,6 +941,12 @@
     "Water lily",
     "Relax",
     "Health"
+  ],
+  "LowSpeedVehicle": [
+    "Transport",
+    "Mobility",
+    "Slow moving",
+    "A-traktor"
   ],
   "Luggage": [
     "Suitcase",
@@ -1534,6 +1585,15 @@
     "Cultivation",
     "Agriculture",
     "Taxonomy"
+  ],
+  "Trailer": [
+    "Trailer",
+    "Transport",
+    "Equipment",
+    "box trailer",
+    "Moving",
+    "Mobility",
+    "Towing"
   ],
   "Translate": [
     "Internationalization",
