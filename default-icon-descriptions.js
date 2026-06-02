@@ -19,6 +19,10 @@ export default {
     message: "All-wheel drive",
     id: "icon.title.all-wheel-drive"
   },
+  anchor: {
+    message: "Front view of a nautical anchor",
+    id: "icon.title.anchor"
+  },
   animalpaw: {
     message: "Dog paw",
     id: "icon.title.animal-paw"
@@ -206,6 +210,10 @@ export default {
   carright: {
     message: "Car facing right",
     id: "icon.title.car-right"
+  },
+  chainsaw: {
+    message: "Angled view of a chainsaw",
+    id: "icon.title.chainsaw"
   },
   chair: {
     message: "Chair",
@@ -447,6 +455,10 @@ export default {
     message: "Barn building with a gable roof and X-pattern door",
     id: "icon.title.farm"
   },
+  file: {
+    message: "Document page with a folded top-right corner",
+    id: "icon.title.file"
+  },
   fileadd: {
     message: "Plus sign on a file",
     id: "icon.title.file-add"
@@ -454,6 +466,14 @@ export default {
   filearrowdown: {
     message: "File with an arrow pointing down",
     id: "icon.title.file-arrow-down"
+  },
+  filepdf: {
+    message: "Document page with the letters PDF",
+    id: "icon.title.file-pdf"
+  },
+  filetext: {
+    message: "Document page with horizontal text lines",
+    id: "icon.title.file-text"
   },
   filter: {
     message: "Two horizontal sliders with adjustable knobs",
@@ -654,6 +674,10 @@ export default {
   lotusflower: {
     message: "Lotus flower",
     id: "icon.title.lotus-flower"
+  },
+  lowspeedvehicle: {
+    message: "Side view of a car with a rear warning triangle",
+    id: "icon.title.low-speed-vehicle"
   },
   luggage: {
     message: "Luggage on two wheels with a handle",
@@ -1102,6 +1126,10 @@ export default {
   tractor: {
     message: "Tractor",
     id: "icon.title.tractor"
+  },
+  trailer: {
+    message: "Side view of a utility cargo trailer",
+    id: "icon.title.trailer"
   },
   translate: {
     message: "Symbol representing translation between languages",
