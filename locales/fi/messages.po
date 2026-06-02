@@ -1554,35 +1554,35 @@ msgstr "Sydän"
 #. Title for anchor.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.anchor"
-msgstr "Ankkuri edestä"
+msgstr "Ankkuri edestä katsottuna"
 
 #. Title for chainsaw.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.chainsaw"
-msgstr "Moottorisaha viistosta"
+msgstr "Moottorisaha viistosti kuvattuna"
 
 #. Title for file.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.file"
-msgstr "Asiakirjasivu, jonka oikea yläkulma on taitettu"
+msgstr "Asiakirjan sivu, jonka oikea yläkulma on taitettu"
 
 #. Title for file pdf.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.file-pdf"
-msgstr "Asiakirjasivu, jossa lukee PDF"
+msgstr "Asiakirjan sivu, jossa lukee PDF"
 
 #. Title for file text.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.file-text"
-msgstr "Asiakirjasivu, jossa on vaakasuoria tekstirivejä"
+msgstr "Asiakirjan sivu, jossa on vaakasuoraa tekstiä"
 
 #. Title for low speed vehicle.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.low-speed-vehicle"
-msgstr "Auton sivuprofiili, jossa on varoituskolmio takana"
+msgstr "Auton sivuprofiili ja varoituskolmio"
 
 #. Title for trailer.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.trailer"
-msgstr "Peräkärryn sivuprofiili"
+msgstr "Perävaunun sivuprofiili"
 
