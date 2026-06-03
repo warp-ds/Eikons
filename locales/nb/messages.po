@@ -1554,17 +1554,17 @@ msgstr "Hjerte"
 #. Title for anchor.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.anchor"
-msgstr "Et anker sett forfra"
+msgstr "Anker sett forfra"
 
 #. Title for chainsaw.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.chainsaw"
-msgstr "En motorsag sett på skrå"
+msgstr "Motorsag sett fra skrå vinkel"
 
 #. Title for file.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.file"
-msgstr "Dokumentside med brettet hjørne øverst til høyre"
+msgstr "Dokumentside med en brett på hjørnet øverst til høyre"
 
 #. Title for file pdf.svg icon
 #. js-lingui-explicit-id
@@ -1579,10 +1579,10 @@ msgstr "Dokumentside med horisontale tekstlinjer"
 #. Title for low speed vehicle.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.low-speed-vehicle"
-msgstr "En bil med varseltrekant bak sett fra siden"
+msgstr "Bil med varseltrekant bak, sett fra siden"
 
 #. Title for trailer.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.trailer"
-msgstr "En tilhenger sett fra siden"
+msgstr "Skaphenger sett fra siden"
 
