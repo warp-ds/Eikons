@@ -1582,3 +1582,13 @@ msgstr "Side view of a car with a rear warning triangle"
 #. js-lingui-explicit-id
 msgid "icon.title.trailer"
 msgstr "Side view of a utility cargo trailer"
+
+#. Title for phone incoming.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.phone-incoming"
+msgstr "Phone handset with an arrow above it to the right pointing down at it"
+
+#. Title for phone x.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.phone-x"
+msgstr "Phone handset with an X above it to the right"

@@ -783,6 +783,10 @@ export default {
     message: "Phone handset",
     id: "icon.title.phone-handset"
   },
+  phoneincoming: {
+    message: "Phone handset with an arrow above it to the right pointing down at it",
+    id: "icon.title.phone-incoming"
+  },
   phonescratched: {
     message: "Smartphone with scratched screen",
     id: "icon.title.phone-scratched"
@@ -790,6 +794,10 @@ export default {
   phoneused: {
     message: "Smartphone with scratched screen",
     id: "icon.title.phone-used"
+  },
+  phonex: {
+    message: "Phone handset with an X above it to the right",
+    id: "icon.title.phone-x"
   },
   picturestack: {
     message: "Stack of pictures",

@@ -1104,6 +1104,21 @@
     "Contact",
     "Service"
   ],
+  "PhoneIncoming": [
+    "Telephone",
+    "Landline",
+    "Call",
+    "Dial",
+    "Ringing",
+    "Hotline",
+    "Contact",
+    "Service",
+    "Incoming",
+    "Receiving",
+    "Talk",
+    "Communications",
+    "System"
+  ],
   "PhoneScratched": [
     "Smartphone",
     "Mobile",
@@ -1119,6 +1134,21 @@
     "Device",
     "State",
     "Condition"
+  ],
+  "PhoneX": [
+    "Telephone",
+    "Landline",
+    "Call",
+    "Dial",
+    "Ringing",
+    "Hotline",
+    "Contact",
+    "Service",
+    "Missed",
+    "Errors",
+    "Talk",
+    "Communications",
+    "System"
   ],
   "PictureStack": [
     "Gallery",
