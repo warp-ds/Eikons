@@ -1586,3 +1586,13 @@ msgstr "Auton sivuprofiili ja varoituskolmio"
 msgid "icon.title.trailer"
 msgstr "Perävaunun sivuprofiili"
 
+#. Title for phone incoming.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.phone-incoming"
+msgstr "Puhelin, jonka yläoikealla on puhelimeen osoittava nuoli"
+
+#. Title for phone x.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.phone-x"
+msgstr "Puhelin, jonka yläoikealla on X"
+

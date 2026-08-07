@@ -1586,3 +1586,13 @@ msgstr "Sidovy av bil med bakre varningstriangel"
 msgid "icon.title.trailer"
 msgstr "Sidovy av släpvagn"
 
+#. Title for phone incoming.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.phone-incoming"
+msgstr "Telefonlur med en pil ovanför den som pekar ned mot luren"
+
+#. Title for phone x.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.phone-x"
+msgstr "Telefonlur med ett X ovanför den till höger"
+
