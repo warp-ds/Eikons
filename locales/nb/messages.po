@@ -1586,3 +1586,13 @@ msgstr "Bil med varseltrekant bak, sett fra siden"
 msgid "icon.title.trailer"
 msgstr "Skaphenger sett fra siden"
 
+#. Title for phone incoming.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.phone-incoming"
+msgstr "Et telefonrør med en pil til høyre over det som peker ned mot det"
+
+#. Title for phone x.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.phone-x"
+msgstr "Et telefonrør med en X over seg til høyre"
+
