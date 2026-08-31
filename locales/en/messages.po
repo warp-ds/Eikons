@@ -1592,3 +1592,28 @@ msgstr "Phone handset with an arrow above it to the right pointing down at it"
 #. js-lingui-explicit-id
 msgid "icon.title.phone-x"
 msgstr "Phone handset with an X above it to the right"
+
+#. Title for bicycle.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.bicycle"
+msgstr "side view of a bicycle"
+
+#. Title for graduation cap.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.graduation-cap"
+msgstr "Graduation hat with tassle"
+
+#. Title for lock simple.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.lock-simple"
+msgstr "Front view of a padlock"
+
+#. Title for person simple walk.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.person-simple-walk"
+msgstr "Stick figure person walking"
+
+#. Title for umbrella.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.umbrella"
+msgstr "An open umbrella with a curved handle"

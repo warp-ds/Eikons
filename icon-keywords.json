@@ -110,6 +110,7 @@
     "Notification",
     "Jingle"
   ],
+  "Bicycle": [],
   "Bin": [
     "Trash",
     "Remove",
@@ -746,6 +747,7 @@
     "Connectivity",
     "Language"
   ],
+  "GraduationCap": [],
   "GraphLine": [
     "Chart",
     "DataViz",
@@ -932,6 +934,7 @@
     "Safety",
     "Security"
   ],
+  "LockSimple": [],
   "Logout": [
     "ExitDoor",
     "Sign off"
@@ -1082,6 +1085,7 @@
     "Audio",
     "Video"
   ],
+  "PersonSimpleWalk": [],
   "Phone": [
     "Smartphone",
     "Mobile",
@@ -1674,6 +1678,7 @@
     "Electronics",
     "Display"
   ],
+  "Umbrella": [],
   "Up": [
     "Direction"
   ],

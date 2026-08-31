@@ -99,6 +99,10 @@ export default {
     message: "Bell",
     id: "icon.title.bell-filled"
   },
+  bicycle: {
+    message: "side view of a bicycle",
+    id: "icon.title.bicycle"
+  },
   bin: {
     message: "Trash can",
     id: "icon.title.bin"
@@ -523,6 +527,10 @@ export default {
     message: "Globe",
     id: "icon.title.globe"
   },
+  graduationcap: {
+    message: "Graduation hat with tassle",
+    id: "icon.title.graduation-cap"
+  },
   graphline: {
     message: "Line graph",
     id: "icon.title.graph-line"
@@ -667,6 +675,10 @@ export default {
     message: "Shield with padlock",
     id: "icon.title.lock-shield"
   },
+  locksimple: {
+    message: "Front view of a padlock",
+    id: "icon.title.lock-simple"
+  },
   logout: {
     message: "Rightward arrow leaving a box",
     id: "icon.title.logout"
@@ -770,6 +782,10 @@ export default {
   pause: {
     message: "Pause",
     id: "icon.title.pause"
+  },
+  personsimplewalk: {
+    message: "Stick figure person walking",
+    id: "icon.title.person-simple-walk"
   },
   phone: {
     message: "Smartphone",
@@ -1174,6 +1190,10 @@ export default {
   tv: {
     message: "Flat screen TV",
     id: "icon.title.tv"
+  },
+  umbrella: {
+    message: "An open umbrella with a curved handle",
+    id: "icon.title.umbrella"
   },
   up: {
     message: "Square with arrow pointing up",
