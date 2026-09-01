@@ -20,10 +20,7 @@ jobs:
       - uses: pnpm/action-setup@v4
         with:
           version: 9
-          run_install: false # Changed to false to prevent the automatic install crash
-
-      - name: Install dependencies
-        run: pnpm install # Manually install dependencies safely
+          run_install: true
 
       # Determine version bump from conventional commits since last tag
       - name: Determine version bump
