@@ -1596,3 +1596,28 @@ msgstr "Mobilholder med en pil øverst til højre, der peger ned mod den"
 msgid "icon.title.phone-x"
 msgstr "Mobilholder med et X øverst til højre"
 
+#. Title for bicycle.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.bicycle"
+msgstr "cykel set fra siden"
+
+#. Title for graduation cap.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.graduation-cap"
+msgstr "Trekantet dimissionshat med kvast"
+
+#. Title for lock simple.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.lock-simple"
+msgstr "Hængelås set forfra"
+
+#. Title for person simple walk.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.person-simple-walk"
+msgstr "Gående tændstiksfigur"
+
+#. Title for umbrella.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.umbrella"
+msgstr "En åben paraply med et buet håndtag"
+
