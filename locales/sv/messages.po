@@ -1596,3 +1596,28 @@ msgstr "Telefonlur med en pil ovanför den som pekar ned mot luren"
 msgid "icon.title.phone-x"
 msgstr "Telefonlur med ett X ovanför den till höger"
 
+#. Title for bicycle.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.bicycle"
+msgstr "cykel från sidan"
+
+#. Title for graduation cap.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.graduation-cap"
+msgstr "Examenshatt med tofs"
+
+#. Title for lock simple.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.lock-simple"
+msgstr "Hänglås framifrån"
+
+#. Title for person simple walk.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.person-simple-walk"
+msgstr "Streckgubbe som går"
+
+#. Title for umbrella.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.umbrella"
+msgstr "Ett öppet paraply med svängt handtag"
+

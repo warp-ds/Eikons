@@ -1596,3 +1596,28 @@ msgstr "Puhelimen luuri ja siihen yläoikealta osoittava nuoli"
 msgid "icon.title.phone-x"
 msgstr "Puhelimen luuri, jonka yläoikealla on X"
 
+#. Title for bicycle.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.bicycle"
+msgstr "polkupyörän sivuprofiili"
+
+#. Title for graduation cap.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.graduation-cap"
+msgstr "Valmistujaislakki ja tupsu"
+
+#. Title for lock simple.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.lock-simple"
+msgstr "Riippulukko edestä katsottuna"
+
+#. Title for person simple walk.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.person-simple-walk"
+msgstr "Kävelevä tikku-ukko"
+
+#. Title for umbrella.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.umbrella"
+msgstr "Avattu sateenvarjo, jossa on kaareva kahva"
+
