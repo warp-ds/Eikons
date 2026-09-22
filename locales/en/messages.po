@@ -1617,3 +1617,108 @@ msgstr "Stick figure person walking"
 #. js-lingui-explicit-id
 msgid "icon.title.umbrella"
 msgstr "An open umbrella with a curved handle"
+
+#. Title for cards three.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.cards-three"
+msgstr "Three stacked cards"
+
+#. Title for chart bar.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.chart-bar"
+msgstr "A bar chart with ascending bars"
+
+#. Title for chart pie slice.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.chart-pie-slice"
+msgstr "A pie chart with a highlighted slice"
+
+#. Title for crosshair.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.crosshair"
+msgstr "A crosshair target reticle"
+
+#. Title for crown simple.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.crown-simple"
+msgstr "Simple crown outline"
+
+#. Title for devices.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.devices"
+msgstr "A desktop monitor and mobile phone"
+
+#. Title for fire.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.fire"
+msgstr "A flame"
+
+#. Title for flow arrow.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.flow-arrow"
+msgstr "Arrow pointing up and to the right"
+
+#. Title for folder user.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.folder-user"
+msgstr "A folder with a person silhouette"
+
+#. Title for hand waving.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.hand-waving"
+msgstr "A waving hand"
+
+#. Title for identification card.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.identification-card"
+msgstr "An ID card with a photo"
+
+#. Title for map pin simple area.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.map-pin-simple-area"
+msgstr "Map pin with circular area"
+
+#. Title for puzzle piece.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.puzzle-piece"
+msgstr "A puzzle piece"
+
+#. Title for scan.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.scan"
+msgstr "A scan viewfinder frame"
+
+#. Title for seal check.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.seal-check"
+msgstr "Seal badge with checkmark"
+
+#. Title for shooting star.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.shooting-star"
+msgstr "A shooting star with a trail"
+
+#. Title for shuffle.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.shuffle"
+msgstr "Two crossed arrows"
+
+#. Title for signpost.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.signpost"
+msgstr "A directional signpost"
+
+#. Title for target.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.target"
+msgstr "A bullseye target"
+
+#. Title for user square.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.user-square"
+msgstr "User avatar in a square"
+
+#. Title for waveform.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.waveform"
+msgstr "An audio waveform"

@@ -199,6 +199,10 @@ export default {
     message: "Side view of a towed caravan",
     id: "icon.title.caravan"
   },
+  cardsthree: {
+    message: "Three stacked cards",
+    id: "icon.title.cards-three"
+  },
   carleft: {
     message: "Car facing left",
     id: "icon.title.car-left"
@@ -227,9 +231,17 @@ export default {
     message: "Charging cable",
     id: "icon.title.charger"
   },
+  chartbar: {
+    message: "A bar chart with ascending bars",
+    id: "icon.title.chart-bar"
+  },
   charter: {
     message: "Suitcase with a highlighted globe in the bottom right corner",
     id: "icon.title.charter"
+  },
+  chartpieslice: {
+    message: "A pie chart with a highlighted slice",
+    id: "icon.title.chart-pie-slice"
   },
   chatsupport: {
     message: "Two speech bubbles",
@@ -343,6 +355,14 @@ export default {
     message: "Credit card",
     id: "icon.title.credit-card"
   },
+  crosshair: {
+    message: "A crosshair target reticle",
+    id: "icon.title.crosshair"
+  },
+  crownsimple: {
+    message: "Simple crown outline",
+    id: "icon.title.crown-simple"
+  },
   cursor: {
     message: "Mouse cursor",
     id: "icon.title.cursor"
@@ -354,6 +374,10 @@ export default {
   deliverykey: {
     message: "Hand giving a key",
     id: "icon.title.delivery-key"
+  },
+  devices: {
+    message: "A desktop monitor and mobile phone",
+    id: "icon.title.devices"
   },
   diner: {
     message: "Knife and fork",
@@ -483,6 +507,10 @@ export default {
     message: "Two horizontal sliders with adjustable knobs",
     id: "icon.title.filter"
   },
+  fire: {
+    message: "A flame",
+    id: "icon.title.fire"
+  },
   fireplace: {
     message: "Fireplace",
     id: "icon.title.fireplace"
@@ -490,6 +518,14 @@ export default {
   fishing: {
     message: "Fishing hook",
     id: "icon.title.fishing"
+  },
+  flowarrow: {
+    message: "Arrow pointing up and to the right",
+    id: "icon.title.flow-arrow"
+  },
+  folderuser: {
+    message: "A folder with a person silhouette",
+    id: "icon.title.folder-user"
   },
   frontwheeldrive: {
     message: "Front-wheel drive",
@@ -551,6 +587,10 @@ export default {
     message: "Guitar",
     id: "icon.title.guitar"
   },
+  handwaving: {
+    message: "A waving hand",
+    id: "icon.title.hand-waving"
+  },
   harvester: {
     message: "Side view of a harvester",
     id: "icon.title.harvester"
@@ -606,6 +646,10 @@ export default {
   iceskater: {
     message: "Ice skating stick figure",
     id: "icon.title.iceskater"
+  },
+  identificationcard: {
+    message: "An ID card with a photo",
+    id: "icon.title.identification-card"
   },
   image: {
     message: "Placeholder image with an outline of mountains and sun",
@@ -706,6 +750,10 @@ export default {
   map: {
     message: "Paper map",
     id: "icon.title.map"
+  },
+  mappinsimplearea: {
+    message: "Map pin with circular area",
+    id: "icon.title.map-pin-simple-area"
   },
   megaphone: {
     message: "Megaphone",
@@ -879,6 +927,10 @@ export default {
     message: "Propeller",
     id: "icon.title.propeller"
   },
+  puzzlepiece: {
+    message: "A puzzle piece",
+    id: "icon.title.puzzle-piece"
+  },
   question: {
     message: "Question mark",
     id: "icon.title.question"
@@ -927,9 +979,17 @@ export default {
     message: "Scale",
     id: "icon.title.scale"
   },
+  scan: {
+    message: "A scan viewfinder frame",
+    id: "icon.title.scan"
+  },
   scrollup: {
     message: "Arrow pointing up",
     id: "icon.title.scroll-up"
+  },
+  sealcheck: {
+    message: "Seal badge with checkmark",
+    id: "icon.title.seal-check"
   },
   search: {
     message: "Magnifying glass",
@@ -967,6 +1027,10 @@ export default {
     message: "Shoe",
     id: "icon.title.shoes"
   },
+  shootingstar: {
+    message: "A shooting star with a trail",
+    id: "icon.title.shooting-star"
+  },
   shoppingcart: {
     message: "Shopping cart",
     id: "icon.title.shopping-cart"
@@ -983,6 +1047,10 @@ export default {
     message: "Two inwards pointing arrows",
     id: "icon.title.shrink"
   },
+  shuffle: {
+    message: "Two crossed arrows",
+    id: "icon.title.shuffle"
+  },
   sidebarchevronleft: {
     message: "Sidebar with a chevron pointing left",
     id: "icon.title.sidebar-chevron-left"
@@ -990,6 +1058,10 @@ export default {
   sidebarchevronright: {
     message: "Sidebar with a chevron pointing right",
     id: "icon.title.sidebar-chevron-right"
+  },
+  signpost: {
+    message: "A directional signpost",
+    id: "icon.title.signpost"
   },
   singlecylinder: {
     message: "Single cylinder",
@@ -1107,6 +1179,10 @@ export default {
     message: "Price tag",
     id: "icon.title.tag"
   },
+  target: {
+    message: "A bullseye target",
+    id: "icon.title.target"
+  },
   tasklist: {
     message: "Book with a bookmark",
     id: "icon.title.task-list"
@@ -1215,6 +1291,10 @@ export default {
     message: "Two user avatars",
     id: "icon.title.users"
   },
+  usersquare: {
+    message: "User avatar in a square",
+    id: "icon.title.user-square"
+  },
   vacuum: {
     message: "Vacuum cleaner",
     id: "icon.title.vacuum"
@@ -1250,6 +1330,10 @@ export default {
   waterpitcher: {
     message: "Water pitcher",
     id: "icon.title.water-pitcher"
+  },
+  waveform: {
+    message: "An audio waveform",
+    id: "icon.title.waveform"
   },
   weight: {
     message: "Weight with letters KG inside",

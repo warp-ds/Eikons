@@ -239,6 +239,13 @@
     "Mobility",
     "Towing"
   ],
+  "CardsThree": [
+    "cards",
+    "stack",
+    "layers",
+    "deck",
+    "collection"
+  ],
   "CarLeft": [
     "Vehicle"
   ],
@@ -275,6 +282,14 @@
     "Gas",
     "Fuel"
   ],
+  "ChartBar": [
+    "chart",
+    "bar",
+    "graph",
+    "analytics",
+    "statistics",
+    "data"
+  ],
   "Charter": [
     "Suitcase",
     "Travel",
@@ -282,6 +297,15 @@
     "Holiday",
     "Vacation",
     "Baggage"
+  ],
+  "ChartPieSlice": [
+    "chart",
+    "pie",
+    "graph",
+    "analytics",
+    "statistics",
+    "data",
+    "segment"
   ],
   "ChatSupport": [
     "Customer service",
@@ -469,6 +493,21 @@
     "Mastercard",
     "Money"
   ],
+  "Crosshair": [
+    "crosshair",
+    "aim",
+    "target",
+    "focus",
+    "precision"
+  ],
+  "CrownSimple": [
+    "crown",
+    "royalty",
+    "king",
+    "queen",
+    "premium",
+    "achievement"
+  ],
   "Cursor": [
     "Arrow",
     "Pointer",
@@ -487,6 +526,14 @@
     "Shipping",
     "Key",
     "Handover"
+  ],
+  "Devices": [
+    "devices",
+    "responsive",
+    "screen",
+    "monitor",
+    "phone",
+    "multi-device"
   ],
   "Diner": [
     "Restaurant",
@@ -678,6 +725,14 @@
     "Adjust",
     "Settings"
   ],
+  "Fire": [
+    "fire",
+    "flame",
+    "hot",
+    "trending",
+    "popular",
+    "burn"
+  ],
   "Fireplace": [
     "Flame"
   ],
@@ -686,6 +741,21 @@
     "Activity",
     "Hobby",
     "Hook"
+  ],
+  "FlowArrow": [
+    "flow",
+    "arrow",
+    "direction",
+    "navigate",
+    "move"
+  ],
+  "FolderUser": [
+    "folder",
+    "user",
+    "personal",
+    "documents",
+    "files",
+    "account"
   ],
   "FrontWheelDrive": [
     "FWD",
@@ -774,6 +844,14 @@
     "Instrument",
     "Taxonomy"
   ],
+  "HandWaving": [
+    "hand",
+    "wave",
+    "hello",
+    "greeting",
+    "welcome",
+    "goodbye"
+  ],
   "Harvester": [
     "Thresher",
     "Agriculture",
@@ -850,6 +928,14 @@
   "IceSkater": [
     "Sports",
     "Taxonomy"
+  ],
+  "IdentificationCard": [
+    "id",
+    "identification",
+    "card",
+    "badge",
+    "credential",
+    "identity"
   ],
   "Image": [
     "Thumbnail",
@@ -973,6 +1059,14 @@
     "Navigation",
     "Pin",
     "Geo"
+  ],
+  "MapPinSimpleArea": [
+    "map",
+    "pin",
+    "location",
+    "area",
+    "zone",
+    "radius"
   ],
   "Megaphone": [
     "Loudspeaker",
@@ -1246,6 +1340,14 @@
     "Boat",
     "Engine"
   ],
+  "PuzzlePiece": [
+    "puzzle",
+    "piece",
+    "integration",
+    "plugin",
+    "extension",
+    "module"
+  ],
   "Question": [
     "Help",
     "Resources",
@@ -1308,8 +1410,23 @@
     "Balance",
     "Weighing"
   ],
+  "Scan": [
+    "scan",
+    "qr",
+    "barcode",
+    "camera",
+    "capture",
+    "reader"
+  ],
   "ScrollUp": [
     "Direction"
+  ],
+  "SealCheck": [
+    "seal",
+    "check",
+    "verified",
+    "badge",
+    "approved"
   ],
   "Search": [
     "Magnifier",
@@ -1369,6 +1486,14 @@
     "Shoe size",
     "Clothing"
   ],
+  "ShootingStar": [
+    "star",
+    "shooting",
+    "meteor",
+    "wish",
+    "special",
+    "featured"
+  ],
   "ShoppingCart": [
     "Purchase"
   ],
@@ -1387,6 +1512,13 @@
     "Collapse",
     "Zoom out"
   ],
+  "Shuffle": [
+    "shuffle",
+    "random",
+    "mix",
+    "reorder",
+    "rearrange"
+  ],
   "SidebarChevronLeft": [
     "Navigation",
     "Panel",
@@ -1402,6 +1534,14 @@
     "Drawer",
     "Menu",
     "Dock"
+  ],
+  "Signpost": [
+    "signpost",
+    "direction",
+    "wayfinding",
+    "guide",
+    "navigate",
+    "sign"
   ],
   "SingleCylinder": [
     "Piston",
@@ -1567,6 +1707,14 @@
     "Label",
     "Cost"
   ],
+  "Target": [
+    "target",
+    "goal",
+    "bullseye",
+    "aim",
+    "objective",
+    "focus"
+  ],
   "TaskList": [
     "Planning",
     "Todo"
@@ -1698,6 +1846,13 @@
     "Person",
     "Avatar"
   ],
+  "UserSquare": [
+    "user",
+    "avatar",
+    "profile",
+    "person",
+    "square"
+  ],
   "Vacuum": [
     "Cleaning",
     "Dust"
@@ -1743,6 +1898,14 @@
   "WaterPitcher": [
     "Can",
     "Liquid"
+  ],
+  "Waveform": [
+    "waveform",
+    "audio",
+    "sound",
+    "music",
+    "frequency",
+    "equalizer"
   ],
   "Weight": [
     "Load",
