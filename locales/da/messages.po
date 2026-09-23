@@ -1621,3 +1621,108 @@ msgstr "Gående tændstiksfigur"
 msgid "icon.title.umbrella"
 msgstr "En åben paraply med et buet håndtag"
 
+#. Title for cards three.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.cards-three"
+msgstr "Tre stablede kort"
+
+#. Title for chart bar.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.chart-bar"
+msgstr "Et søjlediagram i stigende rækkefølge"
+
+#. Title for chart pie slice.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.chart-pie-slice"
+msgstr "Et lagkagediagram med et fremhævet stykke"
+
+#. Title for crosshair.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.crosshair"
+msgstr "Et trådkors-sigte"
+
+#. Title for crown simple.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.crown-simple"
+msgstr "Enkelt omrids af en krone"
+
+#. Title for devices.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.devices"
+msgstr "En computerskærm og en mobiltelefon"
+
+#. Title for fire.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.fire"
+msgstr "En flamme"
+
+#. Title for flow arrow.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.flow-arrow"
+msgstr "En pil, der peger opad mod højre"
+
+#. Title for folder user.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.folder-user"
+msgstr "En mappe med silhuetten af et menneske"
+
+#. Title for hand waving.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.hand-waving"
+msgstr "En hånd, der vinker"
+
+#. Title for identification card.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.identification-card"
+msgstr "Et ID-kort med et foto"
+
+#. Title for map pin simple area.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.map-pin-simple-area"
+msgstr "En nål på et kort med et cirkelformet område"
+
+#. Title for puzzle piece.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.puzzle-piece"
+msgstr "En puslespilsbrik"
+
+#. Title for scan.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.scan"
+msgstr "En scanningsramme"
+
+#. Title for seal check.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.seal-check"
+msgstr "Et seglbadge med et flueben"
+
+#. Title for shooting star.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.shooting-star"
+msgstr "Et stjerneskud med hale"
+
+#. Title for shuffle.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.shuffle"
+msgstr "To pile lagt over kors"
+
+#. Title for signpost.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.signpost"
+msgstr "Et vejviserskilt"
+
+#. Title for target.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.target"
+msgstr "En skydeskive med plet"
+
+#. Title for user square.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.user-square"
+msgstr "Brugeravatar i en firkant"
+
+#. Title for waveform.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.waveform"
+msgstr "En lydbølgeform"
+
