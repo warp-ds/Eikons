@@ -1621,3 +1621,108 @@ msgstr "Kävelevä tikku-ukko"
 msgid "icon.title.umbrella"
 msgstr "Avattu sateenvarjo, jossa on kaareva kahva"
 
+#. Title for cards three.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.cards-three"
+msgstr "Kolmen kortin pino"
+
+#. Title for chart bar.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.chart-bar"
+msgstr "Noususuuntainen pylväsdiagrammi"
+
+#. Title for chart pie slice.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.chart-pie-slice"
+msgstr "Ympyräkaavio ja korostettu siivu"
+
+#. Title for crosshair.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.crosshair"
+msgstr "Kiikaritähtäin"
+
+#. Title for crown simple.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.crown-simple"
+msgstr "Kruunun ääriviivat"
+
+#. Title for devices.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.devices"
+msgstr "Tietokoneen näyttö ja matkapuhelin"
+
+#. Title for fire.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.fire"
+msgstr "Liekki"
+
+#. Title for flow arrow.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.flow-arrow"
+msgstr "Oikealle osoittava mutkainen nuoli"
+
+#. Title for folder user.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.folder-user"
+msgstr "Kansio ja ihmisen siluetti"
+
+#. Title for hand waving.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.hand-waving"
+msgstr "Heiluttava käsi"
+
+#. Title for identification card.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.identification-card"
+msgstr "Valokuvallinen henkilökortti"
+
+#. Title for map pin simple area.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.map-pin-simple-area"
+msgstr "Kartan osoitin ympyränmuotoisella alueella"
+
+#. Title for puzzle piece.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.puzzle-piece"
+msgstr "Palapelin pala"
+
+#. Title for scan.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.scan"
+msgstr "Skannerin etsin"
+
+#. Title for seal check.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.seal-check"
+msgstr "Sinetti ja valintamerkki"
+
+#. Title for shooting star.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.shooting-star"
+msgstr "Tähdenlento"
+
+#. Title for shuffle.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.shuffle"
+msgstr "Kaksi ristikkäistä nuolta"
+
+#. Title for signpost.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.signpost"
+msgstr "Tienviitta"
+
+#. Title for target.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.target"
+msgstr "Maalitaulu"
+
+#. Title for user square.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.user-square"
+msgstr "Käyttäjän kuvake neliön sisällä"
+
+#. Title for waveform.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.waveform"
+msgstr "Ääniaalto"
+
