@@ -343,6 +343,10 @@ export default {
     message: "Confetti bursting out from a cone",
     id: "icon.title.confetti"
   },
+  conversationgrouped: {
+    message: "Two outlined squares beside grouped horizontal lines.",
+    id: "icon.title.conversation-grouped"
+  },
   cookie: {
     message: "Chocolate chip cookie with two bite marks",
     id: "icon.title.cookie"
@@ -818,6 +822,10 @@ export default {
   organize: {
     message: "Up and down arrows separated by a horizontal line",
     id: "icon.title.organize"
+  },
+  package: {
+    message: "A closed cardboard package",
+    id: "icon.title.package"
   },
   paperclip: {
     message: "Paperclip",
