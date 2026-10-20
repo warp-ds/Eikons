@@ -1726,3 +1726,13 @@ msgstr "En brukeravatar i en firkant"
 msgid "icon.title.waveform"
 msgstr "En lydbølge"
 
+
+#. Title for conversation grouped.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.conversation-grouped"
+msgstr "To firkantede omriss ved siden av grupperte horisontale linjer."
+
+#. Title for package.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.package"
+msgstr "En lukket pakke av papp"

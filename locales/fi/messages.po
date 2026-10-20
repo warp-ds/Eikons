@@ -1726,3 +1726,13 @@ msgstr "Käyttäjän kuvake neliön sisällä"
 msgid "icon.title.waveform"
 msgstr "Ääniaalto"
 
+
+#. Title for conversation grouped.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.conversation-grouped"
+msgstr "Kaksi neliön ääriviivaa ryhmiteltyjen vaakaviivojen vieressä."
+
+#. Title for package.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.package"
+msgstr "Suljettu pahvipaketti"
