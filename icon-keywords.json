@@ -472,6 +472,13 @@
     "Festive",
     "Tada"
   ],
+  "ConversationGrouped": [
+    "conversation",
+    "grouped",
+    "messages",
+    "list",
+    "discussion"
+  ],
   "Cookie": [
     "Biscuit",
     "Snack",
@@ -1151,6 +1158,13 @@
   "Organize": [
     "Sorting",
     "Order"
+  ],
+  "Package": [
+    "package",
+    "box",
+    "parcel",
+    "shipping",
+    "delivery"
   ],
   "Paperclip": [
     "Binders",

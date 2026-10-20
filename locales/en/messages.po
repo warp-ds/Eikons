@@ -1722,3 +1722,13 @@ msgstr "User avatar in a square"
 #. js-lingui-explicit-id
 msgid "icon.title.waveform"
 msgstr "An audio waveform"
+
+#. Title for conversation grouped.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.conversation-grouped"
+msgstr "Two outlined squares beside grouped horizontal lines."
+
+#. Title for package.svg icon
+#. js-lingui-explicit-id
+msgid "icon.title.package"
+msgstr "A closed cardboard package"
