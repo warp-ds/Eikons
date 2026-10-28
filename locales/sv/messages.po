@@ -1726,13 +1726,13 @@ msgstr "Användaravatar i kvadrat"
 msgid "icon.title.waveform"
 msgstr "Ljudvåg"
 
-
 #. Title for conversation grouped.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.conversation-grouped"
-msgstr "Två fyrkantiga konturer bredvid grupperade vågräta linjer."
+msgstr "Siluetter av två kvadrater bredvid horisontella linjer."
 
 #. Title for package.svg icon
 #. js-lingui-explicit-id
 msgid "icon.title.package"
-msgstr "Ett stängt paket av kartong"
+msgstr "En stängd kartong"
+
